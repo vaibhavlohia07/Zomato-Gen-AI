@@ -16,7 +16,6 @@ Zomato-Gen-AI/
 │   ├── pizza_hut_menu.json
 │   ├── prakash_hotel_menu.json
 │   └── waffle_by_nature_menu.json
-├── models/
 ├── README.md
 ├── app.py
 ├── data_cleaning.py
