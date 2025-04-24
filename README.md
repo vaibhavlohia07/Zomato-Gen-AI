@@ -82,11 +82,11 @@ pip install -r requirements.txt
 
 ## Implementation Details & Design Decisions
 
-## scraper_runner.py
+### Module: `scraper_runner.py`
 - Acts as the **driver script** to initiate scraping across multiple Zomato URLs.
 - Maps restaurant names to their respective URLs and invokes `scrape_zomato()` from `scraper.py`.
 
-## scraper.py
+### Module: `scraper.py`
 Scrapes restaurant information and menu data from a Zomato restaurant page and saves it in structured JSON format.
 - Uses **Selenium WebDriver** (headless Chrome) to render and interact with the dynamic content of Zomato pages.
 - Clicks all "Read more" buttons to expand hidden descriptions.
@@ -126,7 +126,8 @@ This module processes raw restaurant menu data extracted from Zomato (stored in 
 **Returns:**  
 A list of cleaned and enriched text strings describing restaurants and their menu items, suitable for use in retrieval-based systems.
 
-  ## chatbot.py
+### Module: `chatbot.py`
+
 **Purpose:**  
 Serves as the core logic for the restaurant chatbot. It handles embedding generation, similarity-based document retrieval, and response generation using an LLM (either Gemini or LLaMA).
 
