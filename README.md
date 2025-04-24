@@ -80,13 +80,13 @@ pip install -r requirements.txt
 
 ---
 
-## Implementation Details & Design Decisions
+# Implementation Details & Design Decisions
 
-### scraper_runner.py
+## scraper_runner.py
 - Acts as the **driver script** to initiate scraping across multiple Zomato URLs.
 - Maps restaurant names to their respective URLs and invokes `scrape_zomato()` from `scraper.py`.
 
-### scraper.py
+## scraper.py
 Scrapes restaurant information and menu data from a Zomato restaurant page and saves it in structured JSON format.
 - Uses **Selenium WebDriver** (headless Chrome) to render and interact with the dynamic content of Zomato pages.
 - Clicks all "Read more" buttons to expand hidden descriptions.
@@ -97,11 +97,11 @@ Scrapes restaurant information and menu data from a Zomato restaurant page and s
   - Estimated spice level (based on keywords in description)
 - Automatically saves the scraped data to a JSON file in the `/menu` folder.
 
-  ### data_cleaning.py
+  ## data_cleaning.py
   This module processes raw restaurant menu data extracted from Zomato (stored in JSON format), cleans and enriches it using preprocessing techniques and the Gemini LLM, and prepares it for embedding and retrieval in the chatbot.
-  
-  - Text Cleaning (`clean_text`)
-     -Normalizes and standardizes string content: converts to lowercase, removes symbols, trims whitespace.
+
+- Text Cleaning (`clean_text`)
+  - Normalizes and standardizes string content: converts to lowercase, removes symbols, trims whitespace.
 
   - **Price Normalization (`normalize_price`)**  
   Extracts numeric values from price fields, removing symbols and unwanted characters.
