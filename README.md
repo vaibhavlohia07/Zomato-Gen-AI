@@ -120,8 +120,8 @@ Scrapes restaurant information and menu data from a Zomato restaurant page and s
   - Outputs a flat list of all text chunks and saves them to `database.csv`.
 
   ## chatbot.py
-  **Purpose:**
-  - Serves as the core logic for the restaurant chatbot. It handles embedding generation, similarity-based document retrieval, and response generation using an LLM (Gemini).
+**Purpose:**  
+Serves as the core logic for the restaurant chatbot. It handles embedding generation, similarity-based document retrieval, and response generation using an LLM (either Gemini or LLaMA).
 
  **Key Components:**
 
