@@ -76,6 +76,13 @@ pip install -r requirements.txt
                                         | - FAISS Vector Store   |             
                                         | - Gemini/LLaMA model   |             
                                         +------------------------+             
+                                                    |                          
+                                                    v                          
+                                        +------------------------+             
+                                        |  Streamlit App (Local) |             
+                                        | - Hosted in browser    |             
+                                        | - User inputs/query UI |             
+                                        +------------------------+             
 ```
 
 ---
