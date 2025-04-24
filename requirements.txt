@@ -1,1 +1,10 @@
-
+streamlit
+pandas
+numpy
+faiss-cpu 
+requests
+sentence-transformers
+python-dotenv
+langchain
+llama-cpp-python
+google-generativeai
