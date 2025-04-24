@@ -132,7 +132,7 @@ This module processes raw restaurant menu data extracted from Zomato (stored in 
 **Returns:**  
 A list of cleaned and enriched text strings describing restaurants and their menu items, suitable for use in retrieval-based systems.
 
-### Module: `chatbot.py`
+### Module: `rag.py`
 
 **Purpose:**  
 Serves as the core logic for the restaurant chatbot. It handles embedding generation, similarity-based document retrieval, and response generation using an LLM (either Gemini or LLaMA).
