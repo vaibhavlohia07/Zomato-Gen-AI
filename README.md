@@ -30,8 +30,8 @@ Zomato-Gen-AI/
 ## Setup
 Config (.env)
 ```sh
-hf_token = "YOUR-API"
-gemini_token = "PUBLIC-API"
+hf_token = "YOUR-API-KEY"
+gemini_token = "PUBLIC-API-KEY"
 ```
 
 Environment
@@ -40,3 +40,10 @@ conda create -n myenv python=3.10
 conda activate myenv
 pip install -r requirements.txt
 ```
+
+## 📁 Table of Contents
+1. [System Architecture](#system-architecture)
+2. [Implementation Details & Design Decisions](#implementation-details--design-decisions)
+3. [Challenges Faced & Solutions](#challenges-faced--solutions)
+4. [Future Improvement Opportunities](#future-improvement-opportunities)
+
