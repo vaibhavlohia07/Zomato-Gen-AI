@@ -1,3 +1,11 @@
+"""
+Restaurant Menu Processing Module
+
+This module processes restaurant menu data from JSON files, cleans and normalizes the data,
+and generates descriptive information about restaurants and their menu items using the Gemini AI model.
+The processed data is saved to a CSV file for further use.
+"""
+
 import pandas as pd
 import re
 import json
@@ -7,10 +15,20 @@ import google.generativeai as genai
 from dotenv import load_dotenv
 import os
 
+# Load environment variables
 load_dotenv()
 GEMINI_TOKEN = os.getenv("gemini_token")
 
 def clean_text(text):
+    """
+    Clean and normalize text by removing special characters and extra whitespace.
+    
+    Parameters:
+        text (str or None): The text to clean.
+        
+    Returns:
+        str: Cleaned text in lowercase with special characters removed.
+    """
     if pd.isna(text):
         return "unknown"
     text = str(text).lower()
@@ -19,15 +37,31 @@ def clean_text(text):
     return text
 
 def normalize_price(price):
+    """
+    Extract numeric values from price strings.
+    
+    Parameters:
+        price (str or None): The price string to normalize.
+        
+    Returns:
+        str: Normalized price as a string containing only digits and decimal points.
+             Returns "0" if the price is empty or invalid.
+    """
     if pd.isna(price):
         return "0"
     price = re.sub(r"[^0-9.]", "", str(price))
     return price if price else "0"
 
 def apply_synonyms(text):
-    '''
-    Handle synonyms to the text based on predefined rules.
-    '''
+    """
+    Handle synonyms in text based on predefined rules.
+    
+    Parameters:
+        text (str): The text to process.
+        
+    Returns:
+        str: Text with synonyms replaced according to predefined patterns.
+    """
     synonyms = {
         r"\bnon-veg\b": "non vegetarian",
         r"\bnonveg\b": "non vegetarian",
@@ -41,6 +75,19 @@ def apply_synonyms(text):
     return text
 
 def load_and_clean_menus_from_json(folder_path="menu"):
+    """
+    Load restaurant menu data from JSON files, clean it, and generate descriptive information.
+    
+    This function processes JSON files containing restaurant menu data, cleans and normalizes
+    the text, generates restaurant descriptions using the Gemini AI model, and creates
+    descriptive text for each menu item. The processed data is saved to a CSV file.
+    
+    Parameters:
+        folder_path (str): Path to the folder containing JSON menu files. Defaults to "menu".
+        
+    Returns:
+        list: A list of strings containing descriptive information about restaurants and their menu items.
+    """
     documents = []
     for file in Path(folder_path).glob("*.json"):
         with open(file, "r", encoding="utf-8") as f:
@@ -89,4 +136,3 @@ their contact number is {contact}.
         for doc in documents:
             writer.writerow([doc])
     return documents
-
