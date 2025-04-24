@@ -169,6 +169,12 @@ A conversational response and updated query history.
 | Text inconsistencies across restaurants (non-veg vs non vegetarian etc.) | Implemented regex-based synonym replacement (e.g., "nonveg" → "non vegetarian"). |
 | JSON structure variability | Standardized output format with proper schema (menu, restaurant block). |
 | Gemini’s long latency in repeated calls | Minimized calls only during restaurant-level summarization and used local embedding for menus. |
+| **Context length limits** in LLM prompts causing truncation or cutoff | Introduced a retrieval step using FAISS to select the top-k most relevant text chunks to keep prompts concise and contextually accurate. |
+| 🧾 **Poor query understanding for vague/ambiguous follow-ups** | Maintained a rolling **chat history** and incorporated it into the prompt so that the model can resolve pronouns and references like "it" or "that restaurant". |
+| 🔍 **Low accuracy with keyword-only retrieval** | Switched to **semantic similarity** search using **SentenceTransformers** and FAISS instead of naive keyword matching. |
+| 🔄 **Duplicate embedding computation** for every query | Cached embeddings and used efficient in-memory FAISS index creation to minimize latency. |
+| 🤖 **Inconsistent LLaMA model responses** | Transitioned to **Gemini API** (via `google.generativeai`) for more consistent and cleaner outputs in production use. |
+| 🔍 **Missing or incomplete restaurant details (e.g. cuisine, timings)** during scraping | Used **Gemini model** to generate enriched content for such fields via prompt-based completion. |
 
 ---
 
