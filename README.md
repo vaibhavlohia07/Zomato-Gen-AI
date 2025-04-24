@@ -121,7 +121,7 @@ Scrapes restaurant information and menu data from a Zomato restaurant page and s
 
   ## chatbot.py
   **Purpose:**
-   - Serves as the core logic for the restaurant chatbot. It handles embedding generation, similarity-based document retrieval, and response generation using an LLM (Gemini).
+  - Serves as the core logic for the restaurant chatbot. It handles embedding generation, similarity-based document retrieval, and response generation using an LLM (Gemini).
 ---
 
 ## Challenges Faced & Solutions
