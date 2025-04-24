@@ -80,7 +80,7 @@ pip install -r requirements.txt
 
 ---
 
-# Implementation Details & Design Decisions
+## Implementation Details & Design Decisions
 
 ## scraper_runner.py
 - Acts as the **driver script** to initiate scraping across multiple Zomato URLs.
@@ -103,14 +103,21 @@ Scrapes restaurant information and menu data from a Zomato restaurant page and s
 - Text Cleaning (`clean_text`)
   - Normalizes and standardizes string content: converts to lowercase, removes symbols, trims whitespace.
 
-  - **Price Normalization (`normalize_price`)**  
-  Extracts numeric values from price fields, removing symbols and unwanted characters.
-  - 
-- Cleans and normalizes text, price, and synonyms.
-- Loads JSON files from `/menu`, and extracts:
-  - Restaurant summary (via **Gemini** prompt).
-  - Item descriptions into structured text chunks.
-- Stores all output into a CSV (`database.csv`) and returns text corpus for embedding.
+- Price Normalization (`normalize_price`) 
+  - Extracts numeric values from price fields, removing symbols and unwanted characters.
+
+- Synonym Handling (`apply_synonyms`)**  
+  Replaces domain-specific terms like “non-veg”, “combo”, or “spicy” with standardized phrases to ensure semantic consistency.
+
+- Menu Data Enrichment (`load_and_clean_menus_from_json`)**
+  - Loads JSON files from the `/menu` directory.
+  - Extracts restaurant-level metadata: name, location, and contact info.
+  - Sends a structured prompt to **Gemini** to generate:
+    - Restaurant summary
+    - Types of cuisine served
+    - Operational hours
+  - Combines this info with detailed item data (category, item name, description, price, veg/non-veg, spice level).
+  - Outputs a flat list of all text chunks and saves them to `database.csv`.
 
   ### chatbot.py
 - Loads text data from `data_cleaning`.
