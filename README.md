@@ -87,7 +87,7 @@ pip install -r requirements.txt
 - Maps restaurant names to their respective URLs and invokes `scrape_zomato()` from `scraper.py`.
 
 ### scraper.py
--Scrapes restaurant information and menu data from a Zomato restaurant page and saves it in structured JSON format.
+Scrapes restaurant information and menu data from a Zomato restaurant page and saves it in structured JSON format.
 - Uses **Selenium WebDriver** (headless Chrome) to render and interact with the dynamic content of Zomato pages.
 - Clicks all "Read more" buttons to expand hidden descriptions.
 - Parses restaurant name, location, contact, menu categories, and items using **BeautifulSoup**.
@@ -98,6 +98,9 @@ pip install -r requirements.txt
 - Automatically saves the scraped data to a JSON file in the `/menu` folder.
 
   ### data_cleaning.py
+  This module processes raw restaurant menu data extracted from Zomato (stored in JSON format), cleans and enriches it using preprocessing techniques and the Gemini LLM, and prepares it for embedding and retrieval in the chatbot.
+- key function:-
+   -
 - Cleans and normalizes text, price, and synonyms.
 - Loads JSON files from `/menu`, and extracts:
   - Restaurant summary (via **Gemini** prompt).
