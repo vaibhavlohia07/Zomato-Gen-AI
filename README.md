@@ -167,7 +167,7 @@ A conversational response and updated query history.
 
 ---
 
-## 🧩 Challenges Faced & Solutions
+## Challenges Faced & Solutions
 
 | **Challenge** | **Solution** |
 |---------------|--------------|
