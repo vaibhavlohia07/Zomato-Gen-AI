@@ -27,3 +27,9 @@ Zomato-Gen-AI/
 └── scraper_runner.py
 
 ```
+## Setup
+Config (.env)
+```sh
+hf_token = "YOUR-API"
+gemini_token = "PUBLIC-API"
+```
