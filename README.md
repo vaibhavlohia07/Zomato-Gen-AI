@@ -97,19 +97,23 @@ Scrapes restaurant information and menu data from a Zomato restaurant page and s
   - Estimated spice level (based on keywords in description)
 - Automatically saves the scraped data to a JSON file in the `/menu` folder.
 
-  ## data_cleaning.py
-  This module processes raw restaurant menu data extracted from Zomato (stored in JSON format), cleans and enriches it using preprocessing techniques and the Gemini LLM, and prepares it for embedding and retrieval in the chatbot.
+### Module: `data_cleaning.py`
 
-- Text Cleaning (`clean_text`)
-  - Normalizes and standardizes string content: converts to lowercase, removes symbols, trims whitespace.
+**Purpose:**  
+This module processes raw restaurant menu data extracted from Zomato (stored in JSON format), cleans and enriches it using preprocessing techniques and the Gemini LLM, and prepares it for embedding and retrieval in the chatbot.
 
-- Price Normalization (`normalize_price`) 
-  - Extracts numeric values from price fields, removing symbols and unwanted characters.
+**Key Functionalities:**
 
-- Synonym Handling (`apply_synonyms`)
-  - Replaces domain-specific terms like “non-veg”, “combo”, or “spicy” with standardized phrases to ensure semantic consistency.
+- **Text Cleaning (`clean_text`)**  
+  Normalizes and standardizes string content: converts to lowercase, removes symbols, trims whitespace.
 
-- Menu Data Enrichment (`load_and_clean_menus_from_json`)
+- **Price Normalization (`normalize_price`)**  
+  Extracts numeric values from price fields, removing symbols and unwanted characters.
+
+- **Synonym Handling (`apply_synonyms`)**  
+  Replaces domain-specific terms like “non-veg”, “combo”, or “spicy” with standardized phrases to ensure semantic consistency.
+
+- **Menu Data Enrichment (`load_and_clean_menus_from_json`)**
   - Loads JSON files from the `/menu` directory.
   - Extracts restaurant-level metadata: name, location, and contact info.
   - Sends a structured prompt to **Gemini** to generate:
@@ -118,6 +122,9 @@ Scrapes restaurant information and menu data from a Zomato restaurant page and s
     - Operational hours
   - Combines this info with detailed item data (category, item name, description, price, veg/non-veg, spice level).
   - Outputs a flat list of all text chunks and saves them to `database.csv`.
+
+**Returns:**  
+A list of cleaned and enriched text strings describing restaurants and their menu items, suitable for use in retrieval-based systems.
 
   ## chatbot.py
 **Purpose:**  
@@ -150,6 +157,7 @@ Serves as the core logic for the restaurant chatbot. It handles embedding genera
 
 **Returns:**  
 A conversational response and updated query history.
+
 ---
 
 ## Challenges Faced & Solutions
