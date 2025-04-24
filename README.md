@@ -41,9 +41,111 @@ conda activate myenv
 pip install -r requirements.txt
 ```
 
-## 📁 Table of Contents
+## Table of Contents
 1. [System Architecture](#system-architecture)
 2. [Implementation Details & Design Decisions](#implementation-details--design-decisions)
 3. [Challenges Faced & Solutions](#challenges-faced--solutions)
 4. [Future Improvement Opportunities](#future-improvement-opportunities)
 
+---
+
+## System Architecture
+
+```
+             +----------------+             +--------------------+             
+             | scraper_runner | --------->  |    scraper.py      |             
+             +----------------+             +--------------------+             
+                                                    |                          
+                                                    v                          
+                                        +------------------------+             
+                                        |   JSON menu files in   |             
+                                        |      /menu folder      |             
+                                        +------------------------+             
+                                                    |                          
+                                                    v                          
+                                        +------------------------+             
+                                        |  data_cleaning.py      |             
+                                        | - Cleaning & formatting|             
+                                        | - Gemini restaurant info|            
+                                        +------------------------+             
+                                                    |                          
+                                                    v                          
+                                        +------------------------+             
+                                        |   chatbot.py           |             
+                                        | - Embeddings via SBERT |             
+                                        | - FAISS Vector Store   |             
+                                        | - Gemini/LLaMA model   |             
+                                        +------------------------+             
+```
+
+---
+
+## Implementation Details & Design Decisions
+
+### scraper_runner.py
+- Acts as the **driver script** to initiate scraping across multiple Zomato URLs.
+- Maps restaurant names to their respective URLs and invokes `scrape_zomato()` from `scraper.py`.
+
+### scraper.py
+- Uses **Selenium** with **BeautifulSoup** to scrape:
+  - Restaurant name, location, contact info.
+  - Menu sections with items, descriptions, prices, veg/non-veg type, and spice level.
+- Outputs a structured JSON stored in the `/menu` directory.
+
+  ### data_cleaning.py
+- Cleans and normalizes text, price, and synonyms.
+- Loads JSON files from `/menu`, and extracts:
+  - Restaurant summary (via **Gemini** prompt).
+  - Item descriptions into structured text chunks.
+- Stores all output into a CSV (`database.csv`) and returns text corpus for embedding.
+
+  ### chatbot.py
+- Loads text data from `data_cleaning`.
+- Uses **SentenceTransformers (MiniLM)** to generate embeddings.
+- Constructs a **FAISS vector store** for fast similarity search.
+- Retrieves top-k relevant chunks for user queries.
+- Passes them as **context to Gemini or LLaMA** for generating conversational answers.
+
+---
+
+## Challenges Faced & Solutions
+
+| Challenge | Solution |
+|----------|----------|
+| Dynamic elements and lazy loading on Zomato pages | Automated "Read more" button clicks using Selenium with retry loops. |
+| Text inconsistencies across restaurants (non-veg vs non vegetarian etc.) | Implemented regex-based synonym replacement (e.g., "nonveg" → "non vegetarian"). |
+| JSON structure variability | Standardized output format with proper schema (menu, restaurant block). |
+| Gemini’s long latency in repeated calls | Minimized calls only during restaurant-level summarization and used local embedding for menus. |
+
+---
+
+## Future Improvement Opportunities
+
+1. **Frontend UI**: Integrate with a web interface using Streamlit or Flask.
+2. **Live Chat Memory**: Use session/state-based history persistence beyond `query_llama`.
+3. **Multilingual Support**: Pre-process input/output using translation models.
+4. **Enhance Dataset Schema**: Add delivery/dine-in ratings, popular items, cuisine tags.
+5. **Parallel Scraping**: Enable multi-threading or async-based scrapers for speed.
+6. **Model Upgrades**: Replace MiniLM with larger contextual models (e.g., `all-mpnet-base-v2`).
+
+
+---
+
+## Web Interface via Streamlit
+
+A user-friendly web interface was developed using **Streamlit** to make the chatbot accessible and interactive.
+
+### app.py Highlights
+- Uses `streamlit` for a clean UI.
+- Initializes the model and FAISS index on app load using `@st.cache_resource`.
+- Accepts user input via a text box.
+- Retrieves relevant document chunks using FAISS and passes them to the `query_llama` function.
+- Maintains a running history of past queries and responses.
+- Displays the bot's most recent answer and the full conversation history.
+
+### Features:
+- Lightweight and fast loading with caching.
+- Context-aware follow-up question handling.
+- Integrated Gemini or LLaMA response engine for conversational output.
+
+---
