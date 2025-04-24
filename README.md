@@ -180,12 +180,40 @@ A conversational response and updated query history.
 
 ## Future Improvement Opportunities
 
-1. **Frontend UI**: Integrate with a web interface using Streamlit or Flask.
-2. **Live Chat Memory**: Use session/state-based history persistence beyond `query_llama`.
-3. **Multilingual Support**: Pre-process input/output using translation models.
-4. **Enhance Dataset Schema**: Add delivery/dine-in ratings, popular items, cuisine tags.
-5. **Parallel Scraping**: Enable multi-threading or async-based scrapers for speed.
-6. **Model Upgrades**: Replace MiniLM with larger contextual models (e.g., `all-mpnet-base-v2`).
+1. **Persistent Chat History**  
+   Implement a backend database (e.g., SQLite or Firebase) to store user sessions, allowing for persistent chat context across sessions and devices.
+
+2. **User Authentication System**  
+   Add login functionality using `streamlit-authenticator` or OAuth for personalized chat sessions and access control.
+
+3. **UI/UX Enhancements**  
+   Improve the Streamlit interface with:
+   - Accordion-style collapsible restaurant sections
+   - Rich card views for menu items
+   - Sidebar filters (e.g., by cuisine, veg/non-veg, price)
+
+4. **Live Updates from Zomato**  
+   Automate periodic re-scraping of restaurant data to ensure the information remains up-to-date.
+
+5. **Parallel Scraping Engine**  
+   Improve scraping performance with `asyncio`, `aiohttp`, or multi-threading to handle multiple restaurant pages simultaneously.
+
+6. **Multilingual Support**  
+   Use translation APIs or models to support queries in multiple languages for a wider audience.
+
+7. **Query Auto-Suggestions**  
+   Implement real-time search suggestions or autocomplete based on popular queries or restaurant/menu keywords.
+
+8. **Model Switcher for Backend**  
+   Provide an option to dynamically switch between Gemini and local LLaMA models based on user preference or availability.
+
+9. **Feedback Loop and Analytics**  
+   Allow users to rate responses and gather usage analytics to refine prompts, improve model outputs, and optimize FAQ answers.
+
+10. **Mobile Responsiveness**  
+    Enhance the Streamlit app layout for better viewing on smartphones and tablets using custom CSS or responsive layout features.
+
+
 
 
 ---
