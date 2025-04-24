@@ -69,7 +69,7 @@ pip install -r requirements.txt
                                                     |                          
                                                     v                          
                                         +------------------------+             
-                                        |   chatbot.py           |             
+                                        |   rag.py               |             
                                         | - Embeddings via SBERT |             
                                         | - FAISS Vector Store   |             
                                         | - Gemini/LLaMA model   |             
