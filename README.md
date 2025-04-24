@@ -87,10 +87,15 @@ pip install -r requirements.txt
 - Maps restaurant names to their respective URLs and invokes `scrape_zomato()` from `scraper.py`.
 
 ### scraper.py
-- Uses **Selenium** with **BeautifulSoup** to scrape:
-  - Restaurant name, location, contact info.
-  - Menu sections with items, descriptions, prices, veg/non-veg type, and spice level.
-- Outputs a structured JSON stored in the `/menu` directory.
+-Scrapes restaurant information and menu data from a Zomato restaurant page and saves it in structured JSON format.
+- Uses **Selenium WebDriver** (headless Chrome) to render and interact with the dynamic content of Zomato pages.
+- Clicks all "Read more" buttons to expand hidden descriptions.
+- Parses restaurant name, location, contact, menu categories, and items using **BeautifulSoup**.
+- Each menu item includes:
+  - Name, Price, Description
+  - Vegetarian/Non-Vegetarian type
+  - Estimated spice level (based on keywords in description)
+- Automatically saves the scraped data to a JSON file in the `/menu` folder.
 
   ### data_cleaning.py
 - Cleans and normalizes text, price, and synonyms.
