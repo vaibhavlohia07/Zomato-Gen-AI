@@ -167,6 +167,25 @@ A conversational response and updated query history.
 
 ---
 
+
+## Web Interface via Streamlit
+
+A user-friendly web interface was developed using **Streamlit** to make the chatbot accessible and interactive.
+
+### app.py Highlights
+- Uses `streamlit` for a clean UI.
+- Initializes the model and FAISS index on app load using `@st.cache_resource`.
+- Accepts user input via a text box.
+- Retrieves relevant document chunks using FAISS and passes them to the `query_llama` function.
+- Maintains a running history of past queries and responses.
+- Displays the bot's most recent answer and the full conversation history.
+
+### Features:
+- Lightweight and fast loading with caching.
+- Context-aware follow-up question handling.
+- Integrated Gemini or LLaMA response engine for conversational output.
+
+---
 ## Challenges Faced & Solutions
 
 | **Challenge** | **Solution** |
@@ -224,21 +243,3 @@ A conversational response and updated query history.
 
 ---
 
-## Web Interface via Streamlit
-
-A user-friendly web interface was developed using **Streamlit** to make the chatbot accessible and interactive.
-
-### app.py Highlights
-- Uses `streamlit` for a clean UI.
-- Initializes the model and FAISS index on app load using `@st.cache_resource`.
-- Accepts user input via a text box.
-- Retrieves relevant document chunks using FAISS and passes them to the `query_llama` function.
-- Maintains a running history of past queries and responses.
-- Displays the bot's most recent answer and the full conversation history.
-
-### Features:
-- Lightweight and fast loading with caching.
-- Context-aware follow-up question handling.
-- Integrated Gemini or LLaMA response engine for conversational output.
-
----
