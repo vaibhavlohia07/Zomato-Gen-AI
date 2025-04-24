@@ -48,7 +48,6 @@ pip install -r requirements.txt
 4. [Future Improvement Opportunities](#future-improvement-opportunities)
 
 ---
-
 ## System Architecture
 
 ```
