@@ -101,7 +101,7 @@ Scrapes restaurant information and menu data from a Zomato restaurant page and s
   This module processes raw restaurant menu data extracted from Zomato (stored in JSON format), cleans and enriches it using preprocessing techniques and the Gemini LLM, and prepares it for embedding and retrieval in the chatbot.
 
 - Text Cleaning (`clean_text`)
- - Normalizes and standardizes string content: converts to lowercase, removes symbols, trims whitespace.
+  - Normalizes and standardizes string content: converts to lowercase, removes symbols, trims whitespace.
 
 - Price Normalization (`normalize_price`) 
   - Extracts numeric values from price fields, removing symbols and unwanted characters.
@@ -120,8 +120,9 @@ Scrapes restaurant information and menu data from a Zomato restaurant page and s
   - Outputs a flat list of all text chunks and saves them to `database.csv`.
 
   ## chatbot.py
-- Serves as the core logic for the restaurant chatbot. It handles embedding generation, similarity-based document retrieval, and response generation using an LLM (either Gemini or LLaMA).
-- 
+  **Purpose:** 
+- Serves as the core logic for the restaurant chatbot. It handles embedding generation, similarity-based document retrieval, and response generation using an LLM (Gemini).
+  - 
 ---
 
 ## Challenges Faced & Solutions
