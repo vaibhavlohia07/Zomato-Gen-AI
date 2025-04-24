@@ -1,0 +1,1074 @@
+{
+    "restaurant": {
+        "name": "Domino's Pizza",
+        "location": "Ground Floor, New No. 1068 & Old No. 321(1-2), 8, Civil Lines, opp. Methodist Girls college, Roorkee, Uttarakhand 247667, Roorkee Locality, Roorkee",
+        "contact": "+911332275420",
+        "operating_hours": "10 AM - 11 PM"
+    },
+    "menu": [
+        {
+            "category": "Today's Exclusive Dishes",
+            "items": [
+                {
+                    "name": "Fiery Jalapeno & Paprika",
+                    "price": "\u20b9179",
+                    "description": "Spiciest veg pizza with jalapeno & red paprika toppings and a new spicy peri peri sauce.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Peppy Paneer Pizza",
+                    "price": "\u20b9269",
+                    "description": "Flavorful trio of juicy paneer, crisp capsicum with spicy red paprika",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Farmhouse Pizza",
+                    "price": "\u20b9269",
+                    "description": "Delightful combination of onion, capsicum, tomato & grilled mushroom. Available in Cheese Burst, Wheat Thin Crust and Pan Crust options.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Big Big Pizza",
+            "items": [
+                {
+                    "name": "Big Big 6in1 Pizza - Non Veg",
+                    "price": "\u20b91894",
+                    "description": "6 Chicken Bangers in 1 Epic Pan Pizza: Pepper Barbeque Chicken, Chicken Dominator, Chicken Fiesta, Spiced Double Chicken, Chicken Pepperoni, Chicken Golden Delight",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Big Big 6in1 Pizza - Veg",
+                    "price": "\u20b91394",
+                    "description": "6 Veggie Blockbusters in 1 Epic Pan Pizza: Corn N Cheese, Peppy Paneer, Farmhouse, Mexican Green Wave, Veg Paradise, Margherita",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Cheese Burst - 3 New Flavours",
+            "items": [
+                {
+                    "name": "Peppy Paneer Cheese Burst",
+                    "price": "\u20b9348",
+                    "description": "Now in 3 New Flavours - Molten Cheese Indulgence with Flavorful trio of juicy paneer, crisp capsicum & spicy red paprika",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Farmhouse Cheese Burst",
+                    "price": "\u20b9348",
+                    "description": "Now in 3 New Flavours - Molten Cheese Indulgence with combination of onion, capsicum, tomato & grilled mushroom",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veggie Paradise Cheese Burst",
+                    "price": "\u20b9348",
+                    "description": "Now in 3 New Flavours - Molten Cheese Indulgence with Golden corn, black olives, capsicum & red paprika",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Margherita Cheese Burst",
+                    "price": "\u20b9188",
+                    "description": "Now in 3 New Flavours - Molten Cheese Indulgence with delight of 100% real mozzarella cheese",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Spiced Double Chicken Pizza",
+                    "price": "\u20b9388",
+                    "description": "Molten Cheese Indulgence with combination of Pepper Barbecue Chicken & Peri Peri Chicken for Chicken lovers",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Mexican Green Wave Cheese Burst",
+                    "price": "\u20b9348",
+                    "description": "Now in 3 New Flavours - Molten Cheese Indulgence with Mexican herbs sprinkled on onion, capsicum, tomato & jalapeno",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Pepper Barbecue Chicken Cheese Burst",
+                    "price": "\u20b9338",
+                    "description": "Now in 3 New Flavours - Molten Cheese Indulgence with Pepper Barbecue chicken for that extra zing",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Indi Tandoori Paneer Cheese Burst",
+                    "price": "\u20b9398",
+                    "description": "Now in 3 New Flavours - Molten Cheese Indulgence with spicy tandoori paneer, capsicum, red paprika & mint mayo",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Indi Chicken Tikka Cheese Burst",
+                    "price": "\u20b9448",
+                    "description": "Now in 3 New Flavours - Molten Cheese Indulgence with wholesome flavour of tandoori masala topped with Chicken tikka, onion, red paprika & mint mayo",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Double Cheese Margherita Cheese Burst",
+                    "price": "\u20b9298",
+                    "description": "Now in 3 New Flavours - Molten Cheese Indulgence with loaded delight of 100% real mozzarella cheese",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cheese n Corn Cheese Burst",
+                    "price": "\u20b9298",
+                    "description": "Molten Cheese Indulgence with a delectable combination of sweet & juicy golden corn",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Golden Delight Cheese Burst",
+                    "price": "\u20b9398",
+                    "description": "Now in 3 New Flavours - Molten Cheese Indulgence with Double pepper Barbecue chicken, golden corn and extra cheese",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Fiesta Cheese Burst",
+                    "price": "\u20b9398",
+                    "description": "Now in 3 New Flavours - Molten Cheese Indulgence with Grilled chicken rashers, peri-peri chicken, onion & capsicum",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Fresh Veggie Cheese Burst",
+                    "price": "\u20b9298",
+                    "description": "Now in 3 New Flavours - Molten Cheese Indulgence with combination of onion & capsicum",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Pepperoni Cheese Burst",
+                    "price": "\u20b9448",
+                    "description": "Now in 3 New Flavours - Molten Cheese Indulgence with American classic flavored Chicken Pepperoni, topped with extra cheese",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Achari Do Pyaza Cheese Burst",
+                    "price": "\u20b9268",
+                    "description": "Now in 3 New Flavours - Molten Cheese Indulgence with tangy & spicy achari flavours on a super cheesy onion pizza",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "The 5 Chicken Feast Cheese Burst",
+                    "price": "\u20b9478",
+                    "description": "Molten Cheese Indulgence Loaded with 5 different Chicken toppings - grilled Chicken Rashers, Chicken MeatBalls, Chicken Tikka, herby Chicken Sausage & Chicken Keema",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Sausage Cheese Burst",
+                    "price": "\u20b9288",
+                    "description": "Now in 3 New Flavours - Molten Cheese Indulgence with American classic herbed chicken sausage",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Fiery Jalapeno & Paprika Pizza",
+                    "price": "\u20b9258",
+                    "description": "Molten Cheese Indulgence with jalapeno & red paprika toppings along with spicy peri peri sauce",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Fiery Sausage & Paprika Pizza",
+                    "price": "\u20b9328",
+                    "description": "Molten Cheese Indulgence with spicy & herby chicken sausage and red paprika toppings along with spicy peri peri sauce",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Blazing Onion & Paprika Pizza",
+                    "price": "\u20b9258",
+                    "description": "Molten Cheese Indulgence with onion & red paprika toppings along with spicy peri peri sauce",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Blazing Chicken & Paprika Pizza",
+                    "price": "\u20b9328",
+                    "description": "Molten Cheese Indulgence with a combination of chicken keema & red paprika toppings along with spicy peri peri sauce",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Spicy"
+                }
+            ]
+        },
+        {
+            "category": "Chicken Feast",
+            "items": [
+                {
+                    "name": "Spicy Boneless Thighs",
+                    "price": "\u20b9159",
+                    "description": "Crispy, juicy boneless thighs seasoned with flavorful chili for a delicious spicy kick. Crunchy on the outside, tender on the inside!",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Mini Garlic Cheesiken Rice",
+                    "price": "\u20b9119",
+                    "description": "Juicy Chicken| Creamy Garlic Sauce| Molten Cheese with Rice & Veggies - Onion, Jalapeno & Capsicum",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mini Tangy Tomato Cheesiken Rice",
+                    "price": "\u20b9119",
+                    "description": "Tender Chicken| Zesty Tomato Sauce| Molten Cheese with Rice & Veggies - Onion, Paprika & Capsicum",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mini Hot & Fiery Cheesiken Rice",
+                    "price": "\u20b9119",
+                    "description": "Tender Chicken| Guntur Chilli Sauce| Molten Cheese with Rice & Veggies - Onion, Olive & Capsicum",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Spicy Chicken Pops",
+                    "price": "\u20b9119",
+                    "description": "Crispy Chicken Popcorn| Bold Chilli sprinkle| Fiery burst of flavour",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Spicy Chicken Meatballs",
+                    "price": "\u20b9119",
+                    "description": "Tender & Juicy Meat Balls| Guntur Chilli Seasoning | Bliss for Chicken Lovers",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Tangy Tomato Cheesiken",
+                    "price": "\u20b9169",
+                    "description": "Tender Chicken| Tangy Tomato Sauce| Molten Cheese| Crunchy Veggies - Onion, Paprika & Capsicum",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Garlic Cheesiken",
+                    "price": "\u20b9169",
+                    "description": "Tender Chicken| Creamy Garlic Sauce| Molten cheese| Crunchy Veggies - Onion, Paprika & Capsicum",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Hot & Fiery Cheesiken",
+                    "price": "\u20b9169",
+                    "description": "Juicy Chicken| Spicy Guntur Chilli Sauce | Molten Cheese with Veggies - Onion, Black Olives & Capsicum",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Tangy Tomato Cheesiken Rice",
+                    "price": "\u20b9219",
+                    "description": "Tender Chicken| Zesty Tomato Sauce| Molten Cheese with Rice & Veggies - Onion, Paprika & Capsicum",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Garlic Cheesiken Rice",
+                    "price": "\u20b9219",
+                    "description": "Juicy Chicken| Creamy Garlic Sauce| Molten Cheese with Rice & Veggies - Onion, Jalapeno & Capsicum",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Hot & Fiery Cheesiken Rice",
+                    "price": "\u20b9219",
+                    "description": "Tender Chicken| Guntur Chilli Sauce| Molten Cheese with Rice & Veggies - Onion, Olive & Capsicum",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Cream and Onion Dip",
+                    "price": "\u20b937.14",
+                    "description": "A rich and creamy dip with a delicious blend of onion and spices, inspired by international flavors!",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Peri Peri Dip",
+                    "price": "\u20b937.14",
+                    "description": "A spicy and tangy dip with bold peri peri flavors!",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Korean Sweet Chilli Dip",
+                    "price": "\u20b937.14",
+                    "description": "A sweet and spicy dip inspired by bold Korean flavors!",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Rich Garlic Dip",
+                    "price": "\u20b937.14",
+                    "description": "A creamy dip with a rich, bold garlic flavor!",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Cheese Volcano",
+            "items": [
+                {
+                    "name": "Cheese Volcano Peppy Paneer",
+                    "price": "\u20b9329",
+                    "description": "Centre loaded with Molten Cheese & topped with peppy Paneer, Capsicum & Red Paprika\n*Contains non-edible container under the Pizza",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cheese Volcano Farmhouse",
+                    "price": "\u20b9329",
+                    "description": "Centre loaded with Molten Cheese & topped with Onion, Capsicum, Tomato & Grilled Mushroom\n*Contains non-edible container under the Pizza",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cheese Volcano Veg Paradise",
+                    "price": "\u20b9329",
+                    "description": "Centre loaded with Molten Cheese & topped with Golden Corn, Black Olives, Capsicum & Red Paprika\n*Contains non-edible container under the Pizza",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Corn & Cheese Volcano",
+                    "price": "\u20b9329",
+                    "description": "Centre loaded with Molten Cheese & topped with juicy Golden Corn\n*Contains non-edible container under the Pizza",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cheese Volcano BBQ Chicken",
+                    "price": "\u20b9379",
+                    "description": "Centre loaded with Molten Cheese & topped with Pepper BBQ Chicken\n*Contains non-edible container under the Pizza",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cheese Volcano Chicken Delight",
+                    "price": "\u20b9379",
+                    "description": "Centre loaded with Molten Cheese & topped with Pepper BBQ Chicken & Golden Corn\n*Contains non-edible container under the Pizza",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cheese Volcano Double Chicken",
+                    "price": "\u20b9379",
+                    "description": "Centre loaded with Molten Cheese & topped with Pepper BBQ Chicken & Peri Peri Chicken.\n*Contains non-edible container under the Pizza",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Cheese Volcano Blazing Chicken",
+                    "price": "\u20b9379",
+                    "description": "Centre loaded with Molten Cheese & topped with Chicken Keema & Red Paprika with our spicy Peri Peri Sauce\n*Contains non-edible container under the Pizza",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Spicy"
+                }
+            ]
+        },
+        {
+            "category": "Party Combo",
+            "items": [
+                {
+                    "name": "Special Party for 4 (Veg) @Rs. 180 off",
+                    "price": "\u20b91009",
+                    "description": "Medium Peppy Paneer + Medium Farmhouse + Garlic Bread + 2 Carbonated Beverage (Beverage variant is subject to availability)",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Pizza Party for 4 (Veg) @Rs. 180 Off",
+                    "price": "\u20b9999",
+                    "description": "Meal for 4: Regular Veg Extravaganza + Regular Indi Tandoori Paneer + Regular Farmhouse + Regular Veggie Paradise",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Party for 4 (Veg) @Rs. 130 off",
+                    "price": "\u20b9839",
+                    "description": "Meal for 4: Medium Margherita + Medium Farmhouse with Garlic Bread & 2 Carbonated Beverage (Beverage variant is subject to availability)",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Extravaganza Party for 2 (Veg) @Rs. 110 off",
+                    "price": "\u20b9709",
+                    "description": "Meal for 2: Regular Veg Extravaganza + Regular Indi Tandoori Paneer with Chocolava Cake & Carbonated Beverage (Beverage variant is subject to availability)",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Special Party for 2 (Veg) @Rs. 105 off",
+                    "price": "\u20b9609",
+                    "description": "Meal for 2: Regular Pepper BBQ Chicken + Regular Chicken Dominator with Garlic Bread & Carbonated Beverage (Beverage variant is subject to availability)",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Match Day Veg Combo @Rs. 110 off",
+                    "price": "\u20b9699",
+                    "description": "Meal for 2: Regular Veg Extravaganza + Regular Indi Tandoori Paneer with Chocolava Cake & Carbonated Beverage (Beverage variant is subject to availability)",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Party for 2 (Veg) @Rs. 75 off",
+                    "price": "\u20b9479",
+                    "description": "Regular Margherita +Regular  Farmhouse + Garlic Bread + Pepsi",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Value Meals",
+            "items": [
+                {
+                    "name": "Work from Home Veg Treat",
+                    "price": "\u20b9239",
+                    "description": "Reg Cheese & Corn Pizza + Carbonated Beverage (Beverage variant is subject to availability)",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Meal for 2: Farmhouse & Veg Extravaganza",
+                    "price": "\u20b9619",
+                    "description": "Regular Farmhouse & Regular Veg Extravaganza +Garlic Bread+ Carbonated Beverage (Beverage variant is subject to availability)",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Choco Lava Cake + Beverage",
+                    "price": "\u20b9149",
+                    "description": "Get the indulgent Choco Lava Cake & Carbonated Beverage for just 149 (Beverage variant is subject to availability)",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Garlic Breadsticks + Cheesy Dip",
+                    "price": "\u20b9137.57",
+                    "description": "Enjoy the all-time favorite Garlic Breadsticks with the indulgent Cheesy Dip",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Meal for 2: Pepper BBQ Chicken & Chicken Dominator",
+                    "price": "\u20b9659",
+                    "description": "Regular Pepper BBQ Chicken & Regular Chicken Dom+Garlic Bread+ Carbonated Beverage (Beverage variant is subject to availability)",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Meal for 4: Veg Extravaganza & Indi Tandoori Paneer",
+                    "price": "\u20b91119",
+                    "description": "Medium Veg Extravaganza & Medium Indi Tandoori Paneer+Garlic Bread + 2 Carbonated Beverage (Beverage variant is subject to availability)",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Pizza Party for 4 (Veg) @Rs. 180 Off",
+                    "price": "\u20b9999",
+                    "description": "Meal for 4: Regular Veg Extravaganza + Regular Indi Tandoori Paneer + Regular Farmhouse + Regular Veggie Paradise",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Movie Marathons Specials (N. Veg)",
+                    "price": "\u20b9365",
+                    "description": "Reg Pepper BBQ Chicken Pizza + Garlic Bread + Pepsi",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Garlic Breadsticks + Beverage",
+                    "price": "\u20b9149",
+                    "description": "Enjoy the all time favourite Garlic Breadsticks with Carbonated Beverage (Beverage variant is subject to availability)",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Movie Marathons Specials (Veg)",
+                    "price": "\u20b9325",
+                    "description": "Reg Fresh Veggie Pizza + Garlic Bread + Pepsi",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Ultimate Cheese Burst Deluxe Combo (Veg)",
+                    "price": "\u20b9769",
+                    "description": "Medium Farmhouse Cheese Burst Pizza + Choco Lava Cake + Garlic Bread",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Hot and Sweet Veg Combo @ Rs. 75 Off",
+                    "price": "\u20b9449",
+                    "description": "Reg Blazing Onion & Paprika + Reg Fiery Jalapeno & Paprika + CLC + Carbonated Beverage (Beverage variant is subject to availability)",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Ultimate Cheese Burst Premium Combo (N Veg)",
+                    "price": "\u20b9905",
+                    "description": "Medium Chicken Dominator Cheese Burst Pizza + Choco Lava Cake + Garlic Bread",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Ultimate Cheese Burst Deluxe Combo (N Veg)",
+                    "price": "\u20b9759",
+                    "description": "Medium Pepper BBQ Chicken Cheese Burst Pizza + Choco Lava Cake + Garlic Bread",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Work from Home Non Veg Treat",
+                    "price": "\u20b9229",
+                    "description": "Reg Chicken Sausage Pizza + Carbonated Beverage (Beverage variant is subject to availability)",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Meal for 4: Veg Cheesy Pizza",
+                    "price": "\u20b9799",
+                    "description": "Regular Fresh Veggie + Regular Peppy Paneer + Regular Corn n Cheese + Regular Farmhouse",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Spicy Veg Party Combo @ Rs. 140 off",
+                    "price": "\u20b9849",
+                    "description": "Med Blazing On & Paprika + Med Fiery Jalapeno & Paprika + 2GB + 2 Carbonated Beverage (Beverage variant is subject to availability)",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Spicy Veg Combo @ Rs. 75 Off",
+                    "price": "\u20b9449",
+                    "description": "Reg Blazing On & Paprika + Reg Fiery Jalapeno & Paprika + GB + Carbonated Beverage (Beverage variant is subject to availability)",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Meal for 4: Veg Loaded Pizza",
+                    "price": "\u20b9949",
+                    "description": "Regular Veg Extravaganza + Regular Veg Paradise Pizza + Regular Indi Tandoori Paneer + Regular Farmhouse",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Ultimate Cheese Burst Premium Combo (Veg)",
+                    "price": "\u20b9855",
+                    "description": "Medium Veg Extravaganza Cheese Burst Pizza + Choco Lava Cake + Garlic Bread",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Meal for 4: Margherita & Peppy Paneer",
+                    "price": "\u20b9789",
+                    "description": "Medium Margherita & Medium Peppy Paneer+Garlic Bread + 2 Carbonated Beverage (Beverage variant is subject to availability)",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Match Day Veg Combo @Rs. 110 off",
+                    "price": "\u20b9699",
+                    "description": "Meal for 2: Regular Veg Extravaganza + Regular Indi Tandoori Paneer with Chocolava Cake & Carbonated Beverage (Beverage variant is subject to availability)",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Meal for 2: Veg Paradise & Farmhouse",
+                    "price": "\u20b9589",
+                    "description": "Regular Veg Paradise & Regular Farmhouse +Garlic Bread+ Carbonated Beverage (Beverage variant is subject to availability)",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Dominos Classics",
+            "items": [
+                {
+                    "name": "Margherita Pizza",
+                    "price": "\u20b9109",
+                    "description": "Classic delight with 100% real mozzarella cheese. Available in Cheese Burst, Wheat Thin Crust and Pan Crust options.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Blazing Onion & Paprika",
+                    "price": "\u20b9179",
+                    "description": "Hot & spicy pizza with onion & red paprika toppings and a new spicy peri peri sauce on a Domino's cheesy base.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Fiery Jalapeno & Paprika",
+                    "price": "\u20b9179",
+                    "description": "Spiciest veg pizza with jalapeno & red paprika toppings and a new spicy peri peri sauce.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Double Cheese Margherita Pizza",
+                    "price": "\u20b9219",
+                    "description": "A classic delight loaded with extra 100% real mozzarella cheese",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Fresh Veggie Pizza",
+                    "price": "\u20b9219",
+                    "description": "Delectable combination of onion & capsicum, a veggie lovers pick",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cheese n Corn Pizza",
+                    "price": "\u20b9219",
+                    "description": "A delectable combination of sweet & juicy golden corn",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Peppy Paneer Pizza",
+                    "price": "\u20b9269",
+                    "description": "Flavorful trio of juicy paneer, crisp capsicum with spicy red paprika",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Spicy"
+                }
+            ]
+        },
+        {
+            "category": "Loaded Pizza",
+            "items": [
+                {
+                    "name": "Veggie Paradise Pizza",
+                    "price": "\u20b9269",
+                    "description": "The awesome foursome! Golden corn, black olives, capsicum, red paprika",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Farmhouse Pizza",
+                    "price": "\u20b9269",
+                    "description": "Delightful combination of onion, capsicum, tomato & grilled mushroom. Available in Cheese Burst, Wheat Thin Crust and Pan Crust options.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mexican Green Wave Pizza",
+                    "price": "\u20b9269",
+                    "description": "Mexican herbs sprinkled on onion, capsicum, tomato & jalapeno",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Extravaganza Pizza",
+                    "price": "\u20b9319",
+                    "description": "Black olives, capsicum, onion, grilled mushroom, corn, tomato, jalapeno & extra cheese. Available in Cheese Burst, Wheat Thin Crust and Pan Crust options.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cheese Overload",
+                    "price": "\u20b9349",
+                    "description": "Cheese Overloaded Pizza with a medley of Mozzarella, Cheddar & Ghost Pepper flavoured Cheese.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Flavours of India",
+            "items": [
+                {
+                    "name": "Achari Do Pyaza Pizza",
+                    "price": "\u20b9189",
+                    "description": "Tangy & spicy achari flavours on a super cheesy onion pizza- as desi as it gets!",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Corn n Cheese Paratha Pizza",
+                    "price": "\u20b9189",
+                    "description": "A crazy fusion like never before. A delicious fusion of corn stuffed paratha and cheesy pizza.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Indi Tandoori Paneer Pizza",
+                    "price": "\u20b9319",
+                    "description": "It is hot. It is spicy. It is oh-so-Indian. Tandoori paneer with capsicum, red paprika & mint mayo. Available in Cheese Burst, Wheat Thin Crust and Pan Crust options.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Chicken Keema Paratha Pizza",
+                    "price": "\u20b9259",
+                    "description": "Flavourful & meaty chicken keema paratha and goodness of cheesy pizza coming together in an epic crossover!",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Pizza Mania",
+            "items": [
+                {
+                    "name": "Paneer, Onion & Capsicum with Desi Makhani Sauce",
+                    "price": "\u20b9129",
+                    "description": "Authentic Indian Flavor of Makhani Sauce loaded with juicy Paneer, crisp Capsicum and crunchy Onion.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Loaded",
+                    "price": "\u20b9189",
+                    "description": "Tomato, Jalapeno, Corn, Grilled Mushroom & crushed Aranchini Patty in a fresh pan crust",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer & Capsicum with Videshi Hot Sauce",
+                    "price": "\u20b9109",
+                    "description": "Internationally inspired Hot sauce to cater your spice cravings loaded with juicy Paneer and crisp Capsicum.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Capsicum & Red Paprika with Videshi Hot Sauce",
+                    "price": "\u20b989",
+                    "description": "Internationally inspired Hot sauce to cater your spice cravings loaded with crisp Capsicum and spicy Red Paprika.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Golden Corn",
+                    "price": "\u20b989",
+                    "description": "Sweet & juicy golden corn for that lipsmacking taste",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Onion",
+                    "price": "\u20b969",
+                    "description": "Our classic Pizza Mania topped with crunchy Onions",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Classic",
+                    "price": "\u20b949",
+                    "description": "A classic pizza topped with sprinkle of basil and parsley herbs",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Garlic Breads & More",
+            "items": [
+                {
+                    "name": "Korean Corn & Jalapeno Garlic Bread",
+                    "price": "\u20b9189",
+                    "description": "Freshly baked garlic bread infused with Korean Sweet Chili Sauce, Molten cheese, juicy corn & tangy jalapeno",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Fiery Corn & Jalapeno Garlic Bread",
+                    "price": "\u20b9189",
+                    "description": "Freshly baked garlic bread infused with Spicy Guntur Sauce, Molten cheese, juicy corn & tangy jalapeno",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Makhani Corn & Jalapeno Garlic Bread",
+                    "price": "\u20b9189",
+                    "description": "Freshly baked garlic bread infused with Creamy Makhani Sauce, Molten cheese, juicy corn & tangy jalapeno",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Korean Paneer Tikka Garlic Bread",
+                    "price": "\u20b9189",
+                    "description": "Freshly Baked Stuffed Garlic Bread infused with Korean Sweet Chili Sauce, Molten Cheese, Onion and Paneer Tikka fillings",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Fiery Paneer Tikka Garlic Bread",
+                    "price": "\u20b9189",
+                    "description": "Freshly Baked Stuffed Garlic Bread infused with Spicy Guntur Sauce, Molten Cheese, Onion and Paneer Tikka fillings",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Makhani Paneer Tikka Garlic Bread",
+                    "price": "\u20b9189",
+                    "description": "Freshly Baked Stuffed Garlic Bread infused with Creamy Makhani Sauce, Molten Cheese, Onion and Paneer Tikka fillings",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Korean Pepperoni Garlic Bread",
+                    "price": "\u20b9189",
+                    "description": "Freshly Baked Garlic Bread infused with Korean Sweet Chili Sauce, Delectable Chicken Pepperoni & molten Cheese",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Fiery Pepperoni Garlic Bread",
+                    "price": "\u20b9189",
+                    "description": "Freshly Baked Garlic Bread infused with Spicy Guntur Sauce, Delectable Chicken Pepperoni & molten Cheese",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Makhani Pepperoni Garlic Bread",
+                    "price": "\u20b9189",
+                    "description": "Freshly Baked Garlic Bread infused with Creamy Makhani Sauce, Delectable Chicken Pepperoni & molten Cheese",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Garlic Breadsticks + Beverage",
+                    "price": "\u20b9149",
+                    "description": "Enjoy the all time favourite Garlic Breadsticks with Carbonated Beverage (Beverage variant is subject to availability)",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Garlic Breadsticks + Cheesy Dip",
+                    "price": "\u20b9137.57",
+                    "description": "Enjoy the all-time favorite Garlic Breadsticks with the indulgent Cheesy Dip",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Parcel + Beverage",
+                    "price": "\u20b983",
+                    "description": "Get Veg Parcel+ Mini Carbonated Beverage (Beverage variant is subject to availability)",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Garlic Breadsticks",
+                    "price": "\u20b9119",
+                    "description": "Baked to perfection. Your perfect pizza partner! Tastes best with dip",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Classic Stuffed Garlic Bread",
+                    "price": "\u20b9159",
+                    "description": "Freshly baked garlic bread with cheese, juicy corn & tangy jalapeno",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cheesy Dip",
+                    "price": "\u20b928.57",
+                    "description": "An all-time favorite with your Garlic Breadsticks & Stuffed Garlic Bread for a Cheesy indulgence",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Tikka Stuffed Garlic Bread",
+                    "price": "\u20b9169",
+                    "description": "Freshly Baked Stuffed Garlic Bread with Cheese, Onion and Paneer Tikka fillings. Comes with a dash of Basil Parsley Sprinkle on top",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Burger Pizza - Classic Veg",
+                    "price": "\u20b969",
+                    "description": "Oven-baked buns with cheese, tomato & capsicum in creamy mayo",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Burger Pizza - Classic Non Veg",
+                    "price": "\u20b989",
+                    "description": "Oven-baked buns with cheese, peri-peri chicken, tomato & capsicum in creamy mayo",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Burger Pizza - Premium Veg",
+                    "price": "\u20b989",
+                    "description": "Oven-baked buns with cheese, paneer, tomato, capsicum & red paprika in creamy mayo",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Parcel",
+                    "price": "\u20b949",
+                    "description": "Snacky bites! Pizza rolls with paneer & creamy harissa sauce",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Parcel",
+                    "price": "\u20b959",
+                    "description": "Snacky bites! Pizza rolls with chicken sausage & creamy harissa sauce",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Harissa Dip",
+                    "price": "\u20b946.67",
+                    "description": "A spicy & peppery pizza dip which can help you add the right amount of spiciness to your favorite pizza slices.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Basil Pesto Dip",
+                    "price": "\u20b946.67",
+                    "description": "Your perfect pizza partner!  Savour your pizza slices with this new rich, herby & salty dip with the goodness of basil leaves & nuts that will surely give you a new flavor dimension!",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Tomato Ketchup",
+                    "price": "\u20b91.90",
+                    "description": "Goodness of Tomato Ketchup in mini sachets",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Choco Lava Cake + Beverage",
+                    "price": "\u20b9149",
+                    "description": "Get the indulgent Choco Lava Cake & Carbonated Beverage for just 149 (Beverage variant is subject to availability)",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Taco Mexicana Veg (Single)",
+                    "price": "\u20b979",
+                    "description": "Truly irresistible! Crispy taco with veg patty & creamy harissa sauce",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Desserts",
+            "items": [
+                {
+                    "name": "Choco Lava Cake Gift Hamper",
+                    "price": "\u20b9325",
+                    "description": "Dive into the ultimate dessert experience with our Lavalicious Combo that\u2019s Made to Share. \n*We don't include a spoon or napkin to support sustainability",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Choco Lava Cake + Beverage",
+                    "price": "\u20b9149",
+                    "description": "Get the indulgent Choco Lava Cake & Carbonated Beverage for just 149 (Beverage variant is subject to availability)",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Red Velvet Lava Cake",
+                    "price": "\u20b9139",
+                    "description": "A truly indulgent experience with sweet and rich red velvet cake on a creamy cheese flavoured base to give a burst of flavour in every bite!",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Choco Lava Cake",
+                    "price": "\u20b9109",
+                    "description": "Chocolate lovers delight! Indulgent, gooey molten lava inside chocolate cake",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Butterscotch Mousse Cake",
+                    "price": "\u20b9103.81",
+                    "description": "Sweet temptation! Butterscotch flavored mousse",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Drinks (Beverages)",
+            "items": [
+                {
+                    "name": "Coca Cola 475ml",
+                    "price": "\u20b966.70",
+                    "description": "Sparkling and Refreshing Beverage",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Coca Cola Zero Sugar 330ml",
+                    "price": "\u20b966.70",
+                    "description": "Maximum Taste, Zero Sugar",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Nagpur Orange",
+                    "price": "\u20b971.43",
+                    "description": "Enjoy Oranges from Nagpur with the goodness of Fiber",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "B Natural Alphonsos from Ratnagiri (300 ml)",
+                    "price": "\u20b971.43",
+                    "description": "Alphonsos only from Ratnagiri with the Goodness of Fiber",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "B Natural Mixed Fruit from Himalayas (300 ml)",
+                    "price": "\u20b971.43",
+                    "description": "Premium fruits from Himalayas with the Goodness of Fiber",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Sprite 475ml",
+                    "price": "\u20b966.70",
+                    "description": "Refreshing clear drink with a natural lemon flavour",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Aquavess Water (500ml)",
+                    "price": "\u20b928.58",
+                    "description": "Packaged Drinking Water",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                }
+            ]
+        }
+    ]
+}

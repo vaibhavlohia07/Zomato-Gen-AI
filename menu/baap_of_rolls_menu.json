@@ -1,0 +1,432 @@
+{
+    "restaurant": {
+        "name": "Baap Of Rolls",
+        "location": "22, Civil Lines, Haridwar Road, Roorkee Locality, Roorkee",
+        "contact": "+911141182222",
+        "operating_hours": "10 AM - 11 PM"
+    },
+    "menu": [
+        {
+            "category": "Exclusive 100% Wheat Paratha Kaathi Rolls",
+            "items": [
+                {
+                    "name": "Paneer Wheat Roll",
+                    "price": "\u20b9169",
+                    "description": "Indulge in the perfect combination of textures and flavors with our irresistible kathi roll. Experience the mouthwatering delight of our skillfully prepared paneer filling, encased in a 100% wheat laccha paratha. Each bite is a burst of flavor, thanks to our secret masala. Elevating the taste further are the crisp onions, tangy jalapeno mayonnaise, and refreshing mint chutney. This satisfying and nourishing treat will leave you craving for more.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Tandoori Paneer Wheat Roll",
+                    "price": "\u20b9229",
+                    "description": "Introducing our Kathi Roll, a mouthwatering delight with a luscious paneer filling, balanced with onions, tandoori mayo, and mint chutney. Encased in a wheat laccha paratha, each bite is a flavor explosion. Don't miss our special masala for that extra touch of magic. Immerse yourself in a symphony of textures and flavors for an unforgettable dining experience.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Veg Kaathi Rolls",
+            "items": [
+                {
+                    "name": "Aloo Roll",
+                    "price": "\u20b989",
+                    "description": "A roll of comfort! An aloo roll consisting of a flattened dough filled with spiced mashed potatoes and other ingredients, such as onions and chutneys. Order and let the good times roll.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chesse Jalapeno Corn Roll",
+                    "price": "\u20b9139",
+                    "description": "The Cheesy Jalapeno Corn Roll is a mouth-watering snack that combines the flavors of spicy jalapeno sauce and creamy cheese with sweet corn. The mixture is then rolled in laccha paratha and served with mint sauce, Tomato ketchup and Mayo.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Masala Corn Roll",
+                    "price": "\u20b9129",
+                    "description": "The Masala Corn Roll is a delicious and savory roll that's sure to satisfy your taste buds. This roll features a blend of sweet corn that has been cooked with aromatic spices to create a flavorful filling and it is then topped with mayo. Rolled in laccha paratha and served with mint sauce, tomato ketchup.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Peppery Veggie Roll",
+                    "price": "\u20b9129",
+                    "description": "Here to satisfy those big spicy cravings. Our Peppery Veggie Roll includes a variety of vegetables, seasoned with spices, and rolled up in laccha paratha. Now thats wow!",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Veggie Korma Roll",
+                    "price": "\u20b9129",
+                    "description": "A treasure trove of unique Indian flavours. Veggie Korma roll consisting of spiced vegetables cooked in a rich cashew and melon seed gravy. Rolled in laccha paratha and served with the mint sauce and tomato ketchup.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veggie Roll",
+                    "price": "\u20b9109",
+                    "description": "Disguised as a party sparkle. This Veggie Roll is a medly of fresh vegetables and other ingredients, rolled in laccha paratha served with mint sauce and tomato ketchup.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Chaap Kaathi Rolls",
+            "items": [
+                {
+                    "name": "Achari Soya Chaap Roll",
+                    "price": "\u20b9179",
+                    "description": "Experience the unique and delicious flavors of our Achari Chaap Roll, where tangy pickle meets succulent chaap pieces. rolled in a flaky laccha paratha and topped with onions, sauces, and our secret masala. Not your average snack!",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Afghani Soya Chaap Roll",
+                    "price": "\u20b9189",
+                    "description": "Indulge in the bold and tangy flavors of our Afghani Chaap Roll. Succulent chaap pieces marinated in flavorful spices and cream, rolled in a flaky laccha paratha, and topped with onions, sauces, and our secret masala.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Butter Chaap Roll",
+                    "price": "\u20b9189",
+                    "description": "Savor the scrumptious flavors of a butter chaap roll. Juicy chaap pieces marinated in a flavorful blend, cooked with Amul butter and a tomato-based gravy, all wrapped in a roll. Experience the delightful fusion of tastes in every bite.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chilly Garlic Soya Chaap Roll",
+                    "price": "\u20b9189",
+                    "description": "Experience a burst of spicy and flavorful taste with our Chilly Garlic Chaap Roll. This delicious snack features chaap cooked in a delectable garlic and chili gravy, rolled in a flaky laccha paratha, and is a perfect choice for a quick and satisfying bite.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Jalapeno Soya Chaap Roll",
+                    "price": "\u20b9189",
+                    "description": "For cheese and spice lovers, our Cheesy Jalapeno Chaap Roll is a mouthwatering treat. Featuring succulent chaap pieces, jalapeno sauce, and creamy cheese, all rolled in a flaky laccha paratha and topped with fresh onions, sauces, and our secret masala. A satisfying snack that's not to be missed",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Kadhai Soya Chaap Roll",
+                    "price": "\u20b9199",
+                    "description": "Indulge in the classic Tandoori Chaap Roll, a flavorful snack perfect for satisfying your hunger on-the-go. This roll features succulent pieces of marinated chaap wrapped in a flaky laccha paratha, and topped with onions, sauces, and our secret masala, for a delicious and satisfying bite.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Korma Soya Chaap Roll",
+                    "price": "\u20b9169",
+                    "description": "Indulge in the delicious and distinct flavors of our chaap korma roll. Tender and juicy chaap cooked in a creamy gravy of cashews and melon seeds, rolled in a flaky laccha paratha, garnished with sauces, onions, secret masala, and a hint of lemon juice.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Makhani Soya Chaap Roll",
+                    "price": "\u20b9179",
+                    "description": "Savor the creamy and rich flavors of our Makhani Chaap Roll, featuring succulent chaap rolled in a flaky laccha paratha and cooked in a delicious makhani gravy. Topped with a secret masala, fresh onions, and a variety of sauces for added flavor and texture.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Malai Soya Chaap Roll",
+                    "price": "\u20b9189",
+                    "description": "Indulge in the creamy flavors of malai soya chaap. Made with succulent soya chaap, Amul cream, masala, onions, and sauces, it's a delicious fusion of tastes that create a mouth-watering experience.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Masala Soya Chaap Roll",
+                    "price": "\u20b9149",
+                    "description": "Perfect for those in a hurry or seeking a tasty snack, the quintessential masala chaap roll is a delectable blend of spicy chaap filling rolled in a flaky laccha paratha, offering both convenience and flavor in one satisfying bite.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Oregano Soya Chaap Roll",
+                    "price": "\u20b9189",
+                    "description": "Cheese and herb enthusiasts will love our Cheesy Oregano Chaap Roll, featuring a succulent chaap filling blended with creamy cheese and fragrant oregano, all rolled in a flaky laccha paratha and topped with fresh onions, tomatoes, and sauces. A delectable snack that's not to be missed!",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Peppery Soya Chaap Roll",
+                    "price": "\u20b9189",
+                    "description": "For a spicy and flavorful kick, try our Peppery Chaap Roll. Featuring perfectly seasoned chaap cubes rolled in a flaky laccha paratha and topped with onions, sauces, and our secret masala. A must-try for those who love bold and peppery flavors.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Tandoori Soya Chaap Roll",
+                    "price": "\u20b9189",
+                    "description": "Indulge in the classic Tandoori Chaap Roll, a flavorful snack perfect for satisfying your hunger on-the-go. This roll features succulent pieces of marinated chaap wrapped in a flaky laccha paratha, and topped with onions, sauces, and our secret masala, for a delicious and satisfying bite.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Paneer Kaathi Rolls",
+            "items": [
+                {
+                    "name": "Achari Paneer Roll",
+                    "price": "\u20b9200",
+                    "description": "Experience the extraordinary with our Achari Paneer Roll, a delicious snack that fuses tangy pickle flavors with succulent paneer pieces. Wrapped in a flaky laccha paratha and topped with onions, sauces, and our secret masala, this roll is not your average snack.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Afghani Paneer Roll",
+                    "price": "\u20b9200",
+                    "description": "Savor the bold and tangy flavors of our Afghani Paneer Roll, featuring soft cubes of paneer marinated in a delicious blend of spices and cream, rolled in a flaky laccha paratha, and topped with onions, sauces, and our secret masala. A must-try for paneer enthusiasts.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Butter Paneer Roll",
+                    "price": "\u20b9200",
+                    "description": "Experience a burst of flavors with our creamy and delicious Paneer Butter Masala Roll, featuring soft paneer cubes cooked in a rich and creamy sauce made from butter, cream, tomato, and Indian spices. Rolled in a flaky laccha paratha and complemented with onions and our special masala blend, this roll is a must-try for paneer lovers.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chilly Garlic Paneer Roll",
+                    "price": "\u20b9200",
+                    "description": "Savor the spicy and flavorful Chilly Garlic Paneer Roll, prepared by cooking paneer in a delectable gravy of garlic and chili. This snack is a perfect choice for a quick, satisfying bite.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Jalapeno Paneer Roll",
+                    "price": "\u20b9200",
+                    "description": "Try the Cheesy Jalapeno Paneer Roll to satisfy your cravings, featuring soft cubes of paneer in a laccha paratha wrap with spicy jalapeno sauce and creamy cheese. Topped with fresh onions, sauces, and our secret masala, this roll is a must-try for cheese and spice lovers!",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Korma Paneer Roll",
+                    "price": "\u20b9200",
+                    "description": "Indulge in the rich and unique Indian flavors of our Paneer Korma Roll, featuring soft cubes of paneer cooked in a creamy cashew and melon seed gravy, wrapped in a flaky laccha paratha, and topped with sauces, onions, our secret masala, and a hint of zesty lemon juice. A must-try for paneer lovers!",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Makhani Paneer Roll",
+                    "price": "\u20b9200",
+                    "description": "\u200bExperience the deliciousness of Makhani Paneer Roll, a delectable snack made by rolling paneer in a laccha paratha and cooking it in a creamy and rich makhani gravy. Topped with a secret masala, fresh onions, and a variety of sauces for an added layer of flavor and texture.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Malai Paneer Roll",
+                    "price": "\u20b9189",
+                    "description": "Experience the creamy and delicious flavor of our Malai Paneer Roll, featuring soft cubes of paneer cooked in a rich cream-based gravy with mild spices, all rolled in a flaky laccha paratha. A perfect snack for those who prefer not to share!",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Bhurji Roll",
+                    "price": "\u20b9179",
+                    "description": "Our Paneer Bhurji Roll is a mouth-watering roll that features crumbled paneer cooked with onions, tomatoes, and Indian spices, rolled in a flaky laccha paratha and topped with sauces, onions, and our secret masala. A must-try for all paneer lovers!",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Roll",
+                    "price": "\u20b9169",
+                    "description": "A must-try for anyone who loves paneer, the Paneer Tikka Roll is a classic and delicious choice. Featuring grilled paneer cubes marinated in a special blend of spices, rolled in a flaky laccha paratha, and topped with sauces, onions, and our secret masala.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Schezwan Paneer Roll",
+                    "price": "\u20b9200",
+                    "description": "Try our award-winning and highly popular Schezwan Paneer Roll, filled with soft paneer cubes cooked in spicy Schezwan sauce, rolled in laccha paratha and topped with onions, sauces, and our signature masala. A perfect snack for paneer and spice lovers!",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Shawarma Paneer Roll",
+                    "price": "\u20b9200",
+                    "description": "Experience a fusion of Middle Eastern and Indian flavors with our Shawarma Paneer Roll, featuring soft cubes of paneer cooked in shawarma spices, rolled in a flaky laccha paratha, and topped with fresh onions, sauces, and our secret masala. A must-try for those craving a unique and flavorful snack.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Tandoori Paneer Roll",
+                    "price": "\u20b9209",
+                    "description": "The Paneer Roll is soft cubes of paneer, marinated in a blend of spices and rolled in a flaky laccha paratha. Topped with onions, sauces, and our special masala, this roll is a tasty and convenient option for a quick bite.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Egg Kaathi Rolls",
+            "items": [
+                {
+                    "name": "Double Egg Makhani Roll",
+                    "price": "\u20b9119",
+                    "description": "The Makhani Egg Roll is a delectable snack that features two eggs rolled in a laccha paratha and cooked in a rich and creamy makhani gravy. The roll is then topped with a variety of sauces, fresh onions and our secret masala, which adds an extra layer of flavor and texture.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Double Egg Malai Roll",
+                    "price": "\u20b9109",
+                    "description": "Experience the eggstraordinary flavor of our Egg Malai Roll. Made with two eggs layered in between a flaky Laccha Paratha, this roll is drizzled with creamy mayo and topped with fresh onions, a variety of sauces, and our secret masala. Don't settle for less when you can enjoy this rich and flavorful snack.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Double Egg Mint Roll",
+                    "price": "\u20b9119",
+                    "description": "315 Kcal. 20g Protein. 32g Carbs. 14g Fat. 2g Fiber",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Double Egg Peppery Roll",
+                    "price": "\u20b9119",
+                    "description": "A crispy lachha paratha coated and wrapped egg with our special hot dressing with the topping of sauces and onions.312 Kcal. 18g Protein. 30g Carbs. 12g Fat. 2g Fiber",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Double Egg Roll",
+                    "price": "\u20b999",
+                    "description": "The perfect snack for those on-the-go, two Egg Layered in between Laccha Paratha, topped with fresh onions, a variety of sauces and our secret masala. With a squeeze of lemon juice, it's a quick and satisfying meal that's perfect for any time of day",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Double Egg Tandoori Roll",
+                    "price": "\u20b9119",
+                    "description": "Who knew eggs could even do this? Rolled in between a laccha paratha cooked in tandoori gravy topped with fresh onions, a variety of sauces and masala and our secret masala which makes it exceptional.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Triple Egg Roll",
+                    "price": "\u20b9119",
+                    "description": "The perfect snack for those on-the-go, three Egg Layered in between Laccha Paratha, topped with fresh onions, a variety of sauces and our secret masala. With a squeeze of lemon juice, it's a quick and satisfying meal that's perfect for any time of day",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Non Veg Kaathi Rolls",
+            "items": [
+                {
+                    "name": "Achari Chicken Roll",
+                    "price": "\u20b9229",
+                    "description": "Caution: not an average snack. The Achari Chicken Roll is a tasty snack that combines the flavors of tangy pickles with succulent pieces of chicken. Rolled  in a flaky laccha paratha and topped with onions, sauces, and our secret masala.",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Afghani Chicken Roll",
+                    "price": "\u20b9229",
+                    "description": "The Afghani Chicken Roll is a delicious snack that features juicy chicken pieces marinated in a flavorful blend of spices and cream, rolled in a flaky laccha paratha, and topped with onions, sauces, and our secret masala. Perfect for those who enjoy bold and tangy flavors.",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Butter Chicken Roll",
+                    "price": "\u20b9229",
+                    "description": "Get ready to experience a burst of flavors with our marinated chicken cubes cooked in a rich sauce made from butter, cream, tomato, and Indian spices. Rolled in a flaky laccha paratha, this scrumptious roll is complemented with onions and our special masala blend.",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Roll",
+                    "price": "\u20b9199",
+                    "description": "Whether you're in a rush or looking for a quick bite, this classic snack is the ultimate combination of taste and convenience. The classic chicken masala roll is a combination of chicken masala filling that is rolled in a laccha paratha.",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chilly Garlic Chicken Roll",
+                    "price": "\u20b9229",
+                    "description": "The Chilly Garlic Chicken Roll is a combination of tender chicken pieces cooked in a spicy chilly garlic gravy, rolled in a flaky laccha paratha, and topped with onions, sauces, and our secret masala. Perfect for those who enjoy a spicy kick and garlicky flavors.",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Jalapeno Chicken Roll",
+                    "price": "\u20b9229",
+                    "description": "Satisfy your cravings with the Cheesy Jalapeno Chicken Roll, featuring \u00a0jalapeno sauce, creamy cheese, and juicy chicken cubes in a laccha paratha wrap. Topped with fresh onions, sauces, and our secret masala. A must-try for spice and cheese aficionados!",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Kadhai Chicken Roll",
+                    "price": "\u20b9229",
+                    "description": "Serves-1 (Medium Spicy 325 Kcal. 20g Protein. 32g Carbs. 13g Fat. 2g Fiber",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Korma Chicken Roll",
+                    "price": "\u20b9229",
+                    "description": "Treat your taste buds to a delightful burst of unique Indian flavors with our chicken Korma roll. Succulent chicken cubes cooked in a cashew and melon seed gravy, rolled in laccha paratha, topped with sauces, onions, secret masala, and lemon juice.",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Makhani Chicken Roll",
+                    "price": "\u20b9229",
+                    "description": "Succulent chicken cubes cooked in flavorful makhni gravy, rolled in a laccha paratha, and topped with a blend of sauces, fresh onions, and our secret masala, this snack offers a tantalizing combination of flavors and textures that is sure to please.",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Malai Chicken Roll",
+                    "price": "\u20b9219",
+                    "description": "Get ready to savor the rich and creamy flavor of the Malai chicken roll. This mouth-watering roll features succulent chicken cubes cooked in a creamy gravy that's infused with mild spices for a burst of flavor. Then they are rolled in laccha paratha and topped with various sauces and fresh onions.",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mint Chicken Roll",
+                    "price": "\u20b9219",
+                    "description": "A fan of juicy chicken and cool mint flavors?? Try?the delightful Mint Chicken Roll. It features tender chicken pieces rolled in flaky laccha paratha and topped with onions, sauces, and our secret masala. Satisfy your cravings with this refreshing and savory snack!Serves-1 (Medium Spicy 325 Kcal. 20g Protein. 32g Carbs. 13g Fat. 2g Fiber",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Oregano Chicken Roll",
+                    "price": "\u20b9219",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Peppery Chicken Roll",
+                    "price": "\u20b9219",
+                    "description": "Peppery Chicken Roll, featuring perfectly seasoned chicken cubes. Rolled?in a flaky laccha paratha and topped with onions, sauces, and our secret masala. This roll is perfect for those who enjoy a spicy and flavorful kick into their meals.Serves-1 (Medium Spicy 325 Kcal. 20g Protein. 32g Carbs. 13g Fat. 2g Fiber",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Schezwan Chicken Roll",
+                    "price": "\u20b9229",
+                    "description": "Our bestseller, the Rock' n Roll award, goes to the Schezwan Chicken Roll. This delectable roll features chicken cubes cooked in Schezwan sauce, rolled in a flaky laccha paratha, and topped with fresh onions, sauces, and our secret masala.",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Tandoori Chicken Roll",
+                    "price": "\u20b9219",
+                    "description": "The Tandoori Chicken Roll is a classic roll that features succulent pieces of marinated tandoori chicken wrapped in a flaky laccha paratha, and topped with onions, sauces, and our secret masala. This delicious and flavorful snack is perfect for satisfying your hunger on-the-go.",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                }
+            ]
+        }
+    ]
+}

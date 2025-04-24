@@ -1,0 +1,517 @@
+{
+    "restaurant": {
+        "name": "Waffle By Nature",
+        "location": "22 Civil Lines, Roorkee Town, Roorkee Locality, Roorkee",
+        "contact": "+919718937010"
+    },
+    "menu": [
+        {
+            "category": "Snacks",
+            "items": [
+                {
+                    "name": "Chilly Garlic Potato Shots (8 Pcs)",
+                    "price": "\u20b9129",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "French Fries",
+                    "price": "\u20b999",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Masala Fries",
+                    "price": "\u20b9129",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Pakoda (6 Pcs)",
+                    "price": "\u20b9149",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Peri-peri Fries",
+                    "price": "\u20b9129",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Potato Cheese Shots (8 Pcs)",
+                    "price": "\u20b9149",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Spring Roll (6 Pcs)",
+                    "price": "\u20b9149",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veggie Fingers",
+                    "price": "\u20b9149",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Classic Waff Wich",
+            "items": [
+                {
+                    "name": "Blueberry Cream Cheese Waffle",
+                    "price": "\u20b9159",
+                    "description": "A delectable Classic Waffle Sandwich filled with luscious blueberry cream cheese, a sweet and creamy delight.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Honey Butter Waffle",
+                    "price": "\u20b999",
+                    "description": "A delectable classic waffle sandwich with a luscious honey butter filling, creating a delightful blend of sweet and savory flavors.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Maple Butter Waffle",
+                    "price": "\u20b999",
+                    "description": "A sweet and creamy waffle topped with a delicious maple butter sauce.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Royal Rose Almond",
+                    "price": "\u20b9169",
+                    "description": "A delightful fusion of flavors, with a hint of sweetness and a touch of crunch, this classic waff wich is fit for royalty.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Strawberry Cream Cheese Waffle",
+                    "price": "\u20b9149",
+                    "description": "A delectable classic waffle sandwich filled with rich cream cheese and luscious strawberries, perfect for a delightful breakfast or brunch treat.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Chocolate Waff Wich",
+            "items": [
+                {
+                    "name": "Berry Red Velvet Waffle",
+                    "price": "\u20b9169",
+                    "description": "Rich and creamy red velvet waffles, topped with sweet and tart berries.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Dark Chocolate Waffle",
+                    "price": "\u20b9149",
+                    "description": "Indulge in the rich and decadent delight of our Dark Chocolate Waffle, a heavenly treat for chocolate lovers.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Kiki & Oreo Cream Waffle",
+                    "price": "\u20b9179",
+                    "description": "Must try",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Kitkat Waffle",
+                    "price": "\u20b9149",
+                    "description": "A delectable chocolate waffle filled with a delightful surprise, perfect for any chocolate lover.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Milk Chocolate Waffle",
+                    "price": "\u20b9149",
+                    "description": "A delectable indulgence of rich milk chocolate in a delightful waffle, creating a heavenly treat for chocolate lovers.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Naked Nutella Waffle",
+                    "price": "\u20b9169",
+                    "description": "Indulge in a delectable, chocolate-filled waffle that's a pure Nutella delight.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Peanut Butter Chocolate Waffle",
+                    "price": "\u20b9159",
+                    "description": "A decadent dessert that will satisfy your sweet tooth cravings. It is a waffle with a peanut butter and topped with milk chocolate.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Red Velvet Waffle",
+                    "price": "\u20b9149",
+                    "description": "A decadent and creamy Red Velvet waffle topped with rich and decadent cream cheese frosting. : A decadent, rich and creamy waffle topped",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Double Chocolate Waff Wich",
+            "items": [
+                {
+                    "name": "Chocolate Overload Dark Waffle",
+                    "price": "\u20b9169",
+                    "description": "Indulge in the ultimate chocolate delight, a sinful and decadent treat for all chocolate lovers.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chocolate Overload Milk",
+                    "price": "\u20b9169",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Crushed Almond Waffle",
+                    "price": "\u20b9179",
+                    "description": "Experience the perfect blend of crunchy almonds and rich double chocolate in this irresistible veg delight.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Dark And White Waffle",
+                    "price": "\u20b9159",
+                    "description": "A crispy and fluffy waffle with a dark, rich flavor and a subtle hint of white chocolate. A perfect indulgent treat for a sweet tooth.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Rocky Road Waffle",
+                    "price": "\u20b9219",
+                    "description": "A divine combination of double chocolate waffles sandwiching a delectable veggie filling, the Rocky Rod is a sweet delight that will satisfy any craving.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Triple Chocolate Waffle",
+                    "price": "\u20b9179",
+                    "description": "Indulge in a delectable, chocolatey delight that will satisfy your sweet tooth with every bite.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Triple Cookie Waffle",
+                    "price": "\u20b9219",
+                    "description": "A crispy waffle layered with chocolate chips and crushed cookies for a decadent dessert experience.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Mini Pan Cakes",
+            "items": [
+                {
+                    "name": "Dark And Milk Mini Pancake (8Pcs)",
+                    "price": "\u20b9169",
+                    "description": "Indulge in the heavenly combination of dark and milk flavors with our savory and irresistible Mini Pancakes.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Milk And White Pancake [Mini, 8 Pieces]",
+                    "price": "\u20b9169",
+                    "description": "Delight in a delectable assortment of milk and white mini pancakes, bursting with flavor and perfect for any breakfast or snack time indulgence.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Nutella Mini Pancake [8 Pieces]",
+                    "price": "\u20b9189",
+                    "description": "Indulge in heavenly bites of fluffy pancakes filled with creamy Nutella.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "White And Dark Pancake [Mini, 8 Pieces]",
+                    "price": "\u20b9169",
+                    "description": "Delight in the contrasting flavors of our White And Dark Mini Pancakes, a scrumptious veg dish that will satisfy your taste buds.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Walnut Brownie",
+            "items": [
+                {
+                    "name": "Brownie",
+                    "price": "\u20b9149",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Walnut Brownie 2.0",
+                    "price": "\u20b9169",
+                    "description": "Must try",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Walnut Brownie",
+                    "price": "\u20b9149",
+                    "description": "A delectable delight with a rich and fudgy texture, packed with crunchy walnuts for an irresistible treat.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Waffle Cakes",
+            "items": [
+                {
+                    "name": "Almond Brownie Waffle Cake",
+                    "price": "\u20b9449",
+                    "description": "Indulge in a heavenly creation of rich almond brownie waffle cake, a delightful treat for your taste buds.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Berry Red Velvet Waffle Cake",
+                    "price": "\u20b9499",
+                    "description": "A luscious waffle cake bursting with vibrant berries and velvety goodness.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chocolate Waffle Cake",
+                    "price": "\u20b9399",
+                    "description": "Indulge in a heavenly creation of rich, velvety chocolate waffle cake that will satisfy your sweet cravings.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Waffle Sundae",
+            "items": [
+                {
+                    "name": "Berry Red Velvet Sundae",
+                    "price": "\u20b9149",
+                    "description": "Indulge in the ultimate waffle sundae crowned with luscious berries and a rich red velvet twist.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Choco Brownie Sundae",
+                    "price": "\u20b9149",
+                    "description": "A decadent combination of rich chocolate brownie, creamy ice cream, and delightful toppings atop a warm and fluffy waffle base.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Shakes",
+            "items": [
+                {
+                    "name": "Badaam Milkshake",
+                    "price": "\u20b9159",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Black Current Shake",
+                    "price": "\u20b9159",
+                    "description": "Indulge in a fruity delight with our luscious and refreshing shake.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Butter Scotch Shake",
+                    "price": "\u20b9149",
+                    "description": "Indulge in a luscious and creamy blend of flavors with our Butter Scotch Shake.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Caramel Shake",
+                    "price": "\u20b9149",
+                    "description": "Indulge in the creamy and rich delight of our delectable caramel shake.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chocolate Shake",
+                    "price": "\u20b9139",
+                    "description": "Rich and velvety, this indulgent Chocolate Shake is a delectable treat for any chocolate lover.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Kesar Badaam Milkshake",
+                    "price": "\u20b9159",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Kit Kat Shake",
+                    "price": "\u20b9159",
+                    "description": "Indulge in a creamy, chocolatey delight that will satisfy all your sweet cravings.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Oreo Shake",
+                    "price": "\u20b9149",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Shahi Gulab Milkshake",
+                    "price": "\u20b9159",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Strawberry Shake",
+                    "price": "\u20b9149",
+                    "description": "A refreshing blend of fresh strawberries and creamy goodness, this delightful shake is a treat for the senses.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Mojito Mocktails",
+            "items": [
+                {
+                    "name": "Blue Berry Mojito",
+                    "price": "\u20b9149",
+                    "description": "Refreshing and bursting with the natural sweetness of blueberries, this Mojito Mocktail is a delightful blend of fruity flavors that will transport your taste buds to paradise.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Bubble Gum Mojito",
+                    "price": "\u20b9139",
+                    "description": "An enticing and refreshing mocktail bursting with vibrant flavors and a delightful twist of bubble gum.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Green Apple Mojito",
+                    "price": "\u20b9149",
+                    "description": "A refreshing blend of green apple and invigorating flavors, perfect for a mocktail experience that will tantalize your taste buds.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mint Mojito",
+                    "price": "\u20b9129",
+                    "description": "A refreshing and invigorating blend of mint and citrus that will tantalize your taste buds.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Pan Bahar Mojito",
+                    "price": "\u20b9139",
+                    "description": "A refreshing blend of flavors that will transport you to a tropical paradise with every sip.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Passion Fruit Mojito",
+                    "price": "\u20b9149",
+                    "description": "A refreshing and tropical mocktail bursting with the sweet and tangy flavors of fresh passion fruit.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Peach Mojito",
+                    "price": "\u20b9149",
+                    "description": "A refreshing and fruity blend of peaches and mint, perfect for a delightful mocktail experience.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Watermelon Mojito",
+                    "price": "\u20b9139",
+                    "description": "Refreshing and fruity, this mocktail combines the sweetness of watermelon with the zing of a classic mojito.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Cold Coffee's",
+            "items": [
+                {
+                    "name": "Caramel Cold Coffee",
+                    "price": "\u20b9149",
+                    "description": "Indulge in the luscious sweetness of our velvety Caramel Cold Coffee, a refreshing treat to satisfy your cravings.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Classic Cold Coffee",
+                    "price": "\u20b9129",
+                    "description": "A refreshing blend of coffee and creamy goodness, perfect for a hot summer day.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Cold Coffee With Ice Cream",
+                    "price": "\u20b9159",
+                    "description": "Creamy cold coffee topped with a scoop of luscious ice cream, a delightful treat to satisfy your sweet cravings.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Hazelnut Cold Coffee",
+                    "price": "\u20b9149",
+                    "description": "Indulge in the tempting flavors of a creamy and refreshing hazelnut-infused cold coffee.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Ice Tea",
+            "items": [
+                {
+                    "name": "Lemon Ice Tea",
+                    "price": "\u20b9139",
+                    "description": "Refreshing and zesty iced tea infused with the vibrant flavors of lemon, perfect for a delightful summer treat.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Peach Ice Tea",
+                    "price": "\u20b9149",
+                    "description": "Refreshing and fruity, this invigorating beverage captures the essence of ripe peaches in a cool and delightful way.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                }
+            ]
+        }
+    ]
+}

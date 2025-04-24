@@ -1,0 +1,138 @@
+{
+    "restaurant": {
+        "name": "Patiala Lassi",
+        "location": "Shop 01, Gandhi Vatika, Civil Lines, Roorkee Locality, Roorkee",
+        "contact": "+918650305000"
+    },
+    "menu": [
+        {
+            "category": "Lassi",
+            "items": [
+                {
+                    "name": "Sweet Lassi",
+                    "price": "\u20b950",
+                    "description": "Rich source of protein and calcium.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Sweet Lassi [Small]",
+                    "price": "\u20b940",
+                    "description": "Rich source of protein and calcium.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Dryfruit Lassi",
+                    "price": "\u20b960",
+                    "description": "A power house of vital nutrients and delicious taste.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Khoa Badam Lassi",
+                    "price": "\u20b970",
+                    "description": "A royal treat for your taste buds.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Masala Chach",
+                    "price": "\u20b930",
+                    "description": "A low calorie, cool and refreshing beverage.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Choco Lassi",
+                    "price": "\u20b960",
+                    "description": "A perfect blend of chocolate and yummy lassi.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Sugar Free Lassi",
+                    "price": "\u20b960",
+                    "description": "Great on taste and low on calories.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Shahi Paan Lassi",
+                    "price": "\u20b960",
+                    "description": "Tasty sip and big smile.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mango Lassi",
+                    "price": "\u20b960",
+                    "description": "Yummy taste of mangoes with goodness of lassi.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Kesar Lassi",
+                    "price": "\u20b960",
+                    "description": "A perfect blend of kesar, lassi and happiness.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Strawberry Lassi",
+                    "price": "\u20b960",
+                    "description": "Daily dose of antioxidants, vitamin C and fiber.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Kullad Malai Lassi",
+                    "price": "\u20b970",
+                    "description": "Malai lassi.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Dahiiiiii",
+                    "price": "\u20b925",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Other Specialty",
+            "items": [
+                {
+                    "name": "Milk Badam",
+                    "price": "\u20b980",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cold Coffee",
+                    "price": "\u20b980",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Rabri",
+                    "price": "\u20b970",
+                    "description": "Delicious kesar rabri.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Desi Ghee [500 g]",
+                    "price": "\u20b9500",
+                    "description": "Pure desi ghee.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                }
+            ]
+        }
+    ]
+}

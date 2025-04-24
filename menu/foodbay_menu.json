@@ -1,0 +1,1734 @@
+{
+    "restaurant": {
+        "name": "Foodbay",
+        "location": "Civil Lines, Roorkee Locality, Roorkee",
+        "contact": "+919720223366",
+        "operating_hours": "10 AM - 11 PM"
+    },
+    "menu": [
+        {
+            "category": "YuMum",
+            "items": [
+                {
+                    "name": "Chole Rice Bowl",
+                    "price": "\u20b9159",
+                    "description": "Indulge in our flavorful Chole Rice, where tender chickpeas simmered in aromatic spices meet fluffy rice, creating a satisfying meal that's both comforting and delicious. Perfectly paired for a hearty lunch or dinner, this classic dish is a favorite for its rich flavors and simplicity. Dive into a bowl of Chole Rice and experience the essence of Indian cuisine in every bite.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Dal Makhani With Rice Bowl",
+                    "price": "\u20b9169",
+                    "description": "A warm and comforting bowl of creamy dal makhani rice served with a side of crispy papadum and fresh salad.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Kadhi Rice Bowl",
+                    "price": "\u20b9159",
+                    "description": "A flavourful rice bowl with a tangy and creamy sauce, made with rice, vegetables and spices. A perfect choice for a hearty meal.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Kashmiri Pulao With Pineapple Raita",
+                    "price": "\u20b9249",
+                    "description": "[Veg preparation] A flavorful rice dish cooked with fragrant spices and tender pieces of chicken and potatoes with accompanied by a refreshing side of pineapple raita.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Rajma With Rice",
+                    "price": "\u20b9159",
+                    "description": "A luscious, creamy beverage made with the rich and decadent flavors of saffron and almonds. A comforting beverage perfect for a soothing evening.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Shahi Paneer With Rice",
+                    "price": "\u20b9189",
+                    "description": "A delectable dish of soft and creamy paneer cooked with aromatic spices and basmati rice.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Biryani With Raita",
+                    "price": "\u20b9249",
+                    "description": "A perfect blend of rich flavors and aromatic spices our veg.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Yellow Dal With Rice",
+                    "price": "\u20b9159",
+                    "description": "A fragrant and flavorful rice dish with a creamy texture and a bright yellow color from the turmeric. Perfect for a comforting meal.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Deluxe Thali",
+                    "price": "\u20b9249",
+                    "description": "Dal Makhani+Veg Mixed+Butter Naan+Lachha Paratha+Salad",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Premium Thali",
+                    "price": "\u20b9329",
+                    "description": "Dal Handi+Kadhai Paneer+Veg Mixed+Butter Naan+Lachha Prantha+Boondi Raita+Salad+Papad",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Yumum Special Thali",
+                    "price": "\u20b9389",
+                    "description": "Dal Makhani+Shahi Paneer+Veg Jalfrazi+Chana Masala+Veg Pulao+Cheese Naan+Lachha Paratha+Pineapple Raita+Salad+Papad+Gulab Jamun",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Aloo With 4 Poori And Boondi Raita",
+                    "price": "\u20b9229",
+                    "description": "A classic combo of potato curry, crispy poori and sweet and sour raita, makes for a wholesome meal.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Dal Makhani With 2 Baby Naan",
+                    "price": "\u20b9239",
+                    "description": "A rich and creamy classic Indian dish made with lentils and spices. Its a perfect blend of creamy and spicy flavors,",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Kadhai Paneer With 2 Baby Naan",
+                    "price": "\u20b9249",
+                    "description": "Kadhai Paneer+2 Baby Naan+Salad [Subject to Availability] [A luscious and creamy dish of tender paneer and vegetables in a rich kadhai gravy]",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chole With 2 Amritsari Naan",
+                    "price": "\u20b9249",
+                    "description": "Enjoy a rich and spicy chole paired with amritsarian naan and perfect for a hearty meal.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Shahi Paneer With 2 Baby Naan",
+                    "price": "\u20b9249",
+                    "description": "Richly flavored paneer with a hint of spice, cooked in a creamy sauce with the fragrant aroma of saffron.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Bhel Puri",
+                    "price": "\u20b989",
+                    "description": "A spicy and tangy dish made with a mixed of puffed rice, spices and chutney.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Bun Maska",
+                    "price": "\u20b999",
+                    "description": "A soft, fluffy bun stuffed with a flavorful and aromatic mixture of vegetables, spices, and mashed potatoes. A delicious vegetarian snack with a perfect blend of",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cheese Vada Pav",
+                    "price": "\u20b999",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chole Bhature",
+                    "price": "\u20b9199",
+                    "description": "A rich and flavorful curry made with chickpeas and served with crispy, puffed bread.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chole Kulche",
+                    "price": "\u20b9189",
+                    "description": "A delicious and spicy curry made with chickpeas and soft, buttery bread with perfect for a satisfying meal.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Vada Pav",
+                    "price": "\u20b979",
+                    "description": "A crispy, golden brown, spicy and flavorful combination of soft and spongy vada and a creamy, zesty and tangy pavan.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Dhokla..",
+                    "price": "\u20b979",
+                    "description": "Soft, spongy Gujarati snack made from fermented rice and chickpea flour batter. Enjoy its tangy-sweet flavor and aromatic spices.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Helicopter Bhel",
+                    "price": "\u20b999",
+                    "description": "A delectable combination of crispy chana dal vadas and crunchy vegetables served in a cone-shaped puff pastry, the Helicopter Bhalla is a fun",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Hing Kachori With Aloo Sabji (2 Pcs)",
+                    "price": "\u20b9149",
+                    "description": "A delectable combination of deep fried kachori stuffed with a spicy potato and aromatic hing mixture, served with a side of spiced potatoes and onion.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Masala Maggi",
+                    "price": "\u20b9129",
+                    "description": "A delicious blend of maggi noodles, mixed vegetables and spices, perfect for a light and filling meal.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Plain Maggi",
+                    "price": "\u20b999",
+                    "description": "A traditional Asian dish made with noodles, vegetables and spices. This dish is perfect for those who love a little spice in their meal.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Pav Bhaji",
+                    "price": "\u20b9219",
+                    "description": "A spicy and flavorful veg dish made with a variety of vegetables and spices, served in a warm and soft bread roll.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Poha",
+                    "price": "\u20b9149",
+                    "description": "A crispy and delicious Indian snack made with flattened rice (poha), spices and a variety of vegetables. A light and crispy snack that is perfect",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Sabudana Vada",
+                    "price": "\u20b9139",
+                    "description": "A traditional Indian snack made with taro [sabudana], mashed and shaped into a crispy vada. Served with a tangy chutney.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Cutlet",
+                    "price": "\u20b9129",
+                    "description": "Crisp and savory, these vegetarian cutlets are a delicious snack made with a blend of vegetables and spices.  : Crisp",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Achari Chaap",
+                    "price": "\u20b9199",
+                    "description": "Achar flavored tender chaap with a zesty twist of spice. A flavorful dish that is perfect for a quick bite.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Soya Chaap Tikka",
+                    "price": "\u20b9199",
+                    "description": "Crispy and juicy soya chaap pieces marinated in a tangy and spicy marinade with a hint of mint.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Hariyali Chaap",
+                    "price": "\u20b9199",
+                    "description": "A mouth watering dish made with fresh vegetables, spices and herbs. A delicious veg dish that is perfect for any occasion.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Malai Chaap",
+                    "price": "\u20b9199",
+                    "description": "Crispy, succulent chaap infused with a creamy and aromatic malai sauce this dish is a must have for chaap lovers.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Stuffed Afghani Chaap",
+                    "price": "\u20b9219",
+                    "description": "[Veg preparation]A delectable and flavourful dish made with minced meat cooked in a rich gravy with aromatic spices and garnished with fresh herbs.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Irani Chaap",
+                    "price": "\u20b9219",
+                    "description": "A quintessential Mumbai snack that you'd find in every street, chaap is a crunchy and crispy dish made with chickpeas and spices. The dish",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Dahi Ke Sholey",
+                    "price": "\u20b9219",
+                    "description": "A delicious dish made with fresh, soft paneer cubes in a creamy yogurt sauce with hints of spices. A perfect dish to share with your loved ones.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Dahi Ke Kebab",
+                    "price": "\u20b9219",
+                    "description": "A succulent kebab made with a blend of fresh vegetables and spices, cooked in a creamy yoghurt sauce, making it a rich and flavorful dish.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mushroom Galouti Kebab",
+                    "price": "\u20b9249",
+                    "description": "A classic kebab made with fresh mushrooms, onion and spices, served with a side of mint chutney and tomato sauce.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Hara Bhara Kebab",
+                    "price": "\u20b9219",
+                    "description": "A succulent kebab made with fresh spinach and paneer, cooked in the tandoor. A perfect blend of fresh and smoky flavors.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Subz Seekh Kebab",
+                    "price": "\u20b9219",
+                    "description": "A succulent, flavorful veg kebab made with a blend of chopped vegetables, cooked to perfection and infused with aromatic spices. Perfect for those looking for a",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cheese Corn Balls",
+                    "price": "\u20b9219",
+                    "description": "Cheese corn balls are deep fried balls made with corn flour and cheese. The cheese gives it a rich and creamy taste while the corn flour gives it.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cheese Nachos",
+                    "price": "\u20b9199",
+                    "description": "A crispy, cheesy snack that is perfect for any occasion. Crispy tortilla chips topped with a generous helping of melted cheese and a variety of delicious toppings.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "White Sauce Pasta",
+                    "price": "\u20b9249",
+                    "description": "A hearty meal with a mix of vegetables and pasta, tossed in a delicious sauce. A perfect choice for pasta lovers.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Pink Sauce Pasta",
+                    "price": "\u20b9249",
+                    "description": "Our pink sauce pasta is a delightful mixed of colourful, tangy and spicy flavours. It is a delectable blend of fusilli pasta rich tomato sauce.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Red Sauce Pasta",
+                    "price": "\u20b9249",
+                    "description": "A creamy red pasta sauce made with fresh tomatoes and basil, perfect for a quick and satisfying pasta meal.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Achari Paneer Tikka",
+                    "price": "\u20b9249",
+                    "description": "A classic North Indian dish, Achari paneer tikka is a mouthwatering starter that combines the pungent flavor of pickled spices with the",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Hariyali Paneer Tikka",
+                    "price": "\u20b9249",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Special Malai Paneer Tikka",
+                    "price": "\u20b9249",
+                    "description": "A luscious paneer tikka topped with a generous coating of malai sauce, creating a perfect balance of sweet and savory flavors.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mushroom Tikka",
+                    "price": "\u20b9249",
+                    "description": "A classic North Indian dish, the mushroom tikka are a rich and flavorful appetizer or snack.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Tikka",
+                    "price": "\u20b9249",
+                    "description": "A tempting platter of tender chunks of paneer marinated in a delicious blend of spices and grilled to perfection. The rich flavors of the dish will keep",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Aloo Tikki Chaat",
+                    "price": "\u20b9149",
+                    "description": "Crunchy and spicy, these crispy potato patties are topped with tangy chutneys and a sprinkle of chaat masala.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Aloo Tikki With Chole",
+                    "price": "\u20b9179",
+                    "description": "Crisp and flavorful potato patties filled with a flavorful chickpea curry make for a tasty, satisfying meal.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Dahi Bhalla",
+                    "price": "\u20b9129",
+                    "description": "A rich and creamy dish made with soft and fluffy dumplings served with a tangy and spicy yoghurt sauce. A perfect accompaniment for a meal.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Gol Gappe",
+                    "price": "\u20b979",
+                    "description": "A crunchy, light, and flavorful street snack made with a crispy, fried shell filled with a savory blend of spices and served with a tangy, sweet",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Papdi Chaat",
+                    "price": "\u20b9129",
+                    "description": "A delightful medley of crisp papadums, sweet and tangy chutneys, and a medley.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Raj Kachori",
+                    "price": "\u20b9179",
+                    "description": "A crispy and flaky pastry filled with a savory mixture of chickpeas, potatoes, and spices.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cheese Corn Sandwich",
+                    "price": "\u20b9279",
+                    "description": "A crispy sandwich filled with cheese and corn, the perfect party snack or a light meal.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Club Sandwich",
+                    "price": "\u20b9249",
+                    "description": "A classic and filling sandwich with crunchy bread, juicy chicken and creamy mayonnaise.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Fruit Sandwich",
+                    "price": "\u20b9299",
+                    "description": "Enjoy a fresh and delicious fruit sandwich a light and refreshing snack that will satisfy your hunger pangs with its sweet and tangy flavours. This sandwich contains.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Grilled Sandwich",
+                    "price": "\u20b9199",
+                    "description": "A delicious veg sandwich, grilled to perfection and served with a side of salad and fries. The perfect comfort food for any occasion.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Gulab Jamun",
+                    "price": "\u20b949",
+                    "description": "A delicious and traditional Indian dessert made with a sweet, creamy and spongy dough, cooked in a rich and aromatic syrup.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Rasmalai",
+                    "price": "\u20b969",
+                    "description": "A rich and creamy dessert, Rasmalai is a sweet, decadent treat that is a must-try for any sweet tooth. A traditional Indian",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Sponge Rasgulla",
+                    "price": "\u20b949",
+                    "description": "A sweet and creamy dessert with a soft and spongy texture that is made with rasgulla and is flavored with cardamom and saffron.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Buttermilk [200ml]",
+                    "price": "\u20b999",
+                    "description": "A tangy and refreshing buttermilk that is perfect for a hot summer day. This drink is a popular street food in India that can be enjoyed at any time",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Fresh Lime Soda",
+                    "price": "\u20b989",
+                    "description": "A tangy beverage with a refreshing burst of citrus, the Fresh Lime Soft Drink is a popular choice among guests. Made with fresh limes and a touch",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Fresh Lime Water",
+                    "price": "\u20b969",
+                    "description": "A tangy, refreshing drink made with fresh lime and water.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Jaljeera",
+                    "price": "\u20b999",
+                    "description": "A refreshing beverage made with fresh ingredients, it is perfect for a hot summer day.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Kesar Badam Milk",
+                    "price": "\u20b9119",
+                    "description": "A luscious, creamy beverage made with the rich and decadent flavors of saffron and almonds. A comforting beverage perfect for a soothing evening.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Lemon Tea",
+                    "price": "\u20b999",
+                    "description": "A bright and refreshing drink that will leave you feeling refreshed. Made with fresh lemon juice and a hint of sugar, this tea is the perfect beverage to",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Aloo Paratha",
+                    "price": "\u20b989",
+                    "description": "A flaky and flavorful paratha stuffed with potatoes and spices. Perfect for a hearty breakfast.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Gobi Paratha",
+                    "price": "\u20b999",
+                    "description": "A soft and fluffy paratha stuffed with cauliflower and a range of Indian spices. It is perfect for a quick and wholesome meal.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mixed Veg Paratha",
+                    "price": "\u20b9109",
+                    "description": "A delicious, crispy and wholesome paratha filled with a medley of vegetables. Perfect for a quick and filling meal.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Onion Paratha",
+                    "price": "\u20b999",
+                    "description": "Crispy and flaky paratha stuffed with onion and spices makes for a delicious snack or a light meal.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Paratha",
+                    "price": "\u20b9119",
+                    "description": "A crispy and flaky Indian flatbread made with paneer and a medley of vegetables, spices and herbs.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Shahi Paratha",
+                    "price": "\u20b9149",
+                    "description": "A rich and flavourful veg paratha with a blend of aromatic spices and a generous stuffing of paneer the quintessential ingredient in a traditional Indian meal.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Stuffed Paratha",
+                    "price": "\u20b9119",
+                    "description": "A delicious and flavourful veg dish with a combination of soft and flaky paratha stuffed with spicy potato and green peas filling.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Boondi Raita",
+                    "price": "\u20b9139",
+                    "description": "A tangy and flavorful yogurt based dish that is a delightful accompaniment to spicy Indian dishes.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Cucumber Salad",
+                    "price": "\u20b9139",
+                    "description": "A refreshing salad made with cucumbers, tomatoes and onions in a light and tangy dressing.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Green Salad",
+                    "price": "\u20b9124",
+                    "description": "A fresh and crunchy salad with a flavourful dressing. A perfect side dish for your meal.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Masala Papad",
+                    "price": "\u20b969",
+                    "description": "A flavourful and spicy papad dish, made with a combination of aromatic spices and fresh vegetables. An ideal side dish for any meal.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Mix Raita",
+                    "price": "\u20b9179",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Papad Dry",
+                    "price": "\u20b934",
+                    "description": "A crispy, tangy and spicy snack made with a mix of papad and spices. It is a perfect combination of tangy and spicy flavors.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Pineapple Raita",
+                    "price": "\u20b9179",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Russian Salad",
+                    "price": "\u20b9149",
+                    "description": "A refreshing and nutritious salad made with a variety of fresh and crunchy vegetables. It is a popular street food dish that is loved by many.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cheese Tomato",
+                    "price": "\u20b9319",
+                    "description": "Cheese tomato is a mouth watering and flavorful dish made with a delectable combination of cheese and tomatoes. It is an ideal dish for a light",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Kadhai Paneer",
+                    "price": "\u20b9319",
+                    "description": "Delightful paneer cooked in a rich and flavorful kadhai gravy wi perfect for a light meal.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Matar Paneer",
+                    "price": "\u20b9299",
+                    "description": "A creamy blend of fresh green peas and tender paneer cubes wi cooked in a flavorful tomato gravy.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Palak Paneer",
+                    "price": "\u20b9299",
+                    "description": "A delectable dish made with soft and creamy paneer cooked in a flavorful blend of spinach, spices and herbs. The combination of spinach and paneer.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Butter Masala",
+                    "price": "\u20b9319",
+                    "description": "A classic dish with cubes of fresh paneer cooked in a rich and creamy sauce with a hint of cashew and spices.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Do Pyaza",
+                    "price": "\u20b9319",
+                    "description": "Tender pieces of paneer cooked in a creamy sauce with fresh mushroom. A delectable dish with rich and savory flavors.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Handi",
+                    "price": "\u20b9319",
+                    "description": "A delectable dish that has a rich flavor and texture. A succulent paneer cooked in a rich and creamy gravy that is flavored with aromatic spices.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Lababdar",
+                    "price": "\u20b9319",
+                    "description": "A creamy and rich paneer dish cooked in a delectable gravy made with a variety of spices and herbs. A flavorful dish that is sure to leave you",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Tikka Masala",
+                    "price": "\u20b9319",
+                    "description": "A classic Indian dish featuring tender pieces of paneer and vegetables, cooked in a fragrant masala gravy. Perfect for a family meal for when you'",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Shahi Paneer",
+                    "price": "\u20b9299",
+                    "description": "A rich and creamy dish made with paneer, tomato, cashew nuts and aromatic spices.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Dal Handi",
+                    "price": "\u20b9249",
+                    "description": "A delightful dish of creamy and aromatic dal in a traditional handi, perfect for sharing with family and friends.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Dal Makhani",
+                    "price": "\u20b9229",
+                    "description": "A creamy and flavorful dish with a rich texture, this dish is a classic North Indian preparation. Flavored with spices, the soft and buttery dal is",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Dal Tadka",
+                    "price": "\u20b9229",
+                    "description": "A rich and creamy dish made with a flavorful blend of lentils and spices. A delicious side dish that pairs well with any meal.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chana Masala",
+                    "price": "\u20b9249",
+                    "description": "A spicy, tangy and flavorful chickpea curry that is perfect for a filling wi wholesome meal.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Chana Pindi",
+                    "price": "\u20b9249",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Diwani Handi",
+                    "price": "\u20b9279",
+                    "description": "A delectable and healthy mixed vegetable dish cooked in a traditional clay pots, Diwani Handi is a perfect blend of flavourful ingredients, including",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Kashmiri Dum Aloo",
+                    "price": "\u20b9249",
+                    "description": "A classic Kashmiri dish made with baby potatoes, cooked in a creamy and aromatic gravy. A perfect accompaniment to any meal.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Malai Kofta",
+                    "price": "\u20b9299",
+                    "description": "A rich and decadent combination of soft, juicy vegetable koftas, bathed in a luscious cream sauce. A decadent, flavourful dish perfect for",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mix Veg",
+                    "price": "\u20b9179",
+                    "description": "A medley of assorted vegetables in a flavorful gravy with perfect for a satisfying meal.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mushroom Masala",
+                    "price": "\u20b9289",
+                    "description": "Mushroom Mas Masala | Veg | 12 pieces of mushroom cooked in a spicy masala sauce,",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Mushroom Matar",
+                    "price": "\u20b9279",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Punjabi Dum Aloo",
+                    "price": "\u20b9249",
+                    "description": "A fiery, aromatic dish of creamy, succulent potatoes cooked in a spicy an aromatic blend of spices.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Veg Kofta",
+                    "price": "\u20b9279",
+                    "description": "A traditional North Indian dish that is a perfect blend of rich and creamy spices. A delicious combination of vegetables and spices stuffed in a crispy shell, served",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Jalfrezi",
+                    "price": "\u20b9199",
+                    "description": "A delicious combination of vegetables with spices and herbs cooked in a rich tomato gravy.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Butter Roti",
+                    "price": "\u20b929",
+                    "description": "Crispy and butter roti made with refined flour and flavored with butter. A perfect accompaniment for your meal.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Kabuli Naan",
+                    "price": "\u20b9129",
+                    "description": "Kabuli naan is a fluffy, soft and chewy naan with a filling of spicy and flavorful minced lamb.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Kashmiri Naan",
+                    "price": "\u20b9149",
+                    "description": "A light and fluffy naan with a hint of Kashmiri spices and perfect for sharing.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Laccha Paratha",
+                    "price": "\u20b999",
+                    "description": "A traditional Indian flatbread with a twist of crispiness, the laccha paratha is the perfect dish to indulge your taste buds.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Missi Roti",
+                    "price": "\u20b954",
+                    "description": "A soft and fluffy flatbread, perfect for soaking up all the delicious sauces and dips. Pair with any curry or soup for a perfect meal.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Onion Mirchi Roti",
+                    "price": "\u20b949",
+                    "description": "An aromatic and flavorful roti stuffed with onion and peppers. A perfect meal for the veg.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Naan",
+                    "price": "\u20b9129",
+                    "description": "A flavorful and creamy Indian flatbread, stuffed with paneer and garnished with cilantro and green chilli.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Plain Naan",
+                    "price": "\u20b934",
+                    "description": "A soft and fluffy leavened bread made with wheat flour. It is perfect for enjoying with your favorite curry or dal.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Plain Roti",
+                    "price": "\u20b924",
+                    "description": "A simple, traditional flatbread made with whole wheat flour. A versatile and wholesome option for all occasions.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Stuffed Naan",
+                    "price": "\u20b989",
+                    "description": "A soft and fluffy stuffed naan filled with a delectable mixture of paneer, tomato and spices. Enjoy with a side of chutney and curry.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Jeera Rice",
+                    "price": "\u20b9139",
+                    "description": "A fragrant and flavourful rice dish made with aromatic spices such as cumin, cloves and cardamom. This dish is perfect for a satisfying meal.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Peas Pulao",
+                    "price": "\u20b9139",
+                    "description": "A flavorful and aromatic dish made with green peas and fragrant spices.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Steamed Rice",
+                    "price": "\u20b9129",
+                    "description": "Steam rice is a traditional dish that is prepared by cooking rice in a steamer. The dish is a simple yet delicious meal that is enjoyed by many",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Pulao",
+                    "price": "\u20b9169",
+                    "description": "A wholesome and healthy rice dish with a combination of vegetables, spices and aromatic herbs.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Platter",
+            "items": [
+                {
+                    "name": "Tandoori Platters",
+                    "price": "\u20b9349",
+                    "description": "5-6 type Indian tandoori starters",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Main Course",
+            "items": [
+                {
+                    "name": "Dal Makhani",
+                    "price": "\u20b9299",
+                    "description": "A creamy and flavorful dish with a rich texture, this dish is a classic North Indian preparation. Flavored with spices, the soft and buttery dal is",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Dal Tadka",
+                    "price": "\u20b9269",
+                    "description": "A rich and creamy dish made with a flavorful blend of lentils and spices. A delicious side dish that pairs well with any meal.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Matar Paneer",
+                    "price": "\u20b9329",
+                    "description": "A creamy blend of fresh green peas and tender paneer cubes wi cooked in a flavorful tomato gravy.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Shahi Paneer",
+                    "price": "\u20b9329",
+                    "description": "A rich and creamy dish made with paneer, tomato, cashew nuts and aromatic spices.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Coffee&shakes",
+            "items": [
+                {
+                    "name": "Berry Piya",
+                    "price": "\u20b9135",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Choco Patola",
+                    "price": "\u20b9135",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Coffee Ki Jawani",
+                    "price": "\u20b9135",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mocha",
+                    "price": "\u20b9135",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Next Level",
+                    "price": "\u20b9135",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Nutt-Khatt",
+                    "price": "\u20b9135",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Palang Tod",
+                    "price": "\u20b9125",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Dosa",
+            "items": [
+                {
+                    "name": "Burj Khalifa Dosa",
+                    "price": "\u20b9299",
+                    "description": "A delicious and flavorful South Indian dish made with dosa batter stuffed with a flavorful paneer and vegetables filling.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cheese Corn Masala Dosa",
+                    "price": "\u20b9299",
+                    "description": "A soft and fluffy dosa filled with a savory combination of cheese and corn. A perfect veg dish that is rich in protein and fiber.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cheese Dosa",
+                    "price": "\u20b9249",
+                    "description": "A delectable snack made with a crispy, golden brown dosa stuffed with a rich and creamy cheese filling.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cheese Masala Dosa",
+                    "price": "\u20b9279",
+                    "description": "A crispy and soft dosa stuffed with a generous amount of cheese and aromatic spices.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chef's Special Dosa",
+                    "price": "\u20b9299",
+                    "description": "A crispy and layered South Indian pancake with a savory filling of mixed vegetables and spices.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Masala Dosa",
+                    "price": "\u20b9199",
+                    "description": "A crispy, golden brown, layered South Indian crepe made with a blend of aromatic spices, served with sambhar and chutney.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mysore Masala Dosa",
+                    "price": "\u20b9249",
+                    "description": "A crispy and flavourful dosa made with a special blend of spices and chutney. The perfect accompaniment to your South Indian meal.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Onion Masala Dosa",
+                    "price": "\u20b9219",
+                    "description": "A crispy and flavorful dosa filled with a delicious onion based stuffing, this dosa is a must try for onion lovers.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Masala Dosa",
+                    "price": "\u20b9249",
+                    "description": "A crispy and soft dosa filled with aromatic paneer and delicious masala sauce. A wholesome breakfast dish.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Plain Dosa",
+                    "price": "\u20b9149",
+                    "description": "Crispy and soft dosa served with sambhar and chutney.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Rava Masala Dosa",
+                    "price": "\u20b9249",
+                    "description": "Crisp and light, this rava masala dosa is filled with a flavorful potato and spice blend. The dosa has a thin crisp layer.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Onion Rava Dosa",
+                    "price": "\u20b9249",
+                    "description": "A crispy and aromatic dosa made with soft and fluffy rava dosa batter, topped with crunchy and flavorful onions. A perfect dish for breakfast.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Rava Plain Dosa",
+                    "price": "\u20b9209",
+                    "description": "A crispy and light South Indian pancake made from a combination of rice and wheat flour, seasoned with aromatic spices and garnished with fresh vegetables.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Special Masala Dosa",
+                    "price": "\u20b9299",
+                    "description": "A crispy and fluffy dosa filled with a flavorful masala filling, perfect for a quick and satisfying breakfast.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Uttapam",
+            "items": [
+                {
+                    "name": "Onion Tomato Uttapam",
+                    "price": "\u20b9199",
+                    "description": "A light and flavorful snack made with a combination of onions and tomatoes, the perfect blend of tangy and sweet flavors. Serve with chutneys and sambhar.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Onion Uttapam",
+                    "price": "\u20b9189",
+                    "description": "A traditional South Indian savory pancake made with a flavorful onion and tomato filling, accompanied by a tangy chutney.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Uttapam",
+                    "price": "\u20b9219",
+                    "description": "A crispy, fluffy and flavorful Indian pancake made with soft paneer, a combination of traditional spices and fresh vegetables.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Plain Uttapam",
+                    "price": "\u20b9169",
+                    "description": "A crispy, fluffy and light dish made with fermented batter, layered with a tangy chutney and fresh garnishing. Perfect for a light lunch or dinner.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Tomato Uttapam",
+                    "price": "\u20b9169",
+                    "description": "A traditional South Indian snack made with a batter of rice and tomatoes, served with chutney and sambhar.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Idli",
+            "items": [
+                {
+                    "name": "Idli Sambar",
+                    "price": "\u20b9149",
+                    "description": "A classic South Indian breakfast dish made with soft and fluffy idlis served with sambar, a flavorful lentil-based stew. The perfect way",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Tadka Idli",
+                    "price": "\u20b9159",
+                    "description": "A crispy, golden-brown idli, bursting with the flavors of cumin, asafoetida, and curry leaves.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Vada",
+            "items": [
+                {
+                    "name": "Sambar Vada",
+                    "price": "\u20b9149",
+                    "description": "A crispy and savory dish that is a popular street-side snack in India. These fried vadas are dipped in a spicy, tangy sambar",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Spicy"
+                }
+            ]
+        },
+        {
+            "category": "Upma",
+            "items": [
+                {
+                    "name": "Plain Upma",
+                    "price": "\u20b9199",
+                    "description": "A delectable South Indian breakfast item made from a combination of rice and lentils. It is a rich source of carbohydrates and protein.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Sheera Upma",
+                    "price": "\u20b9199",
+                    "description": "A healthy and wholesome dish made of upma, a traditional South Indian breakfast dish. This dish is made with a combination of rice and lentils.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Rice",
+            "items": [
+                {
+                    "name": "Curd Rice",
+                    "price": "\u20b9219",
+                    "description": "A classic South Indian dish, made with rice, curd and spices. A comforting meal that is perfect for any occasion.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Masala Curd Rice",
+                    "price": "\u20b9239",
+                    "description": "A delicious and flavorful dish made with rice cooked in a rich, aromatic blend of spices, and seasoned with a tangy and spicy yogurt sauce.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Peanut Rice",
+                    "price": "\u20b9219",
+                    "description": "A delicious, aromatic dish made with a blend of aromatic spices and fresh vegetables, cooked with rice to create a flavorful dish that is perfect for any occasion.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Tomato Rice",
+                    "price": "\u20b9219",
+                    "description": "A spicy and tangy rice dish made with ripe tomatoes, basmati rice, and aromatic spices.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Spicy"
+                }
+            ]
+        },
+        {
+            "category": "Desserts",
+            "items": [
+                {
+                    "name": "Rava Kesri",
+                    "price": "\u20b9149",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Beijing Bowl",
+            "items": [
+                {
+                    "name": "Chilli Garlic Noodles With Cheese Chilli Gravy",
+                    "price": "\u20b9249",
+                    "description": "A classic Chinese noodles dish with a fiery and addictive chilli garlic sauce, perfect for a quick and delicious meal. The noodles are tossed with a flavourful.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Veg Fried Rice With Cheese Chilli Gravy",
+                    "price": "\u20b9259",
+                    "description": "A flavorful rice dish made with vegetables , topped with a rich chilli gravy, for a delicious and satisfying meal.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Veg Manchurian With Garlic Noodles",
+                    "price": "\u20b9249",
+                    "description": "An appetizing mixed of crunchy deep-fried manchurian and noodles, tossed in a tangy garlic sauce.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Noodles With Manchurian Gravy",
+                    "price": "\u20b9249",
+                    "description": "A flavorful dish made with tender noodles and delicious gravy, it is a perfect option for those who are looking for a quick and easy meal.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mushroom Soup",
+                    "price": "\u20b9199",
+                    "description": "A rich and creamy soup made with saut?ed mushroom, fresh herbs and spices.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Sweet Corn Soup",
+                    "price": "\u20b9169",
+                    "description": "A light and flavorful soup made with corn kernels, carrots and onion. A perfect meal to enjoy on a warm summer day.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Tomato Soup",
+                    "price": "\u20b9169",
+                    "description": "A comforting bowl of tomato soup, flavored with aromatic spices and herbs, garnished with a dollop of sour cream.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Clear Soup",
+                    "price": "\u20b9169",
+                    "description": "A light and refreshing soup with a blend of fresh vegetables, simmered in a flavorful broth. A perfect starter to whet your appetite.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Hot And Sour Soup",
+                    "price": "\u20b9169",
+                    "description": "A zesty and tangy soup with a blend of vegetables and spices, perfect for a cold winter night.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Lemon Coriander Soup",
+                    "price": "\u20b9169",
+                    "description": "A flavorful and healthy soup made with a variety of vegetables and spices. This soup is perfect for those who want a light and refreshing meal.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Manchow Soup",
+                    "price": "\u20b9169",
+                    "description": "A deliciously spicy and tangy soup with a burst of flavors, veg. manchow soup is the perfect dish to warm your tummy during the cold.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Veg Cheese Chilly Gravy",
+                    "price": "\u20b9249",
+                    "description": "A delicious dish that is a mix of spicy and cheesy flavours. The dish is a combination of cheese chunks cooked in a spicy, tangy and creamy gravy.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Veg Manchurian Gravy",
+                    "price": "\u20b9229",
+                    "description": "An exotic dish that combines the tangy flavors of manchurian with the tender and flavorful goodness of vegetables. This dish is a perfect blend of both flavors.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cheese Chilli Dry",
+                    "price": "\u20b9279",
+                    "description": "A rich and creamy dish made with a mix of cheese and dry red chilli powder, this dish is sure to satisfy your cravings.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Crispy Chilli Baby Corn",
+                    "price": "\u20b9289",
+                    "description": "Crispy and spicy baby corn cooked in a flavorful blend of spices with a tinge of sweetness. A perfect snack for those who want a little spice.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Chilli Mushroom Dry",
+                    "price": "\u20b9289",
+                    "description": "Crispy and tasty, this dish is perfect for those who enjoy a little spice in their food. The succulent mushrooms are marinated in a spicy marinade.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Chilli Potato",
+                    "price": "\u20b9189",
+                    "description": "A classic dish from the Chinese cuisine, chilli potatoes are a delicious and filling vegetarian snack that is spicy, crispy and satisfying.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Crispy Veg",
+                    "price": "\u20b9249",
+                    "description": "Crispy and flavorful, this dish is a perfect combination of crunchy vegetables and spices. A mouthwatering dish that is sure to impress.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Honey Chilli Potato",
+                    "price": "\u20b9219",
+                    "description": "Crispy potato and sweet honey chilli sauce make this dish a lip-smacking delight. This dish is a perfect blend of sweet and spicy.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Manchurian Dry",
+                    "price": "\u20b9249",
+                    "description": "A spicy and tangy vegetarian dish made with soft and crispy fried cauliflower florets in a tangy and spicy sauce.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Mushroom Salted & Pepper",
+                    "price": "\u20b9199",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Kurkure Momos [5 Pieces]",
+                    "price": "\u20b9199",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Kurkure Paneer Momos",
+                    "price": "\u20b9219",
+                    "description": "Enjoy the spicy and flavorful bite of these paneer momos, infused with a hint of curry. The soft, melt-in-the-mouth",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Paneer Fried Momos [5 Pieces]",
+                    "price": "\u20b9179",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Steamed Momos [5 Pieces]",
+                    "price": "\u20b9159",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Tandoori Momos [5 Pieces]",
+                    "price": "\u20b9199",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Fried Momos [5 Pieces]",
+                    "price": "\u20b9159",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Steamed Momos [5 Pieces]",
+                    "price": "\u20b9139",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Nachos Salsa",
+                    "price": "\u20b9219",
+                    "description": "Nachos topped with a flavorful salsa of fresh tomatoes, onion and cilantro, with a side of sour cream.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chinese Chopsuey",
+                    "price": "\u20b9299",
+                    "description": "A traditional Chinese dish made with fresh vegetables and a savory sauce.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Chopsuey",
+                    "price": "\u20b9289",
+                    "description": "A delicious blend of vegetables cooked in rich tomato gravy, enhanced with aromatic spices and herbs. This is a perfect dish to serve with rice, chapati",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cheese Corn Rolls",
+                    "price": "\u20b9249",
+                    "description": "A delicious and flavorful vegetarian snack with a cheesy twist. Fluffy corn rolls wrapped in a crisp outer layer, with a soft and gooey filling of",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Dragon Rolls",
+                    "price": "\u20b9249",
+                    "description": "A crispy yet flavourful dish with a delicious blend of vegetables and spices. Enjoy the unique taste of this dish that will have you craving for more.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Spring Roll",
+                    "price": "\u20b9229",
+                    "description": "Crispy and delicious spring roll filled with a mixed of fresh veggies, herbs and spices. It is a popular street food in India.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Platter (South Indian)",
+            "items": [
+                {
+                    "name": "Anyone Dosa + Vada/idli + Rava Kesri",
+                    "price": "\u20b9399",
+                    "description": "A unique combination of crispy dosa and soft and spongy vada, served with a side of fluffy idli and a delectable, aromatic kes",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Anyone Uttapam+ Upma + Idli/Vada + Rava Kesri",
+                    "price": "\u20b9399",
+                    "description": "A delicious and wholesome breakfast combination of a crispy uttapam, a savory idli and a fluffy rava kesari.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Masala Dosa + Idli + Rava Kesri",
+                    "price": "\u20b9329",
+                    "description": "A traditional South Indian dish that is a must-try for all those who love south Indian cuisine. Masala dosa and idli are crispy and",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Rice & Noodles",
+            "items": [
+                {
+                    "name": "Veg Chilli Garlic Noodles",
+                    "price": "\u20b9239",
+                    "description": "Spicy and tangy, our chilli & garlic noodles is a delectable treat for all those who love their food with a hint of spice.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Veg Hakka Noodles",
+                    "price": "\u20b9209",
+                    "description": "A delicious bowl of hakka noodles, a popular Chinese noodles dish, that is a combination of sweet and spicy flavors. Made with hakka style noodles.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Hong Kong Style Noodles",
+                    "price": "\u20b9249",
+                    "description": "Enjoy a bowl of delectable and flavourful Hong Kong-style noodles with a special twist of sweetness.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Schezwan Noodles",
+                    "price": "\u20b9199",
+                    "description": "A spicy, tangy noodle dish with a blend of Chinese and Indian flavors. Schezuan noodles in a spicy and tangy sauce with a touch of Indian",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Veg Singapore Noodles",
+                    "price": "\u20b9249",
+                    "description": "A delicious dish of Asian origin consisting of a savory noodles dish, with a variety of fresh vegetables and aromatic spices.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Noodles",
+                    "price": "\u20b9189",
+                    "description": "A healthy and wholesome meal, Veg noodles is a delicious and nutritious dish. The fresh and flavoursome noodles are tossed in a delicious, flavourful",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Salad And Raita",
+            "items": [
+                {
+                    "name": "Aloo Raita",
+                    "price": "\u20b9139",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Shakes",
+            "items": [
+                {
+                    "name": "Blueberry Shake",
+                    "price": "\u20b9199",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Bubble Gum Shake",
+                    "price": "\u20b9199",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Dry Fruit Shake",
+                    "price": "\u20b9219",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Kitkat Shake",
+                    "price": "\u20b9199",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mango Shake",
+                    "price": "\u20b9199",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Oreo Shake",
+                    "price": "\u20b9199",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Refreshing Paan",
+                    "price": "\u20b9199",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Strawaberry Shake",
+                    "price": "\u20b9199",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Vanila Shake",
+                    "price": "\u20b9199",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Lassi",
+            "items": [
+                {
+                    "name": "Salted Lassi",
+                    "price": "\u20b9149",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Strawberry Lassi",
+                    "price": "\u20b9159",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Sweet Lassi",
+                    "price": "\u20b9149",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Mocktails",
+            "items": [
+                {
+                    "name": "Blue Lagoon",
+                    "price": "\u20b9159",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Blueberry Mojito",
+                    "price": "\u20b9159",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cola Masala Mojito",
+                    "price": "\u20b9159",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Lemon Mint Chilli",
+                    "price": "\u20b9169",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Lemonade",
+                    "price": "\u20b9129",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paan Mojito",
+                    "price": "\u20b9169",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Tuti Fruity Mojito",
+                    "price": "\u20b9169",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Virgin Mjito",
+                    "price": "\u20b9149",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Watermelon Mojito",
+                    "price": "\u20b9159",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Drinks (Beverages)",
+            "items": [
+                {
+                    "name": "Mineral Water Bottle [1 Ltr]",
+                    "price": "\u20b930",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Frappe",
+            "items": [
+                {
+                    "name": "Classic Cold Coffee",
+                    "price": "\u20b9199",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                }
+            ]
+        }
+    ]
+}

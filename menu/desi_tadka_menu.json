@@ -1,0 +1,3886 @@
+{
+    "restaurant": {
+        "name": "Desi Tadka",
+        "location": "254/1, Civil Lines, Haridwar Highway Road, Roorkee Locality, Roorkee",
+        "contact": "+919897002272",
+        "operating_hours": "10 AM - 11 PM"
+    },
+    "menu": [
+        {
+            "category": "Navratri Specials",
+            "items": [
+                {
+                    "name": "Fruit Falhari",
+                    "price": "\u20b9140",
+                    "description": "Seasonal fruits.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Sabudana ki Tikki",
+                    "price": "\u20b9240",
+                    "description": "Made with potato & sabudana.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Navratri Bhalle ke Chaat",
+                    "price": "\u20b9120",
+                    "description": "Made with samak ke chawal.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Navratri Kheer",
+                    "price": "\u20b9140",
+                    "description": "Made with samak ke chawal.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mini Navratri Meals",
+                    "price": "\u20b9260",
+                    "description": "Sabudana ke Tikki [6 Pieces]+Chips",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Navratri Thali [Mini]",
+                    "price": "\u20b9360",
+                    "description": "Bhalle ki Chaat+Sabudana ki Tikki [6 Pieces]+Fruit Chaat+Plain Dahi+Aloo ki Chips+Navratri Kheer+Hari Chutney",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Navratri Thali [Regular]",
+                    "price": "\u20b9420",
+                    "description": "Bhalla ki Chaat+Fruit Chaat+Aloo Moongfali ki Sabji+Paneer Makhani+Hari Chutney+Plain Dahi+2 Kuttu ke Paratha+Aloo Chips+Samak ke Kheer",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mini Navratri Bhalla Chaat Meals",
+                    "price": "\u20b9180",
+                    "description": "Samak Chawal Bhalla Chaat+Chips",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Lunch and Dinner Special Combos and Thali",
+            "items": [
+                {
+                    "name": "Chole Kulcha Combo",
+                    "price": "\u20b9268",
+                    "description": "Chole Kulcha+2 Stuffing Kulcha",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Dal Makhani with Tawa Roti",
+                    "price": "\u20b9268",
+                    "description": "Dal Makhani+Rice+4 Tawa Roti",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chole with Tawa Roti",
+                    "price": "\u20b9268",
+                    "description": "Chole+4 Soft Tawa Roti+Gulab Jamun [1 Piece]",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chole with Tawa Roti [No Onion No Garlic]",
+                    "price": "\u20b9268",
+                    "description": "Chole+Rice+4 Soft Tawa Roti+Gulab Jamun [1 Piece]",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Dal Tadka with Tawa Roti",
+                    "price": "\u20b9268",
+                    "description": "Dal Tadka+Rice+4 Tawa Roti",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Dal Tadka with Tawa Roti [No Onion No Garlic]",
+                    "price": "\u20b9268",
+                    "description": "Dal Tadka+Rice+4 Tawa Roti",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Punjabi Dal Tadka with Tawa Roti",
+                    "price": "\u20b9268",
+                    "description": "Punjabi Dal Tadka+Rice+4 Tawa Roti",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Punjabi Dal Tadka with Tawa Roti [No Onion No Garlic]",
+                    "price": "\u20b9268",
+                    "description": "Punjabi Dal Tadka+Rice+4 Tawa Roti+Gulab Jamun [1 Piece]",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chole with Naan",
+                    "price": "\u20b9288",
+                    "description": "Chole+Rice+1 Butter Naan+1 Tandoori Roti+Gulab Jamun [1 Piece]",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Dal Makhani with Naan [No Onion No Garlic]",
+                    "price": "\u20b9288",
+                    "description": "Dal Makhani+Rice+1 Butter Naan+1 Tandoori Roti Butter+Gulab Jamun [1 Piece]",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chole with Naan [No Onion No Garlic]",
+                    "price": "\u20b9288",
+                    "description": "Chole+Rice+1 Butter Naan+1 Tandoori Roti+Gulab Jamun [1 Piece]",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Dal Tadka with Naan",
+                    "price": "\u20b9288",
+                    "description": "Dal Tadka+Rice+1 Butter Naan+1 Tandoori Roti+Gulab Jamun [1 Piece]",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Dal Tadka with Naan[No Onion No Garlic]",
+                    "price": "\u20b9288",
+                    "description": "Dal Tadka+Rice+1 Butter Naan+1 Tandoori Roti+Gulab Jamun [1 Piece]",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Punjabi Dal Tadka with Naan",
+                    "price": "\u20b9288",
+                    "description": "Punjabi Dal Tadka+Rice+4 Tawa Roti+Gulab Jamun [1 Piece]",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Punjabi Dal Tadka with Naan [No Onion No Garlic]",
+                    "price": "\u20b9288",
+                    "description": "Punjabi Dal Tadka+Rice+4 Tawa Roti+Gulab Jamun [1 Piece]",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Kadai Paneer with Tawa Roti",
+                    "price": "\u20b9298",
+                    "description": "Kadai Paneer+Steamed Rice+4 Tawa Roti+Gulab Jamun [1 Piece]",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Jain Kadai Paneer with Tawa Roti",
+                    "price": "\u20b9298",
+                    "description": "Kadai Paneer+Steamed Rice+4 Tawa Roti+Gulab Jamun [1 Piece]",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Kadai Paneer with Naan",
+                    "price": "\u20b9298",
+                    "description": "Kadai Paneer+Steamed Rice+1 Naan Butter+1 Butter Tandoori Roti+Gulab Jamun [1 Piece]",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Kadai Paneer Combo",
+                    "price": "\u20b9298",
+                    "description": "[No Onion No Garlic] Kadai Paneer+Steamed Rice+1 Naan Butter+1 Butter Tandoori Roti+Gulab Jamun [1 Piece]",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Shahi Paneer with 4 Tawa Roti",
+                    "price": "\u20b9298",
+                    "description": "Shahi Paneer+Steam Rice+4 Tawa Roti Butter+Gulab Jamun [1 Piece]",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Shahi Paneer with Tawa Roti",
+                    "price": "\u20b9298",
+                    "description": "No onion and no garlic. Shahi Paneer+Steamed Rice+4 Tawa Roti+Gulab Jamun [1 Piece]",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Shahi Paneer with Naan",
+                    "price": "\u20b9298",
+                    "description": "Shani\u00a0 Paneer+Steam Rice+1 Butter Naan+1 Tandoori Roti+Gulab Jamun [1 Piece]",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Shahi Paneer with Butter Naan",
+                    "price": "\u20b9298",
+                    "description": "No onion and no garlic.\u00a0Shahi Paneer+Steam Rice+1 Butter Naan+1 Tandoori Roti+Gulab Jamun [1 Piece]",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Matar Paneer with Tawa Roti",
+                    "price": "\u20b9298",
+                    "description": "Matar Paneer+Steamed Rice+4 Tawa Roti+Gulab Jamun [1 Piece]",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Thali",
+                    "price": "\u20b9488",
+                    "description": "Dal Makhani+Kadai Paneer+Chana Masala+Dum Aloo+4 Butter Tawa Roti+Rice+Onion+Papad+Mixed Fruit Raita+Gulab Jamun [1 Piece]",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Thali [No Onion No Garlic]",
+                    "price": "\u20b9488",
+                    "description": "Dal Makhani+Kadai Paneer+Chana Masala+Dum Aloo+4 Butter\u00a0Tawa Roti+ Rice+Papad+Mixed Fruit Raita+Gulab Jamun [1 Piece]",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Thali Party Combo Pack [Serves 8]",
+                    "price": "\u20b92800",
+                    "description": "Dahi ke Kebab [8 Pieces]+Paneer Tikka [8 Pieces]+Veg Spring Roll [10 Pieces]+Veg Manchurian [8 Pieces]+4 Veg Manchow Soup+Fresh Lime Soda+Paneer Handi Kor+Dal Makhani+Veg Biryani+Mixed Veg Raita+Soya Chaap Changezi+Veg Noodles+Green Salad+ Bread Basket+Gulab Jamun [6 Pieces]+Chocolate Brownie [2 Pieces]",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Curry Combo",
+                    "price": "\u20b9298",
+                    "description": "Chicken Curry+Rice+4 Tawa Roti+Gulab Jamun [1 Piece]",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Egg Thali",
+                    "price": "\u20b9460",
+                    "description": "Egg Curry [2 Eggs]+Dal Makhani+Soya Chaap Changezi+Rice+4 Tawa Roti+Papad+Mixed Fruit Raita+Gulab Jamun [1 Piece]",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Thali",
+                    "price": "\u20b9520",
+                    "description": "Chicken Boti Masala+Dal Makhani+Soya Chaap Masala+4 Butter Tawa Roti+Onion+Papad+Rice+Mixed Fruit Raita+Gulab Jamun\u00a0[1 Piece]",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Biryani Combo",
+                    "price": "\u20b9620",
+                    "description": "Chicken Biryani [6 Pieces]+Chicken Tangdi Curry [2 Pieces]+2 Butter Naan+Plain Dahi",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Non Veg Thali Party Combo",
+                    "price": "\u20b92998",
+                    "description": "Mutton Shami Kebab [8 Pieces]+Chicken Tandoori [8 Pieces]+Paneer Tikka [8 Pieces]+Chicken Spring Roll [10 Pieces]+Veg Hot and Sour Soup+Chicken Manchow Soup+\nChicken Kofta [10 Pieces]+Mutton Korma [8 Pieces]+Chicken Biryani [6 Pieces]+Dal Makhani+Paneer Handi Korma+Chicken Noodles+Green Salad+Mix Basket+Gulab Jamun [6 Pieces]+Chocolate Brownie [2 Pieces]",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Veg Manchurian with Veg Noodles",
+                    "price": "\u20b9368",
+                    "description": "Veg Manchurian [6 Pieces]+Veg Fried Rice+Veg Spring Roll [2 Pieces] Cigar+Gulab Jamun [1 Piece]+2 Tawa Roti+Mix Fruit Raita",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Manchurian with Veg Fried Rice Combo",
+                    "price": "\u20b9368",
+                    "description": "Veg Manchurian [6 Pieces]+Veg Fried Rice+Veg Spring Roll [2 Pieces] Cigar+Gulab Jamun [1 Piece]+2 Tawa Roti+Mix Fruit Raita",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chilli Paneer with Veg Noodles Combo",
+                    "price": "\u20b9368",
+                    "description": "Chilli Paneer [6 Pieces]+Veg Noodles+Veg Spring Roll [2 Pieces]+Mix Fruit Raita+2 Tawa Roti+Gulab Jamun [1 Piece]",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Chilli Paneer with Veg Fried Rice Combo",
+                    "price": "\u20b9368",
+                    "description": "Chilli Paneer [6 Pieces]+Veg Noodles+Veg Spring Roll [2 Pieces]+Mix Fruit Raita+2 Tawa Roti+Gulab Jamun [1 Piece]",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Chilli Chicken with Veg Fried Rice",
+                    "price": "\u20b9388",
+                    "description": "Chilli Chicken [6 Pieces]+Veg Fried Rice+Chicken Spring Roll [2 Pieces]+Cigar+Mixed Fruit Raita+2 Tawa Roti+Gulab Jamun [1 Piece]",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Chilli Chicken with Veg Noodles",
+                    "price": "\u20b9388",
+                    "description": "Chilli Chicken [6 Pieces]+Veg Noodles+Chicken Spring Roll [2 Pieces]+Cigar+Mixed Fruit Raita+2 Tawa Roti+Gulab Jamun [1 Piece]",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Spicy"
+                }
+            ]
+        },
+        {
+            "category": "Tandoor Indian Starters",
+            "items": [
+                {
+                    "name": "Tandoori Chicken Dry",
+                    "price": "\u20b9260",
+                    "description": "Tandoori Chicken Sauce",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Tandoori Chicken Garlic and Butter Sauce",
+                    "price": "\u20b9280",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Afghani Chicken Kali Mirch with Cream & Butter",
+                    "price": "\u20b9280",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Tandoori Chicken With Cream N Butter",
+                    "price": "\u20b9280",
+                    "description": "Roasted tandoori chicken served with cream and butter sauce.",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Tandoori Chicken Kali Mirch Dry",
+                    "price": "\u20b9280",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Tandoori Chicken Lasooni Kali Mirch Dry",
+                    "price": "\u20b9280",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Tandoori Anghiti Chicken Dry",
+                    "price": "\u20b9280",
+                    "description": "Cream and Butter Anghiti Tandoori Chicken",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Tandoori Lakhnavi Chicken Dry",
+                    "price": "\u20b9280",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Tandoori Bhatti Murg Dry",
+                    "price": "\u20b9280",
+                    "description": "Tandoori Chicken Sauce",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Afghani Chicken Cream & Butter",
+                    "price": "\u20b9280",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Tandoori Chicken Kali Mirch Cream & Butter",
+                    "price": "\u20b9298",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Tandoori Chicken Sauce",
+                    "price": "\u20b9280",
+                    "description": "1 Tandoori Chicken Sauce",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Tandoori Chicken Lasooni Kali Mirch with Cream & Butter",
+                    "price": "\u20b9298",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Tandoori Anghiti Chicken Cream N Butter",
+                    "price": "\u20b9298",
+                    "description": "Cream and Butter Anghiti Tandoori Chicken",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Tandoori Lakhnavi Chicken Cream & Butter",
+                    "price": "\u20b9298",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Tandoori Bhatti Murg Cream N Butter",
+                    "price": "\u20b9280",
+                    "description": "Tandoori Chicken Sauce",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Afghani Chicken Sauce",
+                    "price": "\u20b9298",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Afghani Chicken Lasooni Kali Mirch with Cream & Butter",
+                    "price": "\u20b9298",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Tandoori Chicken Tangdi Dry",
+                    "price": "\u20b9480",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Tandoori Chicken Tangdi with Cream & Butter",
+                    "price": "\u20b9498",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Russian Cutlet",
+                    "price": "\u20b9260",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Tikka Dry ( Half ) 6 Pcs",
+                    "price": "\u20b9320",
+                    "description": "Chicken tikka is cubed chicken that is marinated in spiced yoghurt mixture then grilled to perfection served with tangy salad .",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Tikka Dry [Full, 12 Pieces]",
+                    "price": "\u20b9540",
+                    "description": "Chicken tikka is cubed chicken that is marinated in spiced yoghurt mixture then grilled to perfection served with tangy salad.",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Tikka Kali Mirch [Half, 6 Pieces]",
+                    "price": "\u20b9320",
+                    "description": "Chicken tikka is cubed chicken that is marinated in spiced yoghurt mixture then grilled to perfection served with tangy salad .",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Tikka Kali Mirch [Full, 12 Pieces]",
+                    "price": "\u20b9540",
+                    "description": "Chicken tikka is cubed chicken that is marinated in spiced yoghurt mixture then grilled to perfection served with tangy salad.",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Malai Tikka [Half, 6 Pieces]",
+                    "price": "\u20b9340",
+                    "description": "chicken malai tikka also known as murgh malai kebab is a arich kabab of mughlai cuisines. Boneless chicken pieces are marinated in a cheese, cashew and cream based marinated with a small amount of yoghurt served with cream n butter sauce",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Malai Tikka [Full, 12 Pieces]",
+                    "price": "\u20b9560",
+                    "description": "chicken malai tikka also known as murgh malai kebab is a arich kabab of mughlai cuisines. Boneless chicken pieces are marinated in a cheese, cashew and cream based marinated with a small amount of yoghurt served with cream n butter sauce",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Lakhnavi Nawabi Tikka [Half, 6 Pieces]",
+                    "price": "\u20b9320",
+                    "description": "Lakhnavi is known for its nawabi heritage, architecture...to soft and that makes this Indian kebab recipe a melt in the mouth from the awadhi table",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Lakhnavi Nawabi Tikka [Full, 12 Pieces]",
+                    "price": "\u20b9540",
+                    "description": "Lakhnavi is known for its nawabi heritage, architecture...to soft and that makes this Indian kebab recipe a melt in the mouth from the awadhi table",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Anghiti Chicken Tikka [Half, 6 Pieces]",
+                    "price": "\u20b9320",
+                    "description": "Tikka With Coal Flavour",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Anghiti Chicken Tikka [Full, 12 Pieces]",
+                    "price": "\u20b9540",
+                    "description": "Tikka With Coal Flavour",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Tawa Kebab Boneless with khamira roti 2 butter",
+                    "price": "\u20b9280",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mutton Shami Kebab",
+                    "price": "\u20b9280",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Seekh Kebab",
+                    "price": "\u20b9460",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Crispy Basa Fish",
+                    "price": "\u20b9320",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Fish Finger",
+                    "price": "\u20b9320",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Amritsari Basa Fish Pakora",
+                    "price": "\u20b9360",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Basa Fish Tandoori Tikka",
+                    "price": "\u20b9360",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Soya Tandoori Tikka Cream and Butter",
+                    "price": "\u20b9220",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Dahi Ke Kebab",
+                    "price": "\u20b9260",
+                    "description": "No onion and no garlic.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Dahi Ke Sholey",
+                    "price": "\u20b9260",
+                    "description": "No onion and no garlic.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Tikka",
+                    "price": "\u20b9260",
+                    "description": "No onion and no garlic.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Amritsari Tikka",
+                    "price": "\u20b9260",
+                    "description": "Punjabi paneer tikka.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Lahori Tikka",
+                    "price": "\u20b9260",
+                    "description": "Pakistani Paneer Tikka",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Achari Paneer Tikka",
+                    "price": "\u20b9260",
+                    "description": "No onion and no garlic.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Kali Mirch Red Paneer Tikka",
+                    "price": "\u20b9280",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Green Thai Paneer Tikka",
+                    "price": "\u20b9260",
+                    "description": "Paneer tikka marinated with green thai paste.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Lasooni Kali Mirch Paneer Malai Tikka",
+                    "price": "\u20b9260",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Hariyali Tikka",
+                    "price": "\u20b9260",
+                    "description": "No onion and no garlic.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Yellow Thai Paneer Tikka",
+                    "price": "\u20b9260",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Red Thai Paneer Tikka",
+                    "price": "\u20b9260",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Malai Tikka",
+                    "price": "\u20b9280",
+                    "description": "No onion and no garlic.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Papad Ke Dahi Ke Kebab",
+                    "price": "\u20b9280",
+                    "description": "No onion and no garlic.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Soya Afghani Tikka",
+                    "price": "\u20b9260",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Papad Ke Kebab",
+                    "price": "\u20b9260",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Bharwan Tandoori Aloo",
+                    "price": "\u20b9280",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Russian Cutlets",
+                    "price": "\u20b9240",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Mexican Kebab",
+                    "price": "\u20b9240",
+                    "description": "Spicy kebab.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Mutter and Corn Kebab",
+                    "price": "\u20b9240",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Achari Mutter & Corn Kebab",
+                    "price": "\u20b9240",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Corn Kebab",
+                    "price": "\u20b9240",
+                    "description": "No onion and no garlic.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Shami Kebab",
+                    "price": "\u20b9240",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Hara Bhara Kebab",
+                    "price": "\u20b9220",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Basket",
+            "items": [
+                {
+                    "name": "Plain Mixed Basket [Regular ]",
+                    "price": "\u20b9340",
+                    "description": "2 Khamira Roti+2 Tandoori Roti+2 Missi Roti+2 Naan",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mix Basket Regular Butter",
+                    "price": "\u20b9380",
+                    "description": "2 Khamira Roti+2 Tandoori Roti+2 Missi Roti+2 Naan",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mix Basket Deluxe Plain",
+                    "price": "\u20b9380",
+                    "description": "2 Khamira Roti+2 Tandoori Roti+2 Missi Roti+2  Naan + 1 Stuff Veg Naan",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mix Basket Deluxe Butter",
+                    "price": "\u20b9400",
+                    "description": "2 Khamira Roti+2 Tandoori Roti+2 Missi Roti+2  Naan + 1 Stuff Veg Naan",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Platters",
+            "items": [
+                {
+                    "name": "Veg Tandoori Platter [Full]",
+                    "price": "\u20b9660",
+                    "description": "Paneer Tikka [4 Pieces]+Matar Achari Kebab [4 Pieces]+Dahi Ke Kebab [4 Pieces]+Bharwan Tandoori Aloo+Dal Makhani+2 Khamira Roti Butter",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Chinese Platter [Full]",
+                    "price": "\u20b9660",
+                    "description": "Veg Spring Roll [4 Pieces]+Chilli Paneer [6 Pieces]+Veg Manchurian [6 Pieces]+French Fries+ Veg Noodles+Veg Fried Rice",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Non Veg Tandoori Platter [Full]",
+                    "price": "\u20b9698",
+                    "description": "Tandoori Chicken [4 Pieces]+Fish Amritsari [4 Pieces]+Mutton Shami Kebab [6 Pieces]+chicken Tangri [4 Pieces]+Chicken Gravy and 2 Khamira Roti",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Non Veg Chinese Platter [Full]",
+                    "price": "\u20b9698",
+                    "description": "1 Chicken Spring Roll [4 Pieces]+1 Chilli Fish [6 Pieces]+1 Chicken Lollipop [4 Pieces]+1 Chicken Noodles+1 Chicken Fried Rice+1 French Fries",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Spicy"
+                }
+            ]
+        },
+        {
+            "category": "Soups and Salad",
+            "items": [
+                {
+                    "name": "Chicken Manchow Soup",
+                    "price": "\u20b9280",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Sweet Corn Soup",
+                    "price": "\u20b9280",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Hot and Sour Soup",
+                    "price": "\u20b9280",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cream Chicken Soup",
+                    "price": "\u20b9280",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Maggi Soup",
+                    "price": "\u20b9280",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Lemon Coriander Soup",
+                    "price": "\u20b9280",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Sweet Corn Lemon Coriander Soup",
+                    "price": "\u20b9280",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Green Salad",
+                    "price": "\u20b980",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Manchow Soup [Full]",
+                    "price": "\u20b9240",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Maggi Soup",
+                    "price": "\u20b9240",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Tomato Dhaniya Shorba Soup",
+                    "price": "\u20b9240",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Lemon Coriander Soup",
+                    "price": "\u20b9240",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cream of Tomato Soup",
+                    "price": "\u20b9240",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Hot and Sour Soup [Full]",
+                    "price": "\u20b9260",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Sweet Corn Soup [Full]",
+                    "price": "\u20b9260",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Sweet Corn Lemon Coriander Soup",
+                    "price": "\u20b9260",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Clear Soup",
+                    "price": "\u20b9260",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cream of Sweet Corn",
+                    "price": "\u20b9280",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cream of Mushroom Soup",
+                    "price": "\u20b9280",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Main Course",
+            "items": [
+                {
+                    "name": "Dal Makhani",
+                    "price": "\u20b9240",
+                    "description": "Normal days with onion & garlic\nIn  Navaratra Without onion garlic food available.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Dal Tadka Arhar",
+                    "price": "\u20b9240",
+                    "description": "Normal days with onion & garlic\nIn  Navaratra Without onion garlic food available.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Dal Dhabewali",
+                    "price": "\u20b9240",
+                    "description": "Normal days with onion & garlic\nIn  Navaratra Without onion garlic food available.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Dal Punjabi Tadka",
+                    "price": "\u20b9240",
+                    "description": "Normal days with onion & garlic\nIn  Navaratra Without onion garlic food available.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chana Masala",
+                    "price": "\u20b9280",
+                    "description": "Normal days with onion & garlic\nIn  Navaratra Without onion garlic food available.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Palak Chana Masala",
+                    "price": "\u20b9280",
+                    "description": "Normal days with onion & garlic\nIn  Navaratra Without onion garlic food available.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Chana Masala",
+                    "price": "\u20b9280",
+                    "description": "Normal days with onion & garlic\nIn  Navaratra Without onion garlic food available.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Kadai Chole",
+                    "price": "\u20b9280",
+                    "description": "Normal days with onion & garlic\nIn  Navaratra Without onion garlic food available.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mirch Baingan Ka Salan",
+                    "price": "\u20b9280",
+                    "description": "Normal days with onion & garlic\nIn  Navaratra Without onion garlic food available.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Soya Chaap Hara Pyaaz",
+                    "price": "\u20b9280",
+                    "description": "Normal days with onion & garlic\nIn  Navaratra Without onion garlic food available.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Soya Chaap Changezi",
+                    "price": "\u20b9280",
+                    "description": "Normal days with onion & garlic\nIn  Navaratra Without onion garlic food available.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Soya Chaap Kadai Masala",
+                    "price": "\u20b9280",
+                    "description": "Normal days with onion & garlic\nIn  Navaratra Without onion garlic food available.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Mushroom Masala",
+                    "price": "\u20b9280",
+                    "description": "Normal days with onion & garlic\nIn  Navaratra Without onion garlic food available.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Matar Mushroom Masala",
+                    "price": "\u20b9280",
+                    "description": "Normal days with onion & garlic\nIn  Navaratra Without onion garlic food available.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mushroom Hara Pyaaz (Seasonal)",
+                    "price": "\u20b9280",
+                    "description": "Normal days with onion & garlic\nIn  Navaratra Without onion garlic food available.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Palak Mushroom",
+                    "price": "\u20b9280",
+                    "description": "Normal days with onion & garlic\nIn  Navaratra Without onion garlic food available.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Kadai Mushroom Masala",
+                    "price": "\u20b9280",
+                    "description": "Normal days with onion & garlic\nIn  Navaratra Without onion garlic food available.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mushroom Do Pyaza",
+                    "price": "\u20b9280",
+                    "description": "Normal days with onion & garlic\nIn  Navaratra Without onion garlic food available.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Jeera Aloo",
+                    "price": "\u20b9280",
+                    "description": "Normal days with onion & garlic\nIn  Navaratra Without onion garlic food available.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Bhindi Masala",
+                    "price": "\u20b9280",
+                    "description": "Normal days with onion & garlic\nIn  Navaratra Without onion garlic food available.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Bhindi Do Pyaza",
+                    "price": "\u20b9280",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Dum Aloo",
+                    "price": "\u20b9280",
+                    "description": "Normal days with onion & garlic\nIn  Navaratra Without onion garlic food available.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mix Veg",
+                    "price": "\u20b9280",
+                    "description": "Normal days with onion & garlic\nIn  Navaratra Without onion garlic food available.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Aloo Gobi Matar",
+                    "price": "\u20b9240",
+                    "description": "Normal days with onion & garlic\nIn  Navaratra Without onion garlic food available.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Aloo Paneer Do Pyaza",
+                    "price": "\u20b9240",
+                    "description": "Normal days with onion & garlic\nIn  Navaratra Without onion garlic food available.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Aloo Paneer Hara Pyaza",
+                    "price": "\u20b9240",
+                    "description": "Normal days with onion & garlic\nIn  Navaratra Without onion garlic food available.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Kashmiri Dum Aloo",
+                    "price": "\u20b9260",
+                    "description": "Normal days with onion & garlic\nIn  Navaratra Without onion garlic food available.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Tikka Lababdar",
+                    "price": "\u20b9280",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Shahi Paneer",
+                    "price": "\u20b9280",
+                    "description": "Normal days with onion & garlic\nIn  Navaratra Without onion garlic food available.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Kadai Paneer",
+                    "price": "\u20b9280",
+                    "description": "Normal days with onion & garlic\nIn  Navaratra Without onion garlic food available.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Palak Paneer",
+                    "price": "\u20b9280",
+                    "description": "Normal days with onion & garlic\nIn  Navaratra Without onion garlic food available.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Palak Corn",
+                    "price": "\u20b9280",
+                    "description": "Normal days with onion & garlic\nIn  Navaratra Without onion garlic food available.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Kolhapuri",
+                    "price": "\u20b9280",
+                    "description": "Normal days with onion & garlic\nIn  Navaratra Without onion garlic food available.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Matar Paneer",
+                    "price": "\u20b9280",
+                    "description": "Normal days with onion & garlic\nIn  Navaratra Without onion garlic food available.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Do Pyaza",
+                    "price": "\u20b9280",
+                    "description": "Normal days with onion & garlic\nIn  Navaratra Without onion garlic food available.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Tikka Masala",
+                    "price": "\u20b9280",
+                    "description": "Normal days with onion & garlic\nIn  Navaratra Without onion garlic food available.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Mirch Ka Salan",
+                    "price": "\u20b9280",
+                    "description": "Normal days with onion & garlic\nIn  Navaratra Without onion garlic food available.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Patiyala",
+                    "price": "\u20b9280",
+                    "description": "Normal days with onion & garlic\nIn  Navaratra Without onion garlic food available.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Handi Korma",
+                    "price": "\u20b9280",
+                    "description": "Normal days with onion & garlic\nIn  Navaratra Without onion garlic food available.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Butter Masala",
+                    "price": "\u20b9280",
+                    "description": "Normal days with onion & garlic\nIn  Navaratra Without onion garlic food available.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cheese Tomato",
+                    "price": "\u20b9280",
+                    "description": "Normal days with onion and garlic in Navaratra without onion garlic food available.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Lababdar",
+                    "price": "\u20b9280",
+                    "description": "Normal days with onion & garlic\nIn  Navaratra Without onion garlic food available.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Makhanwala",
+                    "price": "\u20b9280",
+                    "description": "Normal days with onion & garlic\nIn  Navaratra Without onion garlic food available.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Lehsuni Paneer Kali Mirch White Gravy",
+                    "price": "\u20b9280",
+                    "description": "Normal days with onion & garlic\nIn  Navaratra Without onion garlic food available.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Lehsuni Paneer Kali Mirch Red Gravy",
+                    "price": "\u20b9280",
+                    "description": "Normal days with onion & garlic\nIn  Navaratra Without onion garlic food available.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Dahi Wala Paneer",
+                    "price": "\u20b9280",
+                    "description": "Normal days with onion and garlic. In  Navaratri without onion garlic food available.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Bhurji",
+                    "price": "\u20b9280",
+                    "description": "Normal days with onion & garlic\nIn  Navaratra Without onion garlic food available.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Masala Kofta",
+                    "price": "\u20b9280",
+                    "description": "Normal days with onion & garlic\nIn  Navaratra Without onion garlic food available.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Malai Kofta White Gravy",
+                    "price": "\u20b9280",
+                    "description": "Normal days with onion & garlic\nIn  Navaratra Without onion garlic food available.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Malai Kofta Red Gravy",
+                    "price": "\u20b9280",
+                    "description": "Normal days with onion & garlic\nIn  Navaratra Without onion garlic food available.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Kaju Korma Red Gravy",
+                    "price": "\u20b9298",
+                    "description": "Normal days with onion & garlic\nIn  Navaratra Without onion garlic food available.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Kaju Korma white gravy",
+                    "price": "\u20b9298",
+                    "description": "Normal days with onion & garlic\nIn  Navaratra Without onion garlic food available.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Palak Kofta",
+                    "price": "\u20b9280",
+                    "description": "Normal days with onion & garlic\nIn  Navaratra Without onion garlic food available.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mutter Meethi Malai",
+                    "price": "\u20b9280",
+                    "description": "Normal days with onion & garlic\nIn  Navaratra Without onion garlic food available.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Egg/Anda Tawa Masala Veg Gravy",
+                    "price": "\u20b9220",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Egg/Anda Curry Veg Gravy",
+                    "price": "\u20b9220",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Egg/Anda Kadai Masala Veg Gravy",
+                    "price": "\u20b9198",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Tangdi Curry",
+                    "price": "\u20b9360",
+                    "description": "Tangdi curry.",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Butter Chicken",
+                    "price": "\u20b9380",
+                    "description": "Creamy butter chicken.",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Butter Masala",
+                    "price": "\u20b9380",
+                    "description": "Chicken Cheese Butter Masala",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Dahi Wala Chicken",
+                    "price": "\u20b9380",
+                    "description": "Chicken made up with max of spices and vegetables.",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Kadai Chicken",
+                    "price": "\u20b9380",
+                    "description": "Dahi wala chicken.",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mughlai Chicken",
+                    "price": "\u20b9380",
+                    "description": "Mughlai chicken.",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Hyderabadi",
+                    "price": "\u20b9380",
+                    "description": "Hyderabadi Chicken",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Korma",
+                    "price": "\u20b9380",
+                    "description": "Spicy chicken Korma made up with whole spices and thick gravy.",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Chicken Lahori",
+                    "price": "\u20b9380",
+                    "description": "Chicken Lahori.",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Masala",
+                    "price": "\u20b9340",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Rogan Josh",
+                    "price": "\u20b9380",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Murgh Mirch Masala",
+                    "price": "\u20b9380",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Meethi Malai White Gravy",
+                    "price": "\u20b9380",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Curry",
+                    "price": "\u20b9360",
+                    "description": "Chicken made up tangy and spicy curry.",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Chicken Hariyali",
+                    "price": "\u20b9380",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Kohlapuri",
+                    "price": "\u20b9380",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Do Pyaza",
+                    "price": "\u20b9380",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Lemon Curry",
+                    "price": "\u20b9380",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Changezi",
+                    "price": "\u20b9380",
+                    "description": "Spicy gravy mix of whole spices is chicken changezi.",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Chicken Lababdar",
+                    "price": "\u20b9380",
+                    "description": "Chicken coated with thick tasty gravy.",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Patiyala",
+                    "price": "\u20b9380",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Chattinad",
+                    "price": "\u20b9380",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Angethi Curry",
+                    "price": "\u20b9380",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Matka Chicken",
+                    "price": "\u20b9648",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Handi with Chicken Rara",
+                    "price": "\u20b9380",
+                    "description": "Chicken made with chicken keema and chicken pieces.",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Kali Mirch White Gravy",
+                    "price": "\u20b9380",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Lasooni Kali Mirch White Gravy",
+                    "price": "\u20b9380",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Kali Mirch Red Gravy",
+                    "price": "\u20b9380",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Lasooni Kali Mirch Red Gravy",
+                    "price": "\u20b9380",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Basa Fish Curry",
+                    "price": "\u20b9380",
+                    "description": "Fish Curry",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Basa Fish Tawa Masala",
+                    "price": "\u20b9380",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Punjabi Basa Fish Curry",
+                    "price": "\u20b9380",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Boneless Chicken Main Course",
+            "items": [
+                {
+                    "name": "Chicken Curry Boneless",
+                    "price": "\u20b9280",
+                    "description": "Chicken curry.",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Boneless Chicken Tikka Masala",
+                    "price": "\u20b9320",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Boneless Butter Chicken",
+                    "price": "\u20b9320",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Butter Masala Boneless",
+                    "price": "\u20b9320",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Dahi Wala Chicken Boneless",
+                    "price": "\u20b9320",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Kadai Chicken Boneless",
+                    "price": "\u20b9320",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Boneless Chicken Rogan Josh",
+                    "price": "\u20b9320",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Murg Mirch Masala Boneless",
+                    "price": "\u20b9320",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Meethi Malai Boneless",
+                    "price": "\u20b9320",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Boneless Chicken Hyderabadi",
+                    "price": "\u20b9320",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Korma Boneless",
+                    "price": "\u20b9320",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Hariyali Boneless",
+                    "price": "\u20b9320",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Kohlapuri Boneless",
+                    "price": "\u20b9320",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Do Pyaza Boneless",
+                    "price": "\u20b9320",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Lemon Curry Boneless",
+                    "price": "\u20b9320",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Changezi Boneless",
+                    "price": "\u20b9320",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Lababdar Boneless",
+                    "price": "\u20b9320",
+                    "description": "Chicken Lababdar",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Chattinad Boneless",
+                    "price": "\u20b9320",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Angethi Curry Boneless",
+                    "price": "\u20b9320",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Handi/Chicken Rara Boneless",
+                    "price": "\u20b9340",
+                    "description": "Chicken made with chicken keema n chicken pieces.",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Lasooni Kali Mirch White Gravy Boneless",
+                    "price": "\u20b9320",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Lasooni Kali Mirch Red Gravy Boneless",
+                    "price": "\u20b9400",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mughlai Chicken Boneless",
+                    "price": "\u20b9320",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Kali Mirch Red Gravy Boneless",
+                    "price": "\u20b9320",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Breads",
+            "items": [
+                {
+                    "name": "Plain Tawa Roti",
+                    "price": "\u20b922",
+                    "description": "Roti made in tandoor.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Plain Tandoori Roti",
+                    "price": "\u20b922",
+                    "description": "Roti made in tandoor.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Khamira Roti",
+                    "price": "\u20b928",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mirchi Roti",
+                    "price": "\u20b928",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Onion Mirchi Roti",
+                    "price": "\u20b928",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Jeera Roti",
+                    "price": "\u20b928",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Ajwaini Roti",
+                    "price": "\u20b928",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Garlic Roti",
+                    "price": "\u20b928",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Missi Roti",
+                    "price": "\u20b948",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Naan",
+                    "price": "\u20b954",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Lachha Paratha",
+                    "price": "\u20b954",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Garlic Lachha Paratha",
+                    "price": "\u20b964",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Garlic Naan",
+                    "price": "\u20b968",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Onion Mirchi Naan",
+                    "price": "\u20b968",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Stuffed Veg Naan",
+                    "price": "\u20b988",
+                    "description": "Veg naan stuffed\u00a0with potato spices peas carrot and other spices.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Aloo Onion Stuffed Kulcha",
+                    "price": "\u20b988",
+                    "description": "Veg naan stuffed\u00a0with potato spices peas carrot and other spices.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Aloo Kulcha without Onion",
+                    "price": "\u20b988",
+                    "description": "Veg naan stuffed\u00a0with potato spices peas carrot and other spices.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Aloo Stuffed Naan",
+                    "price": "\u20b988",
+                    "description": "Veg naan stuffed\u00a0with potato spices peas carrot and other spices.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Aloo Onion Stuffed Naan",
+                    "price": "\u20b988",
+                    "description": "Veg naan stuffed\u00a0with potato spices peas carrot and other spices.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Onion Stuffed Naan",
+                    "price": "\u20b988",
+                    "description": "Veg naan stuffed\u00a0with potato spices peas carrot and other spices.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Parantha",
+                    "price": "\u20b9120",
+                    "description": "Stuffed veg naan.",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Stuffed Chicken Naan",
+                    "price": "\u20b9120",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Rice and Biryani",
+            "items": [
+                {
+                    "name": "Steamed Rice",
+                    "price": "\u20b9180",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Jeera Rice",
+                    "price": "\u20b9180",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Matar Rice",
+                    "price": "\u20b9180",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Pulao",
+                    "price": "\u20b9220",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Onion and Garlic Tadka Rice",
+                    "price": "\u20b9220",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Biryani",
+                    "price": "\u20b9420",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Chaap Biryani",
+                    "price": "\u20b9420",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Biryani Combo",
+                    "price": "\u20b9520",
+                    "description": "Veg Biryani+Soya Chaap Changezi+2 Butter Naan+Plain Curd",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Egg Biryani with Soya Chaap",
+                    "price": "\u20b9520",
+                    "description": "Egg Biryani [4 Pieces]+Soya Chaap Changezi+2 Butter Naan+Plain Dahi+Gravy",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Egg Biryani with Chicken Tangdi",
+                    "price": "\u20b9560",
+                    "description": "Egg Biryani [4 Eggs]+Tangdi Chicken Curry [2 Pieces]+2 Butter Naan+Plain Dahi+Gravy",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Egg Biryani in Veg Gravy",
+                    "price": "\u20b9360",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Egg Biryani in Non Veg Gravy",
+                    "price": "\u20b9380",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Biryani",
+                    "price": "\u20b9398",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Biryani Boneless",
+                    "price": "\u20b9420",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Chinese",
+            "items": [
+                {
+                    "name": "French Fries [Half]",
+                    "price": "\u20b9260",
+                    "description": "Potato French fries.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "French Fries [Full]",
+                    "price": "\u20b9360",
+                    "description": "French fries.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Crispy French Fries [Half]",
+                    "price": "\u20b9260",
+                    "description": "Crispy French fries served with different flavours.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Crispy French Fries [Full]",
+                    "price": "\u20b9360",
+                    "description": "French fries served with different flavours.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Potato Wedges Peri Peri Spicies with Mayonnaise",
+                    "price": "\u20b9280",
+                    "description": "Potato wedges.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Honey Chilli Potato",
+                    "price": "\u20b9260",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chilli Potato",
+                    "price": "\u20b9260",
+                    "description": "No onion and no garlic.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Honey Chilli Gobi [Full]",
+                    "price": "\u20b9340",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Gobhi Manchurian",
+                    "price": "\u20b9340",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chilli Gobhi",
+                    "price": "\u20b9340",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chilli Mushroom",
+                    "price": "\u20b9380",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Crispy Veg",
+                    "price": "\u20b9380",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mushroom Duplex",
+                    "price": "\u20b9280",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Crispy Corn",
+                    "price": "\u20b9380",
+                    "description": "Crispy batter corn fry.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Nuggets",
+                    "price": "\u20b9260",
+                    "description": "Paneer finger fry with crispy batter.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Crispy Paneer with Hot and Garlic Dip",
+                    "price": "\u20b9220",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Crispy Cheese Corn Ball",
+                    "price": "\u20b9260",
+                    "description": "Delicious crispy ball made with a mixture of cheese and corn, a perfect snack for cheese lovers.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cheese Manchurian [Half, 6 Pieces]",
+                    "price": "\u20b9280",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cheese Manchurian [Full, 12 Pieces]",
+                    "price": "\u20b9400",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Manchurian [Half, 6 Pieces]",
+                    "price": "\u20b9260",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Manchurian [Full, 12 Pieces]",
+                    "price": "\u20b9360",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Spring Roll",
+                    "price": "\u20b9260",
+                    "description": "Veg spring roll.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Cheese Spring Roll",
+                    "price": "\u20b9280",
+                    "description": "Veg cheese spring roll",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Cheese Corn Spring Roll",
+                    "price": "\u20b9280",
+                    "description": "Paneer cheese corn spring roll.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer 65",
+                    "price": "\u20b9260",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chilli Paneer [Half, 6 Pieces]",
+                    "price": "\u20b9260",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chilli Paneer [Full, 12 Pieces]",
+                    "price": "\u20b9360",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Lemon Chilli Paneer [Half, 6 Pieces]",
+                    "price": "\u20b9260",
+                    "description": "No onion and no garlic.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Lemon Chilli Paneer [Full, 12 Pieces]",
+                    "price": "\u20b9360",
+                    "description": "Lemon chilli paneer.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Chilli Paneer Black Pepper Sauce [Half, 6 Pieces]",
+                    "price": "\u20b9260",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chilli Paneer Black Pepper Sauce [Full, 12 Pieces]",
+                    "price": "\u20b9360",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Dragon Chilli Paneer [Half, 6 Pieces]",
+                    "price": "\u20b9260",
+                    "description": "Spicy.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Dragon Chilli Paneer [Full, 12 Pieces]",
+                    "price": "\u20b9360",
+                    "description": "Spicy.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Crispy Chicken Wings [Half, 8 Pieces]",
+                    "price": "\u20b9260",
+                    "description": "Different types of chicken wings.",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Crispy Chicken Wings [Half, 16 Pieces]",
+                    "price": "\u20b9380",
+                    "description": "Different types of chicken wings.",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Crispy Chicken",
+                    "price": "\u20b9260",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Crispy Bassa Fried Fish",
+                    "price": "\u20b9260",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Spring Roll",
+                    "price": "\u20b9260",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Cheese Spring Roll",
+                    "price": "\u20b9280",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Lollipop",
+                    "price": "\u20b9340",
+                    "description": "Spicy chicken leg piece coated with spices.",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Chicken 65",
+                    "price": "\u20b9260",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken 65 Boneless",
+                    "price": "\u20b9260",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Boneless Bassa Chilli Fish [Half, 6 Pieces]",
+                    "price": "\u20b9260",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Boneless Bassa Chilli Fish [Full, 12 Pieces]",
+                    "price": "\u20b9498",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chilli Chicken [Half, 6 Pieces]",
+                    "price": "\u20b9280",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chilli Chicken [Full, 12 Pieces]",
+                    "price": "\u20b9480",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Boneless Chilli Chicken [Half, 6 Pieces]",
+                    "price": "\u20b9298",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chilli Chicken Boneless [Half, 12 Pieces]",
+                    "price": "\u20b9498",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chilli Chicken Black Pepper Sauce [Half, 6 Pieces]",
+                    "price": "\u20b9280",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chilli Chicken Black Pepper Sauce [Full, 12 Pieces]",
+                    "price": "\u20b9480",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Boneless Chilli Chicken Black Pepper Sauce [Half, 6 Pieces]",
+                    "price": "\u20b9298",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Boneless Chilli Chicken Black Pepper Sauce [Full, 12 Pieces]",
+                    "price": "\u20b9498",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Manchurian [Half, 6 Pieces]",
+                    "price": "\u20b9280",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Manchurian [Full, 12 Pieces]",
+                    "price": "\u20b9480",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Boneless Chicken Manchurian [Half, 6 Pieces]",
+                    "price": "\u20b9298",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Boneless Chicken Manchurian [Full, 12 Pieces]",
+                    "price": "\u20b9498",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken 65",
+                    "price": "\u20b9280",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Boneless Chicken 65",
+                    "price": "\u20b9298",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Schezwan Chilli Chicken [Half, 6 Pieces]",
+                    "price": "\u20b9280",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Schezwan Chilli Chicken [Full, 12 Pieces]",
+                    "price": "\u20b9480",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Boneless Schezwan Chilli Chicken [Half, 6 Pieces]",
+                    "price": "\u20b9298",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Boneless Schezwan Chilli Chicken [Full, 12 Pieces]",
+                    "price": "\u20b9498",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Lemon Chilli Chicken [Half, 6 Pieces]",
+                    "price": "\u20b9280",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Lemon Chilli Chicken [Full, 12 Pieces]",
+                    "price": "\u20b9480",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Boneless Lemon Chilli Chicken [Half, 6 Pieces]",
+                    "price": "\u20b9298",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Boneless Lemon Chilli Chicken [Full, 12 Pieces]",
+                    "price": "\u20b9498",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Fried Rice and Noodles",
+            "items": [
+                {
+                    "name": "Veg Fried Rice",
+                    "price": "\u20b9260",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Egg Fried Rice",
+                    "price": "\u20b9298",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Mushroom Fried Rice",
+                    "price": "\u20b9260",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Garlic Sweet Corn Fried Rice",
+                    "price": "\u20b9260",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Cajun Spicy Fried Rice",
+                    "price": "\u20b9260",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Cajun Spicy Garlic Fried Rice",
+                    "price": "\u20b9260",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Garlic Peri Peri Fried Rice",
+                    "price": "\u20b9260",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Garlic Schezwan Fried Rice",
+                    "price": "\u20b9260",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Fried Rice",
+                    "price": "\u20b9320",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Egg Fried Rice",
+                    "price": "\u20b9340",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Schezwan Fried Rice",
+                    "price": "\u20b9340",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Cajun Spicy Fried Rice",
+                    "price": "\u20b9320",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Peri Peri Fried Rice",
+                    "price": "\u20b9320",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Noodles",
+                    "price": "\u20b9260",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Schezwan Noodles",
+                    "price": "\u20b9280",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Garlic Noodles",
+                    "price": "\u20b9220",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Cajun Spicy Noodles",
+                    "price": "\u20b9260",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Cajun Spicy Garlic Noodles",
+                    "price": "\u20b9280",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Peri Peri Noodles",
+                    "price": "\u20b9260",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Peri Peri Garlic Noodles",
+                    "price": "\u20b9280",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Egg Noodles",
+                    "price": "\u20b9298",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Egg Garlic Noodles",
+                    "price": "\u20b9220",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Noodles",
+                    "price": "\u20b9340",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Garlic Noodles",
+                    "price": "\u20b9340",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Egg Noodles",
+                    "price": "\u20b9340",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Egg Garlic Noodles",
+                    "price": "\u20b9340",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Peri Peri Noodles",
+                    "price": "\u20b9340",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Cajun Spicy Noodles",
+                    "price": "\u20b9340",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Schezwan Noodles",
+                    "price": "\u20b9340",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Burgers",
+            "items": [
+                {
+                    "name": "Veg Burger",
+                    "price": "\u20b974",
+                    "description": "No onion and no garlic.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Burger with Cheese",
+                    "price": "\u20b988",
+                    "description": "No onion and no garlic.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Burger with Burst Cheese",
+                    "price": "\u20b9160",
+                    "description": "No onion and no garlic.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Burger",
+                    "price": "\u20b9124",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Burger with Cheese",
+                    "price": "\u20b9140",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Burger with Cheese and Egg",
+                    "price": "\u20b9160",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Accompaniments",
+            "items": [
+                {
+                    "name": "Boondi Raita",
+                    "price": "\u20b9140",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mixed Raita",
+                    "price": "\u20b9160",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Pudina Raita",
+                    "price": "\u20b9160",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cucumber Raita",
+                    "price": "\u20b9160",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Pineapple Raita",
+                    "price": "\u20b9160",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mixed Fruit Raita",
+                    "price": "\u20b9200",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Dry Papad",
+                    "price": "\u20b930",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Masala Papad",
+                    "price": "\u20b950",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chana Chaat",
+                    "price": "\u20b9200",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Peanut Chaat",
+                    "price": "\u20b9200",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Desserts",
+            "items": [
+                {
+                    "name": "Gulab Jamun [1 Piece]",
+                    "price": "\u20b940",
+                    "description": "Gulab Jamun",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Gulab Jamun with Vanilla Ice Cream",
+                    "price": "\u20b960",
+                    "description": "Gulan Jamun With Ice Cream",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Brownie with Chocolate Sauce",
+                    "price": "\u20b9200",
+                    "description": "Brownie With Chocolate Sauce",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Brownie with Vanilla Ice Cream",
+                    "price": "\u20b9200",
+                    "description": "Brownie With Vanilla ice cream",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Brownie with Sauce & Vanilla Ice Cream",
+                    "price": "\u20b9220",
+                    "description": "Brownie with vanilla ice cream & chocolate sauce.",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Seasonal Gajar ka Halwa",
+                    "price": "\u20b9140",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Moong Dal Halwa",
+                    "price": "\u20b9140",
+                    "description": "Made By Moong Dal",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Drinks (Beverages)",
+            "items": [
+                {
+                    "name": "Chaas",
+                    "price": "\u20b9180",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Sweet Lassi",
+                    "price": "\u20b9180",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mango Lassi",
+                    "price": "\u20b9220",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Vanilla Shake",
+                    "price": "\u20b9220",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Butterscotch Shake",
+                    "price": "\u20b9220",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Strawberry Shake",
+                    "price": "\u20b9220",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chocolate Shake",
+                    "price": "\u20b9220",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Oreo Shake",
+                    "price": "\u20b9240",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Black Currant Shake",
+                    "price": "\u20b9240",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cold Coffee",
+                    "price": "\u20b9220",
+                    "description": "Without ice cream.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cold coffee With Ice Cream",
+                    "price": "\u20b9260",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Hide N Seekh Shake",
+                    "price": "\u20b9240",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Brownie Shake",
+                    "price": "\u20b9260",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mango Shake",
+                    "price": "\u20b9220",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Fusion Kathi Rolls, Combos and Platters",
+            "items": [
+                {
+                    "name": "Tandoori Fusion Veg Platter [Full]",
+                    "price": "\u20b9680",
+                    "description": "Paneer Tikka [4 Pieces]+Bharwa Tandoosi Aloo [4 Pieces]+Veg Kebab [6 Pieces]+Paneer Bhurji Kathi Roll [1 Piece]+Veg Manchurian Kathi Roll [1 Piece]+Hummus Dip+Soya Caap Changezi+2 Butter Naan+Coke [250 ml]",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Biryani with Kathi Roll [Serves 2]",
+                    "price": "\u20b9560",
+                    "description": "Veg Biryani+Paneer Masala Kathi Roll [1 Piece]+Chilli Paneer Kathi Roll [1 Piece]+Veg Gravy+Dahi+Tzatziki Dip+Red Garlic Dip+Coke [250 ml]",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Kathi Roll wali Combo [Serves 2]",
+                    "price": "\u20b9560",
+                    "description": "Dal Makhani+Paneer Punjabi+Soya Chaap Kathi Roll [1 Piece]+Veg Manchurian Kathi Roll [1 Piece]+2 Butter Naan+Coke [250 ml]",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Kadai Paneer with Kathi Roll wali Combo [Serves 2]",
+                    "price": "\u20b9520",
+                    "description": "Kadai Paneer+Paneer Masala Kathi Roll [1 Piece]+Schezwan Paneer Kathi Roll [1 Piece]+2 Butter Naan+Coke [250 ml]",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Dal Makhani with Kathi Roll wali Thali [Serves 2]",
+                    "price": "\u20b9480",
+                    "description": "Dal Makhani+Paneer Masala Kathi Roll [1 Piece]+ Schezwan Paneer Kathi Roll [1 Piece]+2 Butter Naan+Coke [250 ml]",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Kadhai Paneer Kathi Roll with Red Garlic Dip",
+                    "price": "\u20b9180",
+                    "description": "Served with red garlic dip.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Masala Kathi Roll with Garlic Dip",
+                    "price": "\u20b9180",
+                    "description": "Served with red garlic dip.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Tikka Masala Kathi Roll With Red Garlic Dip",
+                    "price": "\u20b9180",
+                    "description": "Served with red garlic dip.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Bhurji Kathi Roll With Red Garlic Dip",
+                    "price": "\u20b9180",
+                    "description": "Served with red garlic dip.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chilli Paneer Kathi Roll with Red Garlic Dip",
+                    "price": "\u20b9180",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Manchurian Kathi Roll with Red Garlic Dip",
+                    "price": "\u20b9180",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Soya Chaap Kathi Roll with Red Garlic Dip",
+                    "price": "\u20b9180",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Schezwan Paneer Kathi Roll with Red Garlic Dip",
+                    "price": "\u20b9180",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Masala Kathi Roll With Red Garlic Dip",
+                    "price": "\u20b9200",
+                    "description": "Served with red garlic dip.",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chilli Chicken Kathi Roll With Red Garlic Dip",
+                    "price": "\u20b9200",
+                    "description": "Served with red garlic dip.",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Cheese Malai tIkka Kathi Roll With Red Garlic Dip",
+                    "price": "\u20b9200",
+                    "description": "Served with red garlic dip.",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Schezwan Chicken Kathi Roll With Red Garlic Dip",
+                    "price": "\u20b9200",
+                    "description": "Served with red garlic dip.",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Butter Chicken Kathi Roll With Red cGarlic Dip",
+                    "price": "\u20b9200",
+                    "description": "Served with red garlic dip.",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Kadai Chicken Kathi Roll with Red Garlic Dip",
+                    "price": "\u20b9200",
+                    "description": "Served with red garlic dip.",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Non Veg Fusion Tandoori Platter [Full]",
+                    "price": "\u20b9720",
+                    "description": "Chicken Masala Kathi Roll [1 Piece]+Butter Chicken Kathi Roll [1 Piece]+Tandoori Chicken [4 Pieces]+Mutton Shami Kebab [6 Pieces]+Tangdi Chicken Curry [2 Pieces]+2 Butter Naan+Hummus Dip+ Red Garlic Dip+Coke [250 ml]",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Biryani with Kathi Roll [Full]",
+                    "price": "\u20b9620",
+                    "description": "Chicken Biryani [6 Pieces]+Chicken Masala Kathi Roll [1 Piece]+Chilli Paneer Kathi Roll [1 Piece]+Gravy+Dahi+Red Garlic Dip",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Chicken Biryani Boneless with Kathi Roll [Full]",
+                    "price": "\u20b9660",
+                    "description": "Boneless Chicken Biryani [6 Pieces]+Chicken Masala Kathi Roll [1 Piece]+Chilli Paneer Kathi Roll [1 Piece]+Chicken Gravy+Dahi+Red Garlic Dip+Coke [250 ml]",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Chicken Lollipop with Kathi Roll [Full]",
+                    "price": "\u20b9620",
+                    "description": "Chilli Chicken Kathi Roll [1 Piece]+Butter Chicken Kathi Roll [1 Piece]+Chicken Lollipop [6 Pieces]+Peri Peri Potato Wedges+Coke [250 ml]+Red Garlic Dip",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Spicy"
+                }
+            ]
+        },
+        {
+            "category": "Pasta or Truffle or Stri Fry Vegetable",
+            "items": [
+                {
+                    "name": "Paneer Cheese Truffle [2 Pieces]",
+                    "price": "\u20b9288",
+                    "description": "Paneer cheese truffle",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Cheese Burst Truffle [2 Pieces]",
+                    "price": "\u20b9298",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg White Sauce Pasta",
+                    "price": "\u20b9280",
+                    "description": "Prepared in white sauce.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Red Sauce Pasta",
+                    "price": "\u20b9280",
+                    "description": "No onion and no garlic.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Mixed Sauce Pasta",
+                    "price": "\u20b9280",
+                    "description": "Mixed sauce pasta.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Sauteed Stir Fry Vegetable",
+                    "price": "\u20b9298",
+                    "description": "No onion and no garlic.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Sauteed Stir Fry Cheese Vegetable",
+                    "price": "\u20b9298",
+                    "description": "No onion and no garlic.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Cheese Truffle [2 Pieces]",
+                    "price": "\u20b9308",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Cheese Burst Truffle [2 Pieces]",
+                    "price": "\u20b9320",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken White Sauce Pasta [Full]",
+                    "price": "\u20b9298",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Red Sauce Pasta",
+                    "price": "\u20b9298",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Mixed Sauce Pasta",
+                    "price": "\u20b9298",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Sauteed Stir Fry Chicken",
+                    "price": "\u20b9320",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Sauteed Cheese Stir Fry Chicken",
+                    "price": "\u20b9320",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg White Sauce Pasta with Garlic Bread",
+                    "price": "\u20b9320",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Red Sauce Pasta with Garlic Bread",
+                    "price": "\u20b9320",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Mixed Sauce Pasta with Garlic Bread",
+                    "price": "\u20b9320",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Starter Veg No Onion and No Garlic",
+            "items": [
+                {
+                    "name": "Hara Bhara Kebab No Onion & No Garlic",
+                    "price": "\u20b9220",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Bharwa Tandoori Aloo",
+                    "price": "\u20b9280",
+                    "description": "No onion and no garlic.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Dahi Ke Sholey",
+                    "price": "\u20b9260",
+                    "description": "No onion and no garlic.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Papad Ke Dahi Ke Kebab",
+                    "price": "\u20b9280",
+                    "description": "No onion and no garlic.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Dahi Ke Kebab",
+                    "price": "\u20b9240",
+                    "description": "No onion and no garlic.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Achari Matar Corn Kebab",
+                    "price": "\u20b9260",
+                    "description": "No onion and no garlic.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Corn Kebab",
+                    "price": "\u20b9260",
+                    "description": "No onion and no garlic.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Tikka",
+                    "price": "\u20b9280",
+                    "description": "No onion and no garlic.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Tikka Kali Mirch",
+                    "price": "\u20b9280",
+                    "description": "No onion and no garlic.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Hariyali Tikka",
+                    "price": "\u20b9260",
+                    "description": "No onion and no garlic.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Burger",
+                    "price": "\u20b974",
+                    "description": "No onion and no garlic.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Burger with Cheese",
+                    "price": "\u20b988",
+                    "description": "No onion and no garlic.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Burger with Burst Cheese",
+                    "price": "\u20b9160",
+                    "description": "No onion and no garlic.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Main Course No Onion No Garlic",
+            "items": [
+                {
+                    "name": "Dal Makhani No Onion No Garlic",
+                    "price": "\u20b9240",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Dal Tadka No Onion No Garlic",
+                    "price": "\u20b9240",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Dal Dhabewali No Onion No Garlic",
+                    "price": "\u20b9240",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Dal Punjabi Tadka No Onion No Garlic",
+                    "price": "\u20b9240",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chana Masala No Onion No Galic",
+                    "price": "\u20b9280",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Palak Chana Masala No onion No Garlic",
+                    "price": "\u20b9280",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Chana Masala No onion No Garlic",
+                    "price": "\u20b9280",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Kadai Chole No Onion No Garlic",
+                    "price": "\u20b9280",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Soya Chaap Changezi No Onion No Garlic",
+                    "price": "\u20b9280",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Soya Chaap Kadai Masala No Onion No Garlic",
+                    "price": "\u20b9280",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Mushroom Masala No Onion No Garlic",
+                    "price": "\u20b9280",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Matar Mushroom Masala No Onion No Garlic",
+                    "price": "\u20b9280",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Palak Mushroom Masala No Onion No Garlic",
+                    "price": "\u20b9280",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Kadai Mushroom Masala No Onion No Garlic",
+                    "price": "\u20b9280",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Jeera Aloo No Onion No Garlic",
+                    "price": "\u20b9180",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Bhindi Masala No Onion No Garlic",
+                    "price": "\u20b9180",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Dum Aloo No Onion No Garlic",
+                    "price": "\u20b9180",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mix Veg No Onion No Garlic",
+                    "price": "\u20b9240",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Aloo Gobhi Mutter No Onion No Garlic",
+                    "price": "\u20b9240",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Bharwa Aloo Masala No Onion No Garlic",
+                    "price": "\u20b9260",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Shahi Paneer No Onion No Garlic",
+                    "price": "\u20b9280",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Kadai Paneer No Onion No Garlic",
+                    "price": "\u20b9280",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Palak Paneer No Onion No Garlic",
+                    "price": "\u20b9280",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Palak Corn No Onion No Garlic",
+                    "price": "\u20b9280",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Kolhapuri No Onion No Garlic",
+                    "price": "\u20b9280",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mutter Paneer No Onion No Garlic",
+                    "price": "\u20b9280",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Mirch Ka Salan No Onion No Garlic",
+                    "price": "\u20b9280",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Patiyala No Onion No Garlic",
+                    "price": "\u20b9280",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Butter Masala No Onion No Garlic",
+                    "price": "\u20b9280",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cheese Tomato No Onion No Garlic",
+                    "price": "\u20b9280",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Lababdar No Onion No Garlic",
+                    "price": "\u20b9280",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Makhanwala No Onion No Garlic",
+                    "price": "\u20b9280",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Bhurji No Onion No Garlic",
+                    "price": "\u20b9280",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Malai Kofta Red Gravy No Onion No Garlic",
+                    "price": "\u20b9280",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Kaju Korma Red Gravy No Onion No Garlic",
+                    "price": "\u20b9298",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Palak Kofta No Onion No Garlic",
+                    "price": "\u20b9280",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mutter Meethi Malai No Onion No Garlic",
+                    "price": "\u20b9280",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Meethi Malai No Onion No Garlic",
+                    "price": "\u20b9280",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Chat Patti Chaat and Combos",
+            "items": [
+                {
+                    "name": "Golgappe Full 12 pcs",
+                    "price": "\u20b9178",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Dahi Bhalla Papadi Chaat",
+                    "price": "\u20b9220",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Dahi Papadi Chana Aloo Chaat",
+                    "price": "\u20b9200",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chaat Combo",
+                    "price": "\u20b9360",
+                    "description": "Dahi ki Kachori [6 Pieces]+Bhalla Papadi Chaat [1 Plate]+Papadi Chana Aloo Chaat [1 Plate]",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Thali with Dahi Bhalla Papdi Chaat",
+                    "price": "\u20b9460",
+                    "description": "Dahi Bhalla Papdi Chaat [1 Plate]+Dal Makhani+Kadai Paneer+Rice+Aloo Dum+Chana Masala+Mixed Fruit Raita+Gulab Jamun [1 Piece]+Onion+Papad+4 Butter Tawa Roti",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chole Kulcha with Dahi Bhalla Papdi Chaat",
+                    "price": "\u20b9340",
+                    "description": "Dahi Bhalla Papdi Chaat [1 Plate]+Chole+2 Kulcha+Gulab Jamun [1 Piece]",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Punjab Dal Tadka Thali with Dahi Bhalla Papdi Chaat",
+                    "price": "\u20b9340",
+                    "description": "Dahi Bhalla Papdi Chaat [1 Piece]+Punjab Dal Tadka+Rice+4 Tawa Roti+Gulab Jamun [1 Piece]",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Shahi Paneer Thali with Dahi Bhalla Papdi Chaat",
+                    "price": "\u20b9360",
+                    "description": "Dahi Bhalla Papadi Chaat+Shahi Paneer+Rice+4 Tawa Roti+Gulab Jamun [1 Piece]",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Kadai Paneer Thali with Dahi Bhalla Papdi Chaat",
+                    "price": "\u20b9360",
+                    "description": "Dahi Bhalla Papadi Chaat+Kadai Paneer+Rice+4 Tawa Roti+Gulab Jamun [1 Piece]",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Matar Paneer Thali with Dahi Bhalla Papdi Chaat",
+                    "price": "\u20b9360",
+                    "description": "Dahi Bhalla Papadi Chaat+Matar Paneer+Rice+4 Tawa Roti+Gulab Jamun [1 Piece]",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Egg Curry Thali Veg Gravy with Dahi Bhalla Papdi Chaat",
+                    "price": "\u20b9360",
+                    "description": "Dahi Bhalla Papadi Chaat+Egg [2 Eggs]+Rice+4 Tawa Roti+Gulab Jamun [1 Piece]",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Curry Thali with Dahi Bhalla Papdi Chaat",
+                    "price": "\u20b9368",
+                    "description": "Dahi Bhalla Papadi Chaat [1 Plate]+Chicken Curry+Rice+4 Tawa Roti+Gulab Jamun [1 Piece]",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Golgappe [Half, 6 Pieces]",
+                    "price": "\u20b9120",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Veg and Non Veg Sandwiches and Egg Lovers",
+            "items": [
+                {
+                    "name": "Masala Omelette",
+                    "price": "\u20b9180",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cheese Omelette",
+                    "price": "\u20b9220",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Tikka Omelette",
+                    "price": "\u20b9220",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Cheese Tikka Omelette",
+                    "price": "\u20b9220",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Egg Bhurji",
+                    "price": "\u20b9160",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Aloo Pyaaz ka Grilled Sandwich [4 Pieces]",
+                    "price": "\u20b9180",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Coleslow Grilled Sandwich [4 Pieces]",
+                    "price": "\u20b9200",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Bhurji Grilled Sandwich [4 Pieces]",
+                    "price": "\u20b9220",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Paneer Tikka Grilled Sandwich [4 Pieces]",
+                    "price": "\u20b9220",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Sandwich Pizza",
+                    "price": "\u20b9288",
+                    "description": "",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Egg Bhurji Grilled Sandwich [4 Pieces]",
+                    "price": "\u20b9200",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Masala Omelette Grilled Sandwich [4 Pieces]",
+                    "price": "\u20b9200",
+                    "description": "",
+                    "veg_nonveg": "Unknown",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Cold Chicken Sandwich [4 Pieces]",
+                    "price": "\u20b9200",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Grilled Sandwiches [4 Pieces]",
+                    "price": "\u20b9220",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Tikka Grilled Sandwich [4 Pieces]",
+                    "price": "\u20b9220",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Cheese Grilled Sandwich [4 Pieces]",
+                    "price": "\u20b9220",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Sandwich Pizza [4 Pieces]",
+                    "price": "\u20b9298",
+                    "description": "",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                }
+            ]
+        }
+    ]
+}

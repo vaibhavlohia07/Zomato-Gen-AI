@@ -1,0 +1,952 @@
+{
+    "restaurant": {
+        "name": "KFC",
+        "location": "176, Ground Floor, Ganesh Complex, Nehru Nagar, Roorkee Locality, Roorkee",
+        "contact": "+917983459570"
+    },
+    "menu": [
+        {
+            "category": "Wednesday KFC Epic Deals (upto 52% Off)",
+            "items": [
+                {
+                    "name": "Wednesday Chicken Bucket",
+                    "price": "\u20b91141.35",
+                    "description": "Enjoy Special Wednesday Bucket with flat 37% off on 10 pcs of Hot & Crispy Chicken",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Wednesday Chicken Strips Bucket",
+                    "price": "\u20b9831.26",
+                    "description": "12 pc Peri Peri chicken strips & 4 delicious dips (20gm each)",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Wednesday Value Special Chicken Bucket",
+                    "price": "\u20b9915",
+                    "description": "7 Strips, 6 Wings, 2 Hot & Crispy on Wednesday Specials",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Wednesday Value Special Chicken Meal\ufffdBucket",
+                    "price": "\u20b91075.40",
+                    "description": "Flat 35% on Bucket of 6 Pc Hot Wings, 7 Pc Peri Peri Strips & 2 Pc HC, Medium Fries & Pepsi PET 475ml",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Wednesday Chicken Strips Meal Bucket",
+                    "price": "\u20b91014.07",
+                    "description": "Saving on 36% on Bucket of 10 Pc Peri Peri Strips, 3 Dips, 4 Pc Hot Wings, Medium Fries & a Pepsi PET 475ml",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Wednesday Variety Chicken Meal",
+                    "price": "\u20b91427",
+                    "description": "Save 37% on Variety Bucket of 9 Pc Hot & Crispy, 4 Pc Peri Peri Strips, Medium Fries & a Pepsi PET 475ml",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Spicy"
+                }
+            ]
+        },
+        {
+            "category": "Rolls",
+            "items": [
+                {
+                    "name": "Double Chicken Roll",
+                    "price": "\u20b9168.57",
+                    "description": "Double fun with double chicken strip filling, layerful parantha onions and two spicy sauce [1 unit of Double Chicken Roll, Serves 1]",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Classic Chicken Roll",
+                    "price": "\u20b9119.05",
+                    "description": "Street style roll with single chicken strip, onions and two spicy sauce [1 unit of Classic Chicken Roll]",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Double Chicken Roll Meal for 1",
+                    "price": "\u20b9379.05",
+                    "description": "Save Rs. 24 with a Double Chicken Roll with servings of 1 Large Fries, 2 delish dips and 1 Pepsi PET 475ml [1 unit of Double Chicken Roll, Serves 1]",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Classic Chicken Roll Meal for 2",
+                    "price": "\u20b9479.05",
+                    "description": "2 units of The classic KFC Chicken Roll with servings of 1 Large Fries, 2 delish dips and 1 Pepsi PET 475ml [2 units of Classic Chicken Roll, Serves 2]",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Thai Spicy Chicken Roll",
+                    "price": "\u20b9139",
+                    "description": "Fresh burst of Thai flavours and sauces in a flaky paratha, chicken strips and vegetables",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Indian Tandoori Chicken Roll",
+                    "price": "\u20b9139",
+                    "description": "Flavorful roll made with flaky lachha paratha, perfectly fried chicken strips in rich and creamy tandoori sauce",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Korean Tangy Chicken Roll",
+                    "price": "\u20b9139",
+                    "description": "Delicious new roll featuring tangy Korean kimchi, vegetables and crunchy chicken strips",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Indian Spicy Veg Roll",
+                    "price": "\u20b9119",
+                    "description": "Veg special spicy indian sauce and veggie roll",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Korean & Thai Roll Chicken Meal",
+                    "price": "\u20b9569",
+                    "description": "Rs. 114 Off on Korean Tangy Roll & Thai Spicy Roll, Large Popcorn, Large Fries & Pepsi PET 475ml",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Indian Tandoori Roll Chicken Meal",
+                    "price": "\u20b9419",
+                    "description": "Save Rs. 75 on Indian Tandoori Roll, Classic Zinger Burger, Medium Fries & Pepsi PET 475ml",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Korean Tangy Roll & Popcorn Chicken Meal",
+                    "price": "\u20b9319",
+                    "description": "Save Rs. 56 with Korean Tangy Chicken Roll, Medium Popcorn and Pepsi PET 475ml",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Thai Spicy Roll & Zinger Chicken Meal",
+                    "price": "\u20b9419",
+                    "description": "Save Rs. 75 with Thai Spicy Roll with Classic Zinger Burger, Medium Fries and Pepsi PET 475ml",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "American Roll & Popcorn Chicken Meal",
+                    "price": "\u20b9299",
+                    "description": "Save Rs. 56 with American Nashville Chicken Roll, Medium Popcorn and Pepsi PET 475ml",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Thai Spicy Roll & Popcorn Chicken Meal",
+                    "price": "\u20b9319",
+                    "description": "Save Rs. 56 with Thai Spicy Chicken Roll, Medium Popcorn and Pepsi PET 475ml",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Korean Tangy Roll & Zinger Chicken Meal",
+                    "price": "\u20b9419",
+                    "description": "Save Rs. 75 with Korean Tangy Roll with Classic Zinger Burger, Medium Fries and Pepsi PET 475ml",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Double Down Burger",
+            "items": [
+                {
+                    "name": "Double Down Burger & Popcorn Meal",
+                    "price": "\u20b9429",
+                    "description": "Best of all worlds with 1 Double Down- all chicken no bun Burger, Regular Popcorn & Pepsi 475ml [Serves 1]",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Double Down Burger & Pepsi",
+                    "price": "\u20b9316",
+                    "description": "All chicken no bun burger with 2 delicious sauces & veggies served with Pepsi PET 475ml [Serves 1]",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "2 Double Down Burgers",
+                    "price": "\u20b9499",
+                    "description": "Why pick one, when you can have 2 Double Down- all chicken no bun Burgers at a deal price [serves 2]",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "2 Double Down Burgers & Fries Meal",
+                    "price": "\u20b9679",
+                    "description": "Save with Deal Meal of 2 units of Double Down- all chicken no bun Burgers with Large Fries & Pepsi PET 475ml [Serves 2]",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Double Down Burger",
+                    "price": "\u20b9259",
+                    "description": "It's back! All chicken no bun burger, with 2 delicious sauces & veggies [Serves 1]",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "All Day Lunch Special Meal Box",
+            "items": [
+                {
+                    "name": "All Chicken Box",
+                    "price": "\u20b9399",
+                    "description": "Save Rs. 107 with special Chicken Box of 2 Pc Hot & Crispy, 2 Pc Peri Peri Strips, Medium Fries & a Pepsi PET 475ml [Serves 1-2]",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Classic Zinger Box",
+                    "price": "\u20b9399",
+                    "description": "All new special Zinger Box with savings of Rs. 76 on Classic American Zinger Burger, 2 Pc Peri Peri Strips, Medium Fries & a Pepsi PET 475ml [Serves 1]",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Rice Box Meal",
+                    "price": "\u20b9399",
+                    "description": "Save Rs. 106 with special Rice Box Meal of a Popcorn Rice Bowl, 2 Pc Peri Peri Strips, Medium Fries & a Pepsi PET 475ml [Serves 1-2]",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Roll Meal Box",
+                    "price": "\u20b9399",
+                    "description": "Save Rs. 95 with special Roll Box Meal of a Classic Chicken Roll , 2 Pc Hot Wings, 2 Pc Peri Peri Strips, Medium Fries & a Pepsi PET 475ml [Serves 1-2]",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Veg Box Meal",
+                    "price": "\u20b9399",
+                    "description": "Enjoy special Veg Box Meal with savings of Rs. 101 on Veg Zinger Burger, 2 Pc Veg patty, Medium Fries & a Pepsi PET 475ml [Serves 1]",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Burgers",
+            "items": [
+                {
+                    "name": "Paneer Zinger Burger",
+                    "price": "\u20b9208.57",
+                    "description": "It's Back! Crunchy Indian Paneer Patty Burger with tangy sauce and Veggies",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Spicy Zinger Burger and Popcorn Meal",
+                    "price": "\u20b9439.05",
+                    "description": "Caribbean Spicy Zinger Burger with Medium Popcorn and Pepsi PET 475ml at a deal price",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Spicy Zinger Burger",
+                    "price": "\u20b9219.05",
+                    "description": "New Caribbean Spicy Zinger Burger with Spicy Bun & Spicy chilli sauce with Zinger Fillet, Lettuce, Onion and Tomatoes",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Spicy Zinger Burger and Chicken Meal",
+                    "price": "\u20b9379.05",
+                    "description": "New Caribbean Spicy Zinger Burger with 1 Pc Hot & Crispy and Pepsi PET 475ml at a deal price",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Zinger Pro Burger & Popcorn Meal",
+                    "price": "\u20b9469",
+                    "description": "New Zinger Pro premium Burger with Medium Popcorn and Pepsi PET 475ml at a deal price",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Zinger Pro Burger",
+                    "price": "\u20b9249",
+                    "description": "New premium zinger with crunchy zinger fillet,cheese,lettuce,tomatoes,sauce in sesame bun!",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mexican Zinger Pro Pepsi Bottle Combo",
+                    "price": "\u20b9329",
+                    "description": "Get Pepsi 330ml Reusable Bottle with Mexican Zinger Pro Burger",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Zinger Pro Burger & Chicken Meal",
+                    "price": "\u20b9409",
+                    "description": "New Zinger Pro premium Burger with 1 Pc Hot & Crispy and Pepsi PET 475ml at a deal price",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Chicken Burger Buddy Meal",
+                    "price": "\u20b9528.57",
+                    "description": "Save Rs. 28 & Share 2 American Classic Chicken Zinger Burgers & a Medium Chicken Popcorn in this delightful combo for 2",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mixed Chicken Zinger Burger Doubles",
+                    "price": "\u20b9368.57",
+                    "description": "Save Rs.41 on Best-seller combo of classic chicken Zinger & Tandoori zinger burgers",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Zinger Burger - Classic with Cheese",
+                    "price": "\u20b9224.05",
+                    "description": "Signature burger with a crunchy chicken fillet, cheese slice, veggies & a delicious mayo sauce",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Zinger Burger - Tandoori with Cheese",
+                    "price": "\u20b9233.57",
+                    "description": "Chicken zinger with delicious tandoori sauce & cheese slice",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "American Classic Zinger Mojito Combo",
+                    "price": "\u20b9297.23",
+                    "description": "Get All New Mojito Reusable Bottle with American Classic Chicken Zinger Burger",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Zinger Burger with Cheese",
+                    "price": "\u20b9213.57",
+                    "description": "Signature veg burger with crispy patties, cheese slice, veggies & a tangy sauce",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Zinger Burger - Classic",
+                    "price": "\u20b9199.05",
+                    "description": "Signature burger made with a crunchy chicken fillet, veggies & a delicious mayo sauce",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Veg Zinger Burger",
+                    "price": "\u20b9188.57",
+                    "description": "Signature veg burger with crispy patties, veggies & a tangy sauce",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Zinger Burger - Tandoori",
+                    "price": "\u20b9208.57",
+                    "description": "Chicken zinger with a  delicious tandoori sauce",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "2 X Veg Krisper Burgers",
+                    "price": "\u20b9188.57",
+                    "description": "2 Delicious veg value burgers - at a deal price",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "2 Classic Chicken Krisper Burgers",
+                    "price": "\u20b9289.57",
+                    "description": "2 Units of delicious chicken value burgers featuring delicious sauce & 2 chicken strips",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Matchdays Epic Deals (upto Rs 308 off)",
+            "items": [
+                {
+                    "name": "Cricket Crunch Meal",
+                    "price": "\u20b9449",
+                    "description": "Crunchy Savings of Rs. 75 & Enjoy 2pc Hot & Crispy Chicken, 4 chicken wings , 2 dips & a chilled Pepsi Black Can 300ml [serves 1-2]",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Dream Team Meal",
+                    "price": "\u20b9599",
+                    "description": "Enjoy Special 11 meal by saving Rs. 164 on 3 Pc Chicken Leg Piece, 4 Pc Peri peri Strips & 4 Pc Hot Wings [Serves 2-4]",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Clean Bowled Combo",
+                    "price": "\u20b9666",
+                    "description": "Hitter huge savings of Rs. 132 on 5 Pc Chicken Leg Piece & 5 Pc Hot Wings [Serves 3-4]",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Super Over Meal",
+                    "price": "\u20b9329",
+                    "description": "Favorite combo of Classic Chicken Zinger Burger, Medium French Fries & a chilled Pepsi Black Can 300ml with savings of Rs. 26 [Serves 1]",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Super 6s Chicken Bucket",
+                    "price": "\u20b9799",
+                    "description": "Sixer Savings of Rs. 249 off on Special Bucket of 6 Pc Chicken Leg Piece & 6 Pc Peri Peri Chicken Strips [Serves 2]",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Rolls Super Kings",
+                    "price": "\u20b9399",
+                    "description": "Super Savings of Rs. 75 on 2 Classic chicken Roll, 4 Pc Hot Wings and a Pepsi PET 475ml [Serves 1-2]",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Green Pitch Meal",
+                    "price": "\u20b9499",
+                    "description": "Veg Lovers now save Rs. 252 on Veg meal of 2 Veg Zinger Burgers, 2 Veg Longers, Large Fries and a Pepsi PET 475ml [Serves 2-3]",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "LBW Chicken Bucket",
+                    "price": "\u20b9899",
+                    "description": "Leg Piece before any wicket! Deal savings of Rs. 308 on 10 Pc Chicken Leg Piece & a Pepsi PET 475 ml [Serves 3-5]",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Peri Peri Chicken Strips & Leg Pc (up to 25%)",
+            "items": [
+                {
+                    "name": "Peri Peri Chicken 5 Leg Piece Meal",
+                    "price": "\u20b9659.05",
+                    "description": "Leg before any wicket! Save Rs. 131 on 5 Spicy Peri Peri Leg Pieces, 2 Dips (20gm each), 1 Med Fries & a Pepsi PET 475ml [serves 2]",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Peri Peri 10 Pc Chicken Strips & 2 Dips",
+                    "price": "\u20b9519.05",
+                    "description": "Howzatt Deal!! Save Rs. 122 with the indulging 10 Piece Peri Peri Boneless Strips and 2 Dips [Serves 2-3]",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Peri Peri Chicken 5 Leg Piece Bucket",
+                    "price": "\u20b9528.57",
+                    "description": "Save Rs 104 on 5 Spicy Peri Peri Leg Pieces",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "5 Leg Pc & 2 Dips Pepsi Bottle Combo",
+                    "price": "\u20b9599",
+                    "description": "Get Pepsi 330ml Reusable Bottle with 5 Pc Peri Per Chicken Leg Piece and 2 Dips (20gms each) [serves 1-2]",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Peri Peri Chicken 10 Leg Pc & 4 Dips",
+                    "price": "\u20b9968.57",
+                    "description": "Save Rs. 334 on 10 Spicy Peri Peri Leg Pieces & 4 Dips (20gm each) [serves 3-4]",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Peri Peri chicken strips - 6 Pc",
+                    "price": "\u20b9308.57",
+                    "description": "Save 13% with on savouring 6 Spicy Peri Peri chicken boneless strips [serves 2]",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "6 Pc Strips & Pepsi Bottle Combo",
+                    "price": "\u20b9379",
+                    "description": "Get Pepsi 330ml Reusable Bottle with 6 Pc Spicy Peri Peri Strips [serves 1-2]",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Spicy"
+                }
+            ]
+        },
+        {
+            "category": "Epic Value Meals for 1-2 (up to 15% off)",
+            "items": [
+                {
+                    "name": "Chicken Bucket for Two",
+                    "price": "\u20b9599.05",
+                    "description": "Flat Rs. 115 off with this variety combo of 2pc Hot & Crispy Chicken, 2 pc Smoky Red Chicken & a Large Popcorn [serves 2-3]",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Classic Chicken Krisper Burger Combo",
+                    "price": "\u20b9580",
+                    "description": "Deal combo of 2 chicken krispers burgers, 2 pc Hot & Crispy, 2 dips (20gm each) & a chilled Pepsi PET 475 ml [Serves 1-2]",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Chicken Mingles Bucket Meal",
+                    "price": "\u20b9519.05",
+                    "description": "Save Rs. 43 on this crowd favorite combo of 4 Hot Wings, 2 Chicken Peri Peri Boneless Strips, a Reg Popcorn, medium fries & a chilled Pepsi PET 475ml [serves 2 ]",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "4 Pc Hot & Crispy Pepsi Bottle Combo",
+                    "price": "\u20b9519",
+                    "description": "Get Pepsi 330ml Reusable Bottle with 4 Pc Chicken Hot & Crispy",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Chicken Solo Feast",
+                    "price": "\u20b9399.05",
+                    "description": "Treat yourself with 1 Hot & Crispy chicken, 2 chicken Strips, 2 chicken Wings, 1 Buttered Bun, 1 Dip & Pepsi PET [serves 1]",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Chicken Mingles Bucket",
+                    "price": "\u20b9399.05",
+                    "description": "Mingle with 4 Chicken Hot Wings, 2 Chicken peri peri boneless strips & a Regular Popcorn at a deal price [serves 1-2]",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Chicken & French Fries Bucket",
+                    "price": "\u20b9299.05",
+                    "description": "Crowd-favorite combo of 2pc Hot & Crispy Chicken with Medium French Fries",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Classic Roll Mojito Meal",
+                    "price": "\u20b9342.87",
+                    "description": "Get All New Mojito Reusable 330ml Bottle with Large Fries and Classic Chicken Roll",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Popcorn & French Fries Bucket",
+                    "price": "\u20b9328.57",
+                    "description": "Large Chicken Popcorn with Med French Fries - at a deal price",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "2 X Veg Krispers Burger Meal",
+                    "price": "\u20b9299.05",
+                    "description": "Save Rs. 39 with 2 veg value burgers, crispy Medium French Fries & 2 delicious Dips at a deal price! [Serves 1-2]",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Classic Zinger Pepsi Bottle Combo",
+                    "price": "\u20b9279",
+                    "description": "Get Pepsi 330ml reusable bottle with Classic chicken Zinger Burger",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Epic Savings Bucket for 3-4 (up to 32% off)",
+            "items": [
+                {
+                    "name": "All in One Chicken Bucket",
+                    "price": "\u20b9568.57",
+                    "description": "Save 21% with variety bucket of 1 Leg Pc, 1 Hot & Crispy, 2 Wings, 2 Strips, 1 Zinger Fillet, 3 Dips [20gm each] & 1 Pepsi 475 ml [Serves 2-3]",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Ultimate Savings Chicken Bucket",
+                    "price": "\u20b9728.57",
+                    "description": "Savings of 32% on signature bucket of 4pc Hot & crispy chicken, 6 Pc Wings, 4 Chicken Peri Peri Boneless strips, 2 Dips (20 gms each) & a Pepsi PET 475ml [serves 2-3 ]",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Stay Home Chicken Bucket",
+                    "price": "\u20b9819.05",
+                    "description": "Save Rs. 232 & enjoy 4pc Hot & Crispy Chicken, 4 Hot Wings, 6 chicken peri peri boneless strips & 2 delicious dips (20gm each) [serves 3]",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Big 12 - Chicken Bucket",
+                    "price": "\u20b9768.57",
+                    "description": "Save 24% on 6pc Hot & Crispy Chicken, 6 Hot Wings & 2 dips (20gm each) [serves 2- 3]",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Big 8 - Chicken Bucket",
+                    "price": "\u20b9728.57",
+                    "description": "2pc Hot & Crispy, 2 Strips & 4pc Smoky Red chicken",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Spicy"
+                }
+            ]
+        },
+        {
+            "category": "Rice Bowlz",
+            "items": [
+                {
+                    "name": "HC Rice Bowlz",
+                    "price": "\u20b9229.52",
+                    "description": "Aromatic Hot & Crispy Chicken rice bowl mixed with spicy gravy [serves 1]",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Smoky Red Chicken Rice Bowl",
+                    "price": "\u20b9229.52",
+                    "description": "Aromatic Smoky Red Chicken rice bowl mixed with spicy gravy [serves 1]",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "PC Rice Bowlz",
+                    "price": "\u20b9229.52",
+                    "description": "Aromatic Poprcorn Chicken rice bowl mixed with spicy gravy [serves 1]",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Veg Rice Bowlz",
+                    "price": "\u20b9199.05",
+                    "description": "Aromatic Veg rice bowl mixed with spicy gravy [serves 1]",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Plain Rice Bowl",
+                    "price": "\u20b9139.05",
+                    "description": "New Plain Rice Bowlz",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Hot & Crispy Chicken, Wings",
+            "items": [
+                {
+                    "name": "Hot & Crispy Chicken - 8 pcs",
+                    "price": "\u20b9799.05",
+                    "description": "Save Rs. 123 & get 8pc signature Hot & crispy chicken [serves 3-4]",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Hot & Crispy Chicken -6pc",
+                    "price": "\u20b9628.57",
+                    "description": "Flat 10% off on 6pc signature Hot & crispy chicken [serves 2-3]",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Hot & Crispy Chicken-4pc",
+                    "price": "\u20b9439.05",
+                    "description": "Save Rs. 24 on 4 pc of signature Hot & Crispy Chicken at a deal price",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Hot & Crispy Chicken -2pc",
+                    "price": "\u20b9229.52",
+                    "description": "Signature Hot & crispy chicken",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Hot Chicken Wings - 4pc",
+                    "price": "\u20b9179.05",
+                    "description": "Seasoned, signature KFC chicken wings",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Hot & Crispy Chicken-1pc",
+                    "price": "\u20b9115.24",
+                    "description": "Signature Hot & crispy chicken",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Spicy"
+                }
+            ]
+        },
+        {
+            "category": "Boneless Chicken Popcorn",
+            "items": [
+                {
+                    "name": "Chicken Popcorn - Large",
+                    "price": "\u20b9248.57",
+                    "description": "Signature bite-sized boneless chicken, with special spices in Large Size",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Saucy Popcorn x CarryMinati",
+                    "price": "\u20b9229",
+                    "description": "Special limited time Signature bite sized Boneless Chicken Popcorn in a Sweet and Spicy flavour for ultimate Taste Explosion",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Chicken Popcorn - Medium",
+                    "price": "\u20b9179.05",
+                    "description": "Signature bite-sized boneless chicken, with special spices in Medium Size",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Chicken Popcorn - Regular",
+                    "price": "\u20b9115.24",
+                    "description": "Signature bite-sized boneless chicken, with special spices",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Grilled Smoky Red Chicken",
+            "items": [
+                {
+                    "name": "Smoky Red Grilled Chicken - 5 pc",
+                    "price": "\u20b9539.05",
+                    "description": "Save Rs. 85 on 5pc Smoky red grilled chicken [serves 2]",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "5 Pc Smoky Chicken Mojito Combo",
+                    "price": "\u20b9627.66",
+                    "description": "Get All New Mojito Reusable Bottle with 5 Pc Smoky Red Grilled Chicken",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Smoky Red Grilled Chicken - 2 pc",
+                    "price": "\u20b9248.57",
+                    "description": "Spicy, red, grilled chicken",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Smoky Red Grilled Chicken - 1 pc",
+                    "price": "\u20b9124.76",
+                    "description": "Spicy, red, grilled chicken",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Spicy"
+                }
+            ]
+        },
+        {
+            "category": "Sides and Dips",
+            "items": [
+                {
+                    "name": "Peri Peri chicken strips - 3 pc",
+                    "price": "\u20b9179.05",
+                    "description": "3 Pieces Spicy Peri Peri chicken boneless strips",
+                    "veg_nonveg": "Non-Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "2 pc Veg Patty",
+                    "price": "\u20b9155.24",
+                    "description": "Delicious, crispy, veg add-on",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Spicy Mix French Fries - Large",
+                    "price": "\u20b9139.05",
+                    "description": "Crispy french fries with a spicy chilli lime sprinkle",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "French Fries - Large",
+                    "price": "\u20b9119.05",
+                    "description": "Jazz up your meal with crispy large fries!",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Spicy Mix French Fries - Medium",
+                    "price": "\u20b9114.29",
+                    "description": "Crispy french fries with a spicy chilli lime sprinkle",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "French Fries - Medium",
+                    "price": "\u20b999.05",
+                    "description": "Jazz up your meal with crispy french fries",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Pack of 4 Dips -20gm each",
+                    "price": "\u20b9109.52",
+                    "description": "Adding dips is always a good idea! (Save Rs. 5)",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Pack of 2 Dips-20gm each",
+                    "price": "\u20b957.14",
+                    "description": "Adding dips is always a good idea!",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Tandoori Flavour Dip - 20 gm",
+                    "price": "\u20b928.57",
+                    "description": "Special tandoori flavored dip, to add a twist to your meal!",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                }
+            ]
+        },
+        {
+            "category": "Desserts & Beverages",
+            "items": [
+                {
+                    "name": "Chocolate Lava Cake",
+                    "price": "\u20b9108.57",
+                    "description": "New Soft Chocolate cake with a gooey center- perfect chocolaty end to every meal",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Choco Mud Pie",
+                    "price": "\u20b9128.57",
+                    "description": "Chocolate lovers unite! Say hello to our delicious, new, creamy chocolate & cake dessert- a must try!",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Virgin Mojito Reusable Bottle",
+                    "price": "\u20b9105",
+                    "description": "A refreshing drink with lime and soda to beat the heat",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mousse Cake (Coffee flavoured",
+                    "price": "\u20b9128.57",
+                    "description": "Coffee, chocolate, cake?what's not to love? Enjoy our delicious, new dessert for those coffee-licious temptations!",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Masala Pepsi Reusable Bottle",
+                    "price": "\u20b9105",
+                    "description": "A spicy kick to everyone's favourite drink",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Spicy"
+                },
+                {
+                    "name": "Pepsi PET 475ml",
+                    "price": "\u20b957.14",
+                    "description": "Cheers to fizz that makes you Rise Up Baby! Order Pepsi to make your food rise up to your level of awesome!",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Pepsi Can 300 ml",
+                    "price": "\u20b957.14",
+                    "description": "Cheers to fizz that makes you Rise Up Baby! Order Pepsi to make your food rise up to your level of awesome!",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Dew Mojito Reusable Bottle",
+                    "price": "\u20b9105",
+                    "description": "A refreshing drink with Mountain Dew, lime and soda to beat the heat",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "7UP Can 300 ml",
+                    "price": "\u20b957.14",
+                    "description": "7UP is the ultimate Super-Duper Refresher. Every sip of this crisp lemon flavour refreshes you to the core.",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Pepsi Reusable Bottle",
+                    "price": "\u20b999",
+                    "description": "Pepsi in a KFC reusable bottle",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Pepsi Black Can 300 ml",
+                    "price": "\u20b957.14",
+                    "description": "Enjoy Pepsi Black to make your food rise up to max levels of awesome with Zero sugar and Zero guilt!",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "7Up Resuable Bottle",
+                    "price": "\u20b999",
+                    "description": "7Up in a KFC reusable bottle",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mirinda Reusable Bottle",
+                    "price": "\u20b999",
+                    "description": "Mirinda in a KFC reusable bottle",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Mountain Dew Resuable Bottle",
+                    "price": "\u20b999",
+                    "description": "Mountain Dew in a KFC reusable bottle",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                },
+                {
+                    "name": "Pepsi 475ml Pet",
+                    "price": "\u20b957.14",
+                    "description": "0",
+                    "veg_nonveg": "Veg",
+                    "spice_level": "Normal"
+                }
+            ]
+        }
+    ]
+}
