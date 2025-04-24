@@ -101,15 +101,15 @@ Scrapes restaurant information and menu data from a Zomato restaurant page and s
   This module processes raw restaurant menu data extracted from Zomato (stored in JSON format), cleans and enriches it using preprocessing techniques and the Gemini LLM, and prepares it for embedding and retrieval in the chatbot.
 
 - Text Cleaning (`clean_text`)
-  - Normalizes and standardizes string content: converts to lowercase, removes symbols, trims whitespace.
+ - Normalizes and standardizes string content: converts to lowercase, removes symbols, trims whitespace.
 
 - Price Normalization (`normalize_price`) 
   - Extracts numeric values from price fields, removing symbols and unwanted characters.
 
-- Synonym Handling (`apply_synonyms`)**  
-  Replaces domain-specific terms like “non-veg”, “combo”, or “spicy” with standardized phrases to ensure semantic consistency.
+- Synonym Handling (`apply_synonyms`)
+  - Replaces domain-specific terms like “non-veg”, “combo”, or “spicy” with standardized phrases to ensure semantic consistency.
 
-- Menu Data Enrichment (`load_and_clean_menus_from_json`)**
+- Menu Data Enrichment (`load_and_clean_menus_from_json`)
   - Loads JSON files from the `/menu` directory.
   - Extracts restaurant-level metadata: name, location, and contact info.
   - Sends a structured prompt to **Gemini** to generate:
@@ -119,13 +119,9 @@ Scrapes restaurant information and menu data from a Zomato restaurant page and s
   - Combines this info with detailed item data (category, item name, description, price, veg/non-veg, spice level).
   - Outputs a flat list of all text chunks and saves them to `database.csv`.
 
-  ### chatbot.py
-- Loads text data from `data_cleaning`.
-- Uses **SentenceTransformers (MiniLM)** to generate embeddings.
-- Constructs a **FAISS vector store** for fast similarity search.
-- Retrieves top-k relevant chunks for user queries.
-- Passes them as **context to Gemini or LLaMA** for generating conversational answers.
-
+  ## chatbot.py
+- Serves as the core logic for the restaurant chatbot. It handles embedding generation, similarity-based document retrieval, and response generation using an LLM (either Gemini or LLaMA).
+- 
 ---
 
 ## Challenges Faced & Solutions
